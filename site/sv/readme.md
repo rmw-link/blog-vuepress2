@@ -2,7 +2,7 @@
 
 Internet är som en feodal dynasti i slutet av sin existens: oligarkerna har fullbordat annekteringen av marken, monopoliserat de uppgifter som skapats av folket och satt sig på jordräntan.
 
-Plattformarna kontrollerar sorteringen av displayerna, plattformarna låser in de sociala relationerna och livet och döden är som en fisk på ett städ.
+Sorteringen av information manipuleras av plattformen, sociala relationer låses in av plattformen, och liv och död är som en fisk på ett skärbräde.
 
 Jag tycker inte om den här världen. Jag vill söka förändring.
 

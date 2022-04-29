@@ -2,7 +2,7 @@
 
 Internettet er som et feudalt dynasti, der er ved at være ved at gå til grunde: Oligarkerne har fuldført annekteringen af jorden, monopoliseret de data, som folket har skabt, og sat sig på jordrenten.
 
-Visningssortering styres af platformene, sociale relationer er låst fast af platformene, og liv og død er som en fisk på en ambolt.
+Sorteringen af information manipuleres af platformen, sociale relationer låses fast af platformen, og liv og død er som en fisk på en skæreblok.
 
 Jeg bryder mig ikke om denne verden. Jeg ønsker at søge forandring.
 

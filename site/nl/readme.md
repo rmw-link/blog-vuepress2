@@ -2,7 +2,7 @@
 
 Het internet is als een feodale dynastie aan het einde van haar bestaan. De oligarchen hebben de annexatie van het land voltooid, de door het volk gecreëerde gegevens gemonopoliseerd en op de grondpacht gezeten.
 
-Het sorteren van beeldschermen wordt gecontroleerd door de platforms, sociale relaties worden opgesloten door de platforms, en leven en dood is als een vis op een aambeeld.
+De sortering van informatie wordt gemanipuleerd door het platform, sociale relaties worden opgesloten door het platform, en leven en dood is als een vis op een hakblok.
 
 Ik hou niet van dit soort wereld. Ik wil verandering zoeken.
 

@@ -2,7 +2,7 @@
 
 Internet jest jak dynastia feudalna u schyłku swego istnienia. Oligarchowie dokonali aneksji ziemi, zmonopolizowali dane tworzone przez ludzi i siedzą na rentach gruntowych.
 
-Platformy kontrolują sortowanie ekranów, platformy blokują relacje społeczne, a życie i śmierć są jak ryba na kowadle.
+Platforma manipuluje sortowaniem informacji, platforma blokuje relacje społeczne, a życie i śmierć są jak ryba na kotlecie.
 
 Nie podoba mi się taki świat. Chcę dążyć do zmian.
 

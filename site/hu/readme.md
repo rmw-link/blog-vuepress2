@@ -2,7 +2,7 @@
 
 Az internet olyan, mint egy feudális dinasztia, amely a végét járja. Az oligarchák befejezték a földek annektálását, monopolizálták az emberek által létrehozott adatokat, és ráültek a földbérletre.
 
-A kijelzők szortírozását a platformok irányítják, a társadalmi kapcsolatokat a platformok zárják le, az élet és halál pedig olyan, mint hal az üllőn.
+Az információk szortírozását a platform manipulálja, a társadalmi kapcsolatokat a platform zárja le, az élet és halál pedig olyan, mint hal a vágóhídon.
 
 Nem szeretem ezt a fajta világot. Változásra akarok törekedni.
 

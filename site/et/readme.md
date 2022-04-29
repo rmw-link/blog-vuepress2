@@ -2,7 +2,7 @@
 
 Internet on nagu feodaalne dünastia oma eksistentsi lõpus. Oligarhid on maa annekteerimise lõpule viinud, monopoliseerinud rahva loodud andmed ja istunud maa rendile.
 
-Ekraanide sorteerimist kontrollivad platvormid, sotsiaalsed suhted on lukustatud platvormide poolt ning elu ja surm on nagu kala põrmul.
+Informatsiooni sorteerimine on platvormi poolt manipuleeritud, sotsiaalsed suhted on platvormi poolt lukustatud ning elu ja surm on nagu kala hakklihamasinas.
 
 Mulle ei meeldi selline maailm. Ma tahan otsida muutusi.
 

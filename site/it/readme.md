@@ -2,7 +2,7 @@
 
 Internet è come una dinastia feudale alla fine della sua esistenza. Gli oligarchi hanno completato l'annessione della terra, monopolizzato i dati creati dal popolo e si sono seduti sulla rendita della terra.
 
-L'ordinamento dei display è controllato dalle piattaforme, le relazioni sociali sono bloccate dalle piattaforme, e la vita e la morte sono come un pesce su un'incudine.
+L'ordinamento delle informazioni è manipolato dalla piattaforma, le relazioni sociali sono bloccate dalla piattaforma, e la vita e la morte sono come un pesce su un tagliere.
 
 Non mi piace questo tipo di mondo. Voglio cercare il cambiamento.
 

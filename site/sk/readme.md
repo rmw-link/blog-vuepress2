@@ -2,7 +2,7 @@
 
 Internet je ako feudálna dynastia na konci svojej existencie. Oligarchovia dokončili anexiu pôdy, monopolizovali údaje vytvorené ľuďmi a sadli si na pozemkovú rentu.
 
-Triedenie zobrazení je kontrolované platformami, sociálne vzťahy sú uzamknuté platformami a život a smrť sú ako ryba na kovadline.
+Triedenie informácií je manipulované platformou, sociálne vzťahy sú uzamknuté platformou a život a smrť sú ako ryba na krájaní.
 
 Nemám rád takýto svet. Chcem sa usilovať o zmenu.
 

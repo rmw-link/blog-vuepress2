@@ -2,7 +2,7 @@
 
 Internetul este ca o dinastie feudală aflată la sfârșitul existenței sale. Oligarhii au finalizat anexarea pământului, au acaparat datele create de oameni și s-au așezat pe rentă.
 
-Sortarea afișajului este controlată de platforme, relațiile sociale sunt blocate de platforme, iar viața și moartea sunt ca un pește pe o nicovală.
+Sortarea informațiilor este manipulată de platformă, relațiile sociale sunt blocate de platformă, iar viața și moartea sunt ca peștele de pe un tocător.
 
 Nu-mi place acest tip de lume. Vreau să caut schimbarea.
 

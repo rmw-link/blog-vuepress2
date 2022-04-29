@@ -2,7 +2,7 @@
 
 Internet est comme une dynastie féodale en fin d'existence : les oligarques ont achevé l'annexion des terres, accaparé les données créées par le peuple et se sont assis sur la rente foncière.
 
-Le tri des affichages est contrôlé par les plateformes, les relations sociales sont verrouillées par les plateformes, et la vie et la mort sont comme un poisson sur une enclume.
+Le tri des informations est manipulé par la plateforme, les relations sociales sont verrouillées par la plateforme, et la vie et la mort sont comme un poisson sur un billot.
 
 Je n'aime pas ce genre de monde. Je veux chercher le changement.
 

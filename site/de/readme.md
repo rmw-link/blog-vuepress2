@@ -2,7 +2,7 @@
 
 Das Internet ist wie eine Feudaldynastie am Ende ihrer Existenz: Die Oligarchen haben die Annexion des Landes abgeschlossen, die vom Volk geschaffenen Daten monopolisiert und sich auf die Pacht des Landes gesetzt.
 
-Die Sortierung der Anzeigen wird von den Plattformen kontrolliert, soziale Beziehungen werden von den Plattformen verschlossen, und Leben und Tod sind wie ein Fisch auf einem Amboss.
+Die Sortierung von Informationen wird durch die Plattform manipuliert, soziale Beziehungen werden durch die Plattform verschlossen, und Leben und Tod sind wie ein Fisch auf dem Hackklotz.
 
 Ich mag diese Art von Welt nicht. Ich möchte eine Veränderung anstreben.
 

@@ -2,7 +2,7 @@
 
 Internet on kuin feodaalidynastia olemassaolonsa loppuvaiheessa: oligarkit ovat saaneet maan haltuunsa, monopolisoineet ihmisten luoman tiedon ja istuneet maanvuokralla.
 
-Alustat hallitsevat näyttöjen lajittelua, alustat lukitsevat sosiaaliset suhteet, ja elämä ja kuolema ovat kuin kala alttarilla.
+Alusta manipuloi tiedon lajittelua, alusta lukitsee sosiaaliset suhteet, ja elämä ja kuolema ovat kuin kala paloittelulohkolla.
 
 En pidä tällaisesta maailmasta. Haluan pyrkiä muutokseen.
 

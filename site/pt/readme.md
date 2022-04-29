@@ -2,7 +2,7 @@
 
 A Internet é como uma dinastia feudal no fim da sua existência. Os oligarcas completaram a anexação do terreno, monopolizaram os dados criados pelo povo e sentaram-se sobre o aluguer do terreno.
 
-A classificação da exposição é controlada pelas plataformas, as relações sociais são trancadas pelas plataformas, e a vida e a morte é como um peixe numa bigorna.
+A classificação da informação é manipulada pela plataforma, as relações sociais são encerradas pela plataforma, e a vida e a morte é como um peixe num bloco de corte.
 
 Eu não gosto deste tipo de mundo. Quero procurar a mudança.
 

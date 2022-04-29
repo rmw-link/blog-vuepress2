@@ -2,7 +2,7 @@
 
 The Internet is like a feudal dynasty at the end, the oligarchs have completed the land annexation, monopolized the data created by the people, and sat on the land rent.
 
-Display sorting is controlled by the platform, social relationship is locked by the platform, life and death, like fish in the anvil.
+Information sorting is manipulated by the platform, social relationships are locked by the platform, life and death, such as fish in the anvil.
 
 I don't like this kind of world. I want to seek change.
 

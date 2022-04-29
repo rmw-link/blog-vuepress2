@@ -2,7 +2,7 @@
 
 Internet je kot fevdalna dinastija na koncu svojega obstoja. Oligarhi so si prisvojili zemljo, monopolizirali podatke, ki so jih ustvarili ljudje, in zaslužili zemljiško rento.
 
-Platforme nadzorujejo razvrščanje prikazov, platforme zaklepajo družbene odnose, življenje in smrt pa sta kot riba na nakovalu.
+Platforma manipulira z razvrščanjem informacij, platforma zaklene družbene odnose, življenje in smrt pa sta kot riba na sekalniku.
 
 Takšen svet mi ni všeč. Želim si prizadevati za spremembe.
 

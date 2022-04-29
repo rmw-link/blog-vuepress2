@@ -2,7 +2,7 @@
 
 Internet es como una dinastía feudal al final de su existencia. Los oligarcas han completado la anexión de la tierra, han monopolizado los datos creados por el pueblo y se han sentado sobre la renta de la tierra.
 
-La clasificación de las pantallas está controlada por las plataformas, las relaciones sociales están bloqueadas por las plataformas, y la vida y la muerte son como un pez en un yunque.
+La clasificación de la información es manipulada por la plataforma, las relaciones sociales son encerradas por la plataforma, y la vida y la muerte son como un pez en la guillotina.
 
 No me gusta este tipo de mundo. Quiero buscar el cambio.
 

@@ -2,7 +2,7 @@
 
 Internets ir kā feodāla dinastija, kas ir savas pastāvēšanas beigās. Oligarhi ir pabeiguši zemes aneksiju, monopolizējuši cilvēku radītos datus un apsēdušies pie zemes nomas maksas.
 
-Platformas kontrolē displeju šķirošanu, platformas bloķē sociālās attiecības, un dzīve un nāve ir kā zivs uz laktas.
+Ar informācijas šķirošanu manipulē platforma, sociālās attiecības ir platformas bloķētas, un dzīve un nāve ir kā zivs uz cirsmas.
 
 Man nepatīk šāda pasaule. Es vēlos meklēt pārmaiņas.
 

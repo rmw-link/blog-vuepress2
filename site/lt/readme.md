@@ -2,7 +2,7 @@
 
 Internetas yra tarsi feodalinė dinastija savo egzistavimo pabaigoje. Oligarchai užbaigė žemės aneksiją, monopolizavo žmonių sukurtus duomenis ir pasisavino žemės nuomos mokestį.
 
-Platformos kontroliuoja ekranų rūšiavimą, platformos užrakina socialinius santykius, o gyvenimas ir mirtis yra tarsi žuvis ant priekalo.
+Platforma manipuliuoja informacijos rūšiavimu, platforma užrakina socialinius santykius, o gyvenimas ir mirtis yra tarsi žuvis ant pjaustymo lentos.
 
 Man nepatinka toks pasaulis. Noriu siekti pokyčių.
 
