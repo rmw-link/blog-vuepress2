@@ -4,7 +4,7 @@ Internet se dnes podobá nemocné feudální dynastii, v níž oligarchové doko
 
 Třídění informací je manipulováno, sociální vztahy jsou uzamčeny. Platformy jsou bohy metavesmíru, žijí a umírají, a ti, kdo je zpochybňují, jsou degradováni a zakázáni.
 
-Jako ryba na kovadlině se mi nelíbí tento svět a chci se snažit o změnu.
+Jako ryba na kovadlině. Tento svět se mi nelíbí a chci usilovat o změnu.
 
 Chci obnovit nový internet: svět, **kde každý** vlastní svá data. **Ať data lidí patří lidem.**
 

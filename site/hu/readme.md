@@ -4,7 +4,7 @@ Ma az internet olyan, mint egy beteges feudális dinasztia, ahol az oligarchák 
 
 Az információk szortírozása manipulált, a társadalmi kapcsolatok el vannak zárva. A platformok a metauniverzum istenei, élnek és halnak, és akik megkérdőjelezik őket, azokat lefokozzák és kitiltják.
 
-Mint hal az üllőn, nem szeretem ezt a világot, és változásra törekszem.
+Mint hal az üllőn. Nem szeretem ezt a világot, és változtatni akarok rajta.
 
 Új internetet akarok építeni: egy olyan világot, **ahol mindenki** a saját adatainak tulajdonosa. **Az emberek adatai legyenek az embereké.**
 

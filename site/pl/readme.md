@@ -4,7 +4,7 @@ Dziś Internet przypomina chorą dynastię feudalną, w której oligarchowie dok
 
 Sortowanie informacji jest manipulowane, relacje społeczne są blokowane. Platformy są bogami metawszechświata, żyją i umierają, a ci, którzy je kwestionują, są degradowani i zakazywani.
 
-Jak ryba na kowadle, nie podoba mi się ten świat i chcę dążyć do zmian.
+Jak ryba na kowadle. Nie podoba mi się ten świat i chcę dążyć do zmian.
 
 Chcę odbudować nowy Internet: świat, **w którym każdy** jest właścicielem swoich danych. **Niech dane ludzi należą do ludzi.**
 

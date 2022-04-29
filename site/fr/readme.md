@@ -4,7 +4,7 @@ Aujourd'hui, l'internet ressemble à une dynastie féodale malade, avec des olig
 
 Le tri des informations est manipulé, les relations sociales sont verrouillées. Les plates-formes sont les dieux du méta-univers, elles vivent et meurent, et ceux qui les remettent en question sont rétrogradés et bannis.
 
-Comme un poisson sur une enclume, je n'aime pas ce monde et je veux chercher le changement.
+Comme un poisson sur une enclume. Je n'aime pas ce monde et je veux chercher le changement.
 
 Je veux reconstruire un nouvel internet : un monde **où chacun** est propriétaire de ses données. **Que les données du peuple appartiennent au peuple.**
 

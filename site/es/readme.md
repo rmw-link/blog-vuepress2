@@ -4,7 +4,7 @@ Hoy en día, Internet es como una dinastía feudal enfermiza, con oligarcas que 
 
 Se manipula la clasificación de la información, se bloquean las relaciones sociales. Las plataformas son los dioses del metauniverso, viven y mueren, y quienes las cuestionan son degradados y prohibidos.
 
-Como un pez en el yunque, no me gusta este mundo y quiero buscar el cambio.
+Como un pez en un yunque. No me gusta este mundo y quiero buscar un cambio.
 
 Quiero reconstruir una nueva Internet: un mundo **en el que todos** sean dueños de sus propios datos. **Que los datos del pueblo sean del pueblo.**
 

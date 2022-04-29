@@ -4,7 +4,7 @@ Vandaag de dag is het internet als een ziekelijke feodale dynastie, met oligarch
 
 Het sorteren van informatie wordt gemanipuleerd, sociale relaties worden opgesloten. Platforms zijn de goden van het meta-universum, levend en stervend, en zij die hen in twijfel trekken worden gedegradeerd en verbannen.
 
-Als een vis op een aambeeld, bevalt deze wereld me niet en ik wil verandering.
+Als een vis op een aambeeld. Ik hou niet van deze wereld en ik wil verandering zoeken.
 
 Ik wil een nieuw internet heropbouwen: een wereld **waarin iedereen** eigenaar is van zijn eigen gegevens. **Laat de gegevens van het volk aan het volk toebehoren.**
 

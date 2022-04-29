@@ -4,7 +4,7 @@ Today the Internet is like a sickly feudal dynasty, with oligarchs completing th
 
 Information sorting is manipulated and social relationships are locked up. The platform is the God of the meta-universe, living and dying, and those who question are demoted and banned.
 
-Like a fish on anvil, I don't like this world and I want to seek change.
+Like a fish on an anvil. I don't like this world and I want to seek change.
 
 I want to rebuild a new Internet: **let everyone own their own data. Let the people's data belong to the people.**
 

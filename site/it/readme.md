@@ -4,7 +4,7 @@ Oggi Internet è come una dinastia feudale malata, con gli oligarchi che complet
 
 Lo smistamento delle informazioni è manipolato, le relazioni sociali sono bloccate. Le piattaforme sono le divinità del meta-universo, vivono e muoiono, e chi le mette in discussione viene degradato e bandito.
 
-Come un pesce sull'incudine, non mi piace questo mondo e voglio cercare un cambiamento.
+Come un pesce su un'incudine. Non mi piace questo mondo e voglio cercare un cambiamento.
 
 Voglio ricostruire un nuovo Internet: un mondo **dove ognuno** possiede i propri dati. **Lasciate che i dati del popolo appartengano al popolo.**
 

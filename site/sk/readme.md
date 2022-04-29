@@ -4,7 +4,7 @@ Dnes je internet ako chorá feudálna dynastia, kde oligarchovia dokončujú ane
 
 Manipuluje sa s triedením informácií, sociálne vzťahy sú uzavreté. Platformy sú bohovia metavesmíru, žijú a umierajú, a tí, ktorí ich spochybňujú, sú degradovaní a zakázaní.
 
-Ako ryba na kovadline sa mi tento svet nepáči a chcem sa usilovať o zmenu.
+Ako ryba na kovadline. Tento svet sa mi nepáči a chcem sa usilovať o zmenu.
 
 Chcem obnoviť nový internet: svet, **v ktorom každý** vlastní svoje vlastné údaje. **Nech údaje ľudí patria ľuďom.**
 

@@ -4,7 +4,7 @@ Mūsdienās internets ir kā slima feodāla dinastija, kurā oligarhi pabeidz ze
 
 Tiek manipulēts ar informācijas šķirošanu, sociālās attiecības tiek bloķētas. Platformas ir meta-visuma dievi, kas dzīvo un mirst, un tie, kas tos apšauba, tiek pazemināti un aizliegti.
 
-Kā zivs uz laktas, man nepatīk šī pasaule un es vēlos meklēt pārmaiņas.
+Kā zivs uz kalauniem. Man nepatīk šī pasaule, un es vēlos meklēt pārmaiņas.
 
 Es vēlos atjaunot jaunu internetu - pasauli, kurā **katram** pieder savi dati. **Ļaujiet cilvēku datiem piederēt cilvēkiem.**
 

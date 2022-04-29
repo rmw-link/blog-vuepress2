@@ -4,7 +4,7 @@ Nykyään Internet on kuin sairaalloinen feodaalidynastia, jossa oligarkit ovat 
 
 Tietojen lajittelua manipuloidaan, sosiaaliset suhteet lukitaan. Alustat ovat meta-universumin jumalia, jotka elävät ja kuolevat, ja ne, jotka kyseenalaistavat ne, alennetaan ja kielletään.
 
-En pidä tästä maailmasta kuin kala alasin päällä, ja haluan hakea muutosta.
+Kuin kala alasin päällä. En pidä tästä maailmasta ja haluan pyrkiä muutokseen.
 
 Haluan rakentaa uuden internetin: maailman, **jossa jokainen** omistaa omat tietonsa. **Kansan tiedot kuuluvat kansalle.**
 

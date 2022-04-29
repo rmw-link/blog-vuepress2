@@ -4,7 +4,7 @@ Hoje em dia, a Internet é como uma dinastia feudal doentia, com oligarcas a com
 
 A classificação da informação é manipulada, as relações sociais são encerradas. As plataformas são os deuses do meta-universo, vivendo e morrendo, e aqueles que as questionam são despromovidos e proibidos.
 
-Como um peixe em bigorna, não gosto deste mundo e quero procurar a mudança.
+Como um peixe sobre uma bigorna. Eu não gosto deste mundo e quero procurar a mudança.
 
 Quero reconstruir uma nova Internet: um mundo **onde cada um** possua os seus próprios dados. **Deixar os dados do povo pertencerem ao povo.**
 

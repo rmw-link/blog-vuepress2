@@ -4,7 +4,7 @@ I dag er internettet som et sygeligt feudalt dynasti, hvor oligarkerne fuldender
 
 Informationssortering manipuleres, sociale relationer låses inde. Platforme er meta-universets guder, der lever og dør, og de, der sætter spørgsmålstegn ved dem, bliver degraderet og forbudt.
 
-Som en fisk på en ambolt kan jeg ikke lide denne verden, og jeg ønsker at søge forandring.
+Som en fisk på en ambolt. Jeg bryder mig ikke om denne verden, og jeg ønsker at søge forandring.
 
 Jeg ønsker at genopbygge et nyt internet: en verden, **hvor alle** ejer deres egne data. **Folkets data skal tilhøre folket.**
 

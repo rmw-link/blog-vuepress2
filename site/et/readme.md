@@ -4,7 +4,7 @@ T채nap채eval on internet nagu haige feodaalne d체nastia, kus oligarhid viivad l�
 
 Teabe sorteerimine on manipuleeritud, sotsiaalsed suhted on lukustatud. Platvormid on meta-universumi jumalad, kes elavad ja surevad, ning need, kes neid kahtluse alla seavad, alandatakse ja keelatakse.
 
-Nagu kala p천rmul, ei meeldi mulle see maailm ja ma tahan otsida muutusi.
+Nagu kala p천rgul. Mulle ei meeldi see maailm ja ma tahan otsida muutusi.
 
 Ma tahan ehitada 체les uue interneti: maailma, **kus iga체ks** on oma andmete omanik. **Andmed kuulugu rahva andmed rahvale.**
 

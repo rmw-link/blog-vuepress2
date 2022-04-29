@@ -4,7 +4,7 @@
 
 Sortarea informațiilor este manipulată, relațiile sociale sunt blocate. Platformele sunt zeii metauniversului, care trăiesc și mor, iar cei care le contestă sunt retrogradați și interziși.
 
-Ca un pește pe nicovală, nu-mi place această lume și vreau să caut schimbarea.
+Ca un pește pe o nicovală. Nu-mi place această lume și vreau să caut schimbarea.
 
 Vreau să reconstruiesc un nou internet: o lume în **care fiecare** își deține propriile date. **Lăsați datele oamenilor să aparțină oamenilor.**
 

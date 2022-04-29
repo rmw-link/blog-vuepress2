@@ -4,7 +4,7 @@ Danes je internet podoben bolni fevdalni dinastiji, v kateri oligarhi dokončuje
 
 Z razvrščanjem informacij se manipulira, socialni odnosi so zaklenjeni. Platforme so bogovi meta-vesolja, ki živijo in umirajo, tisti, ki jim oporekajo, pa so degradirani in prepovedani.
 
-Kot riba na nakovalu mi ta svet ni všeč in želim si prizadevati za spremembo.
+Kot riba na nakovalu. Ta svet mi ni všeč in želim si prizadevati za spremembe.
 
 Želim obnoviti nov internet: svet, **v** katerem si **vsakdo** lasti svoje podatke. **Naj podatki ljudi pripadajo ljudem.**
 

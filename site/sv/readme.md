@@ -4,7 +4,7 @@ I dag är Internet som en sjuklig feodal dynasti, med oligarker som fullbordar a
 
 Informationssortering manipuleras, sociala relationer låses in. Plattformarna är metauniversums gudar, de lever och dör, och de som ifrågasätter dem degraderas och förbjuds.
 
-Som en fisk på ett städ, gillar jag inte den här världen och jag vill försöka förändra den.
+Som en fisk på ett städ. Jag tycker inte om den här världen och jag vill försöka förändra den.
 
 Jag vill bygga upp ett nytt Internet: en värld där **alla** äger sina egna data. **Låt folkets uppgifter tillhöra folket.**
 

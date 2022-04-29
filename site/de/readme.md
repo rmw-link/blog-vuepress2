@@ -4,7 +4,7 @@ Heute gleicht das Internet einer kränkelnden Feudaldynastie, in der Oligarchen 
 
 Die Sortierung von Informationen wird manipuliert, soziale Beziehungen werden unter Verschluss gehalten. Plattformen sind die Götter des Meta-Universums, sie leben und sterben, und wer sie in Frage stellt, wird degradiert und verbannt.
 
-Wie ein Fisch auf dem Amboss gefällt mir diese Welt nicht und ich möchte sie verändern.
+Wie ein Fisch auf einem Amboss. Mir gefällt diese Welt nicht und ich möchte sie verändern.
 
 Ich möchte ein neues Internet aufbauen: eine Welt **, in der jeder** über seine eigenen Daten verfügt. **Die Daten des Volkes sollen dem Volk gehören.**
 

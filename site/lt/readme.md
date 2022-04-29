@@ -4,7 +4,7 @@
 
 Manipuliuojama informacijos rūšiavimu, uždaromi socialiniai santykiai. Platformos yra meta-visatos dievai, gyvenantys ir mirštantys, o tie, kurie jomis abejoja, yra pažeminami ir uždraudžiami.
 
-Man, kaip žuviai ant priekalo, nepatinka šis pasaulis, todėl noriu siekti pokyčių.
+Kaip žuvis ant priekalo. Man nepatinka šis pasaulis ir aš noriu siekti pokyčių.
 
 Noriu atkurti naują internetą - pasaulį, kuriame **kiekvienas būtų** savo duomenų savininkas. **Tegul žmonių duomenys priklauso žmonėms.**
 
