@@ -1,10 +1,10 @@
 # Prólogo
 
-A Internet é como uma dinastia feudal no fim da sua existência. Os oligarcas completaram a anexação do terreno, monopolizaram os dados criados pelo povo e sentaram-se sobre o aluguer do terreno.
+Hoje em dia, a Internet é como uma dinastia feudal doentia, com oligarcas a completarem a anexação de terras, monopolizando os dados criados pelo povo e sentados em terras alugadas.
 
-A classificação da informação é manipulada pela plataforma, as relações sociais são encerradas pela plataforma, e a vida e a morte é como um peixe num bloco de corte.
+A classificação da informação é manipulada, as relações sociais são encerradas. As plataformas são os deuses do meta-universo, vivendo e morrendo, e aqueles que as questionam são despromovidos e proibidos.
 
-Eu não gosto deste tipo de mundo. Quero procurar a mudança.
+Como um peixe em bigorna, não gosto deste mundo e quero procurar a mudança.
 
 Quero reconstruir uma nova Internet: um mundo **onde cada um** possua os seus próprios dados. **Deixar os dados do povo pertencerem ao povo.**
 

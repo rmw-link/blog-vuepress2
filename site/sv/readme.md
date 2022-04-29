@@ -1,10 +1,10 @@
 # Prolog
 
-Internet är som en feodal dynasti i slutet av sin existens: oligarkerna har fullbordat annekteringen av marken, monopoliserat de uppgifter som skapats av folket och satt sig på jordräntan.
+I dag är Internet som en sjuklig feodal dynasti, med oligarker som fullbordar annekteringen av mark, monopoliserar de uppgifter som skapas av folket och sitter på jordräntorna.
 
-Sorteringen av information manipuleras av plattformen, sociala relationer låses in av plattformen, och liv och död är som en fisk på ett skärbräde.
+Informationssortering manipuleras, sociala relationer låses in. Plattformarna är metauniversums gudar, de lever och dör, och de som ifrågasätter dem degraderas och förbjuds.
 
-Jag tycker inte om den här världen. Jag vill söka förändring.
+Som en fisk på ett städ, gillar jag inte den här världen och jag vill försöka förändra den.
 
 Jag vill bygga upp ett nytt Internet: en värld där **alla** äger sina egna data. **Låt folkets uppgifter tillhöra folket.**
 

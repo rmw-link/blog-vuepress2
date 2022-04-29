@@ -1,10 +1,10 @@
 # Prólogo
 
-Internet es como una dinastía feudal al final de su existencia. Los oligarcas han completado la anexión de la tierra, han monopolizado los datos creados por el pueblo y se han sentado sobre la renta de la tierra.
+Hoy en día, Internet es como una dinastía feudal enfermiza, con oligarcas que completan la anexión de tierras, acaparando los datos creados por el pueblo y sentándose sobre las rentas de la tierra.
 
-La clasificación de la información es manipulada por la plataforma, las relaciones sociales son encerradas por la plataforma, y la vida y la muerte son como un pez en la guillotina.
+Se manipula la clasificación de la información, se bloquean las relaciones sociales. Las plataformas son los dioses del metauniverso, viven y mueren, y quienes las cuestionan son degradados y prohibidos.
 
-No me gusta este tipo de mundo. Quiero buscar el cambio.
+Como un pez en el yunque, no me gusta este mundo y quiero buscar el cambio.
 
 Quiero reconstruir una nueva Internet: un mundo **en el que todos** sean dueños de sus propios datos. **Que los datos del pueblo sean del pueblo.**
 

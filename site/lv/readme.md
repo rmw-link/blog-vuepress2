@@ -1,10 +1,10 @@
 # Prologs
 
-Internets ir kā feodāla dinastija, kas ir savas pastāvēšanas beigās. Oligarhi ir pabeiguši zemes aneksiju, monopolizējuši cilvēku radītos datus un apsēdušies pie zemes nomas maksas.
+Mūsdienās internets ir kā slima feodāla dinastija, kurā oligarhi pabeidz zemes aneksiju, monopolizē cilvēku radītos datus un iekasē zemes rentes.
 
-Ar informācijas šķirošanu manipulē platforma, sociālās attiecības ir platformas bloķētas, un dzīve un nāve ir kā zivs uz cirsmas.
+Tiek manipulēts ar informācijas šķirošanu, sociālās attiecības tiek bloķētas. Platformas ir meta-visuma dievi, kas dzīvo un mirst, un tie, kas tos apšauba, tiek pazemināti un aizliegti.
 
-Man nepatīk šāda pasaule. Es vēlos meklēt pārmaiņas.
+Kā zivs uz laktas, man nepatīk šī pasaule un es vēlos meklēt pārmaiņas.
 
 Es vēlos atjaunot jaunu internetu - pasauli, kurā **katram** pieder savi dati. **Ļaujiet cilvēku datiem piederēt cilvēkiem.**
 

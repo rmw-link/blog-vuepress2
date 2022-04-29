@@ -1,10 +1,10 @@
 # Prolog
 
-Internettet er som et feudalt dynasti, der er ved at være ved at gå til grunde: Oligarkerne har fuldført annekteringen af jorden, monopoliseret de data, som folket har skabt, og sat sig på jordrenten.
+I dag er internettet som et sygeligt feudalt dynasti, hvor oligarkerne fuldender annekteringen af jord, monopoliserer de data, som folket skaber, og sidder på jordrenterne.
 
-Sorteringen af information manipuleres af platformen, sociale relationer låses fast af platformen, og liv og død er som en fisk på en skæreblok.
+Informationssortering manipuleres, sociale relationer låses inde. Platforme er meta-universets guder, der lever og dør, og de, der sætter spørgsmålstegn ved dem, bliver degraderet og forbudt.
 
-Jeg bryder mig ikke om denne verden. Jeg ønsker at søge forandring.
+Som en fisk på en ambolt kan jeg ikke lide denne verden, og jeg ønsker at søge forandring.
 
 Jeg ønsker at genopbygge et nyt internet: en verden, **hvor alle** ejer deres egne data. **Folkets data skal tilhøre folket.**
 

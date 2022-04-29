@@ -1,10 +1,10 @@
 # Prologul
 
-Internetul este ca o dinastie feudală aflată la sfârșitul existenței sale. Oligarhii au finalizat anexarea pământului, au acaparat datele create de oameni și s-au așezat pe rentă.
+În prezent, internetul este ca o dinastie feudală bolnavă, cu oligarhi care finalizează anexarea terenurilor, monopolizând datele create de oameni și stând pe rente funciare.
 
-Sortarea informațiilor este manipulată de platformă, relațiile sociale sunt blocate de platformă, iar viața și moartea sunt ca peștele de pe un tocător.
+Sortarea informațiilor este manipulată, relațiile sociale sunt blocate. Platformele sunt zeii metauniversului, care trăiesc și mor, iar cei care le contestă sunt retrogradați și interziși.
 
-Nu-mi place acest tip de lume. Vreau să caut schimbarea.
+Ca un pește pe nicovală, nu-mi place această lume și vreau să caut schimbarea.
 
 Vreau să reconstruiesc un nou internet: o lume în **care fiecare** își deține propriile date. **Lăsați datele oamenilor să aparțină oamenilor.**
 

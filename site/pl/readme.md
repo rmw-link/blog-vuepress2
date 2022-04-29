@@ -1,10 +1,10 @@
 # Prolog
 
-Internet jest jak dynastia feudalna u schyłku swego istnienia. Oligarchowie dokonali aneksji ziemi, zmonopolizowali dane tworzone przez ludzi i siedzą na rentach gruntowych.
+Dziś Internet przypomina chorą dynastię feudalną, w której oligarchowie dokonują aneksji ziemi, monopolizują dane tworzone przez ludzi i siedzą na rentach gruntowych.
 
-Platforma manipuluje sortowaniem informacji, platforma blokuje relacje społeczne, a życie i śmierć są jak ryba na kotlecie.
+Sortowanie informacji jest manipulowane, relacje społeczne są blokowane. Platformy są bogami metawszechświata, żyją i umierają, a ci, którzy je kwestionują, są degradowani i zakazywani.
 
-Nie podoba mi się taki świat. Chcę dążyć do zmian.
+Jak ryba na kowadle, nie podoba mi się ten świat i chcę dążyć do zmian.
 
 Chcę odbudować nowy Internet: świat, **w którym każdy** jest właścicielem swoich danych. **Niech dane ludzi należą do ludzi.**
 

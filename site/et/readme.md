@@ -1,10 +1,10 @@
 # Proloog
 
-Internet on nagu feodaalne dünastia oma eksistentsi lõpus. Oligarhid on maa annekteerimise lõpule viinud, monopoliseerinud rahva loodud andmed ja istunud maa rendile.
+Tänapäeval on internet nagu haige feodaalne dünastia, kus oligarhid viivad lõpule maa annekteerimise, monopoliseerivad inimeste loodud andmeid ja istuvad maa rendi peal.
 
-Informatsiooni sorteerimine on platvormi poolt manipuleeritud, sotsiaalsed suhted on platvormi poolt lukustatud ning elu ja surm on nagu kala hakklihamasinas.
+Teabe sorteerimine on manipuleeritud, sotsiaalsed suhted on lukustatud. Platvormid on meta-universumi jumalad, kes elavad ja surevad, ning need, kes neid kahtluse alla seavad, alandatakse ja keelatakse.
 
-Mulle ei meeldi selline maailm. Ma tahan otsida muutusi.
+Nagu kala põrmul, ei meeldi mulle see maailm ja ma tahan otsida muutusi.
 
 Ma tahan ehitada üles uue interneti: maailma, **kus igaüks** on oma andmete omanik. **Andmed kuulugu rahva andmed rahvale.**
 

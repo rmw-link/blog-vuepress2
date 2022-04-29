@@ -1,10 +1,10 @@
 # Prolog
 
-Das Internet ist wie eine Feudaldynastie am Ende ihrer Existenz: Die Oligarchen haben die Annexion des Landes abgeschlossen, die vom Volk geschaffenen Daten monopolisiert und sich auf die Pacht des Landes gesetzt.
+Heute gleicht das Internet einer kränkelnden Feudaldynastie, in der Oligarchen die Aneignung von Grund und Boden vollenden, die von den Menschen geschaffenen Daten monopolisieren und auf den Landrenten sitzen.
 
-Die Sortierung von Informationen wird durch die Plattform manipuliert, soziale Beziehungen werden durch die Plattform verschlossen, und Leben und Tod sind wie ein Fisch auf dem Hackklotz.
+Die Sortierung von Informationen wird manipuliert, soziale Beziehungen werden unter Verschluss gehalten. Plattformen sind die Götter des Meta-Universums, sie leben und sterben, und wer sie in Frage stellt, wird degradiert und verbannt.
 
-Ich mag diese Art von Welt nicht. Ich möchte eine Veränderung anstreben.
+Wie ein Fisch auf dem Amboss gefällt mir diese Welt nicht und ich möchte sie verändern.
 
 Ich möchte ein neues Internet aufbauen: eine Welt **, in der jeder** über seine eigenen Daten verfügt. **Die Daten des Volkes sollen dem Volk gehören.**
 

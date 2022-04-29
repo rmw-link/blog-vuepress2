@@ -1,10 +1,10 @@
 # Prologas
 
-Internetas yra tarsi feodalinė dinastija savo egzistavimo pabaigoje. Oligarchai užbaigė žemės aneksiją, monopolizavo žmonių sukurtus duomenis ir pasisavino žemės nuomos mokestį.
+Šiandien internetas primena ligotą feodalinę dinastiją, kurioje oligarchai baigia aneksuoti žemę, monopolizuoja žmonių sukurtus duomenis ir gauna žemės rentą.
 
-Platforma manipuliuoja informacijos rūšiavimu, platforma užrakina socialinius santykius, o gyvenimas ir mirtis yra tarsi žuvis ant pjaustymo lentos.
+Manipuliuojama informacijos rūšiavimu, uždaromi socialiniai santykiai. Platformos yra meta-visatos dievai, gyvenantys ir mirštantys, o tie, kurie jomis abejoja, yra pažeminami ir uždraudžiami.
 
-Man nepatinka toks pasaulis. Noriu siekti pokyčių.
+Man, kaip žuviai ant priekalo, nepatinka šis pasaulis, todėl noriu siekti pokyčių.
 
 Noriu atkurti naują internetą - pasaulį, kuriame **kiekvienas būtų** savo duomenų savininkas. **Tegul žmonių duomenys priklauso žmonėms.**
 

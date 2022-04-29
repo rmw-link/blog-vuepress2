@@ -1,10 +1,10 @@
 # Prologi
 
-Internet on kuin feodaalidynastia olemassaolonsa loppuvaiheessa: oligarkit ovat saaneet maan haltuunsa, monopolisoineet ihmisten luoman tiedon ja istuneet maanvuokralla.
+Nykyään Internet on kuin sairaalloinen feodaalidynastia, jossa oligarkit ovat saattaneet päätökseen maa-alueiden ankkuroinnin, monopolisoivat ihmisten luomia tietoja ja istuvat maanvuokrissa.
 
-Alusta manipuloi tiedon lajittelua, alusta lukitsee sosiaaliset suhteet, ja elämä ja kuolema ovat kuin kala paloittelulohkolla.
+Tietojen lajittelua manipuloidaan, sosiaaliset suhteet lukitaan. Alustat ovat meta-universumin jumalia, jotka elävät ja kuolevat, ja ne, jotka kyseenalaistavat ne, alennetaan ja kielletään.
 
-En pidä tällaisesta maailmasta. Haluan pyrkiä muutokseen.
+En pidä tästä maailmasta kuin kala alasin päällä, ja haluan hakea muutosta.
 
 Haluan rakentaa uuden internetin: maailman, **jossa jokainen** omistaa omat tietonsa. **Kansan tiedot kuuluvat kansalle.**
 

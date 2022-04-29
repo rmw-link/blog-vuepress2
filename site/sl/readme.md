@@ -1,10 +1,10 @@
 # Prolog
 
-Internet je kot fevdalna dinastija na koncu svojega obstoja. Oligarhi so si prisvojili zemljo, monopolizirali podatke, ki so jih ustvarili ljudje, in zaslužili zemljiško rento.
+Danes je internet podoben bolni fevdalni dinastiji, v kateri oligarhi dokončujejo priključitev zemljišč, monopolizirajo podatke, ki jih ustvarjajo ljudje, in se okoriščajo z zemljiškimi rentami.
 
-Platforma manipulira z razvrščanjem informacij, platforma zaklene družbene odnose, življenje in smrt pa sta kot riba na sekalniku.
+Z razvrščanjem informacij se manipulira, socialni odnosi so zaklenjeni. Platforme so bogovi meta-vesolja, ki živijo in umirajo, tisti, ki jim oporekajo, pa so degradirani in prepovedani.
 
-Takšen svet mi ni všeč. Želim si prizadevati za spremembe.
+Kot riba na nakovalu mi ta svet ni všeč in želim si prizadevati za spremembo.
 
 Želim obnoviti nov internet: svet, **v** katerem si **vsakdo** lasti svoje podatke. **Naj podatki ljudi pripadajo ljudem.**
 

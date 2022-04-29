@@ -1,10 +1,10 @@
 # Prologo
 
-Internet è come una dinastia feudale alla fine della sua esistenza. Gli oligarchi hanno completato l'annessione della terra, monopolizzato i dati creati dal popolo e si sono seduti sulla rendita della terra.
+Oggi Internet è come una dinastia feudale malata, con gli oligarchi che completano l'annessione delle terre, monopolizzando i dati creati dal popolo e sedendosi sulle rendite dei terreni.
 
-L'ordinamento delle informazioni è manipolato dalla piattaforma, le relazioni sociali sono bloccate dalla piattaforma, e la vita e la morte sono come un pesce su un tagliere.
+Lo smistamento delle informazioni è manipolato, le relazioni sociali sono bloccate. Le piattaforme sono le divinità del meta-universo, vivono e muoiono, e chi le mette in discussione viene degradato e bandito.
 
-Non mi piace questo tipo di mondo. Voglio cercare il cambiamento.
+Come un pesce sull'incudine, non mi piace questo mondo e voglio cercare un cambiamento.
 
 Voglio ricostruire un nuovo Internet: un mondo **dove ognuno** possiede i propri dati. **Lasciate che i dati del popolo appartengano al popolo.**
 

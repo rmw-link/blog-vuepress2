@@ -1,10 +1,10 @@
 # Proloog
 
-Het internet is als een feodale dynastie aan het einde van haar bestaan. De oligarchen hebben de annexatie van het land voltooid, de door het volk gecreëerde gegevens gemonopoliseerd en op de grondpacht gezeten.
+Vandaag de dag is het internet als een ziekelijke feodale dynastie, met oligarchen die de annexatie van land voltooien, de door het volk gecreëerde gegevens monopoliseren en op de pacht van land zitten.
 
-De sortering van informatie wordt gemanipuleerd door het platform, sociale relaties worden opgesloten door het platform, en leven en dood is als een vis op een hakblok.
+Het sorteren van informatie wordt gemanipuleerd, sociale relaties worden opgesloten. Platforms zijn de goden van het meta-universum, levend en stervend, en zij die hen in twijfel trekken worden gedegradeerd en verbannen.
 
-Ik hou niet van dit soort wereld. Ik wil verandering zoeken.
+Als een vis op een aambeeld, bevalt deze wereld me niet en ik wil verandering.
 
 Ik wil een nieuw internet heropbouwen: een wereld **waarin iedereen** eigenaar is van zijn eigen gegevens. **Laat de gegevens van het volk aan het volk toebehoren.**
 

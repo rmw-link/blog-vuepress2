@@ -1,10 +1,10 @@
 # Prológ
 
-Internet je ako feudálna dynastia na konci svojej existencie. Oligarchovia dokončili anexiu pôdy, monopolizovali údaje vytvorené ľuďmi a sadli si na pozemkovú rentu.
+Dnes je internet ako chorá feudálna dynastia, kde oligarchovia dokončujú anexiu pôdy, monopolizujú údaje vytvorené ľuďmi a sedia na pozemkovej rente.
 
-Triedenie informácií je manipulované platformou, sociálne vzťahy sú uzamknuté platformou a život a smrť sú ako ryba na krájaní.
+Manipuluje sa s triedením informácií, sociálne vzťahy sú uzavreté. Platformy sú bohovia metavesmíru, žijú a umierajú, a tí, ktorí ich spochybňujú, sú degradovaní a zakázaní.
 
-Nemám rád takýto svet. Chcem sa usilovať o zmenu.
+Ako ryba na kovadline sa mi tento svet nepáči a chcem sa usilovať o zmenu.
 
 Chcem obnoviť nový internet: svet, **v ktorom každý** vlastní svoje vlastné údaje. **Nech údaje ľudí patria ľuďom.**
 

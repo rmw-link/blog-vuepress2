@@ -1,10 +1,10 @@
 # Prológus
 
-Az internet olyan, mint egy feudális dinasztia, amely a végét járja. Az oligarchák befejezték a földek annektálását, monopolizálták az emberek által létrehozott adatokat, és ráültek a földbérletre.
+Ma az internet olyan, mint egy beteges feudális dinasztia, ahol az oligarchák befejezik a földek annektálását, monopolizálják az emberek által létrehozott adatokat és ülnek a földbérleteken.
 
-Az információk szortírozását a platform manipulálja, a társadalmi kapcsolatokat a platform zárja le, az élet és halál pedig olyan, mint hal a vágóhídon.
+Az információk szortírozása manipulált, a társadalmi kapcsolatok el vannak zárva. A platformok a metauniverzum istenei, élnek és halnak, és akik megkérdőjelezik őket, azokat lefokozzák és kitiltják.
 
-Nem szeretem ezt a fajta világot. Változásra akarok törekedni.
+Mint hal az üllőn, nem szeretem ezt a világot, és változásra törekszem.
 
 Új internetet akarok építeni: egy olyan világot, **ahol mindenki** a saját adatainak tulajdonosa. **Az emberek adatai legyenek az embereké.**
 

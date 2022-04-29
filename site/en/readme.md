@@ -1,10 +1,10 @@
 # Prologue
 
-The Internet is like a feudal dynasty at the end, the oligarchs have completed the land annexation, monopolized the data created by the people, and sat on the land rent.
+Today the Internet is like a sickly feudal dynasty, with oligarchs completing the annexation of land, monopolizing the data created by the people, and sitting on the land rent.
 
-Information sorting is manipulated by the platform, social relationships are locked by the platform, life and death, such as fish in the anvil.
+Information sorting is manipulated and social relationships are locked up. The platform is the God of the meta-universe, living and dying, and those who question are demoted and banned.
 
-I don't like this kind of world. I want to seek change.
+Like a fish on anvil, I don't like this world and I want to seek change.
 
 I want to rebuild a new Internet: **let everyone own their own data. Let the people's data belong to the people.**
 

@@ -1,10 +1,10 @@
 # Prologue
 
-Internet est comme une dynastie féodale en fin d'existence : les oligarques ont achevé l'annexion des terres, accaparé les données créées par le peuple et se sont assis sur la rente foncière.
+Aujourd'hui, l'internet ressemble à une dynastie féodale malade, avec des oligarques qui achèvent d'annexer des terres, de monopoliser les données créées par le peuple et de s'asseoir sur les rentes foncières.
 
-Le tri des informations est manipulé par la plateforme, les relations sociales sont verrouillées par la plateforme, et la vie et la mort sont comme un poisson sur un billot.
+Le tri des informations est manipulé, les relations sociales sont verrouillées. Les plates-formes sont les dieux du méta-univers, elles vivent et meurent, et ceux qui les remettent en question sont rétrogradés et bannis.
 
-Je n'aime pas ce genre de monde. Je veux chercher le changement.
+Comme un poisson sur une enclume, je n'aime pas ce monde et je veux chercher le changement.
 
 Je veux reconstruire un nouvel internet : un monde **où chacun** est propriétaire de ses données. **Que les données du peuple appartiennent au peuple.**
 
