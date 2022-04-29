@@ -593,7 +593,7 @@ cargo build \
 mv ./target/@(TARGET)/release/librust.a ./target/release
 ```
 
-## Plėtros problemos : Atmintinė
+## Pastabos dėl plėtros
 
 ### `quickjs_ffi`
 

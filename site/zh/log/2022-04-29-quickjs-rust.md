@@ -427,7 +427,7 @@ cargo build \
 mv ./target/@(TARGET)/release/librust.a ./target/release
 ```
 
-## 开发遇到的问题 : 备忘
+## 开发备忘
 
 ### `quickjs_ffi`
 

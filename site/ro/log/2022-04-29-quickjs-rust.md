@@ -593,7 +593,7 @@ cargo build \
 mv ./target/@(TARGET)/release/librust.a ./target/release
 ```
 
-## Probleme de dezvoltare : Memo
+## Note de dezvoltare
 
 ### `quickjs_ffi`
 

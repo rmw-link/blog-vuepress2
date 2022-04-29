@@ -593,7 +593,7 @@ cargo build \
 mv ./target/@(TARGET)/release/librust.a ./target/release
 ```
 
-## Attīstības problēmas : Atzinums
+## Attīstības piezīmes
 
 ### `quickjs_ffi`
 

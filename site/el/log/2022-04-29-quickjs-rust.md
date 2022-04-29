@@ -593,7 +593,7 @@ cargo build \
 mv ./target/@(TARGET)/release/librust.a ./target/release
 ```
 
-## Προβλήματα ανάπτυξης : Υπόμνημα
+## Σημειώσεις ανάπτυξης
 
 ### `quickjs_ffi`
 

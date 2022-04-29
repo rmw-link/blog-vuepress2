@@ -593,7 +593,7 @@ cargo build \
 mv ./target/@(TARGET)/release/librust.a ./target/release
 ```
 
-## Проблеми на развитието : Меморандум
+## Бележки за развитието
 
 ### `quickjs_ffi`
 
