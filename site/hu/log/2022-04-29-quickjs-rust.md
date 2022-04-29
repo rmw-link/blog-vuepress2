@@ -5,10 +5,11 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## Eredet
+## A keletkezés
 
-A [Kraken](https://openkraken.com) egy nagy teljesítményű webes renderelőmotor, amely a `Flutter` címen alapul, és a [quickjs-t](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) használja szkriptelőmotornak.
+A [Kraken](https://openkraken.com) egy nagy teljesítményű webes renderelőmotor, amely a `Flutter` oldalon alapul, és a [quickjs-t](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) használja szkriptelőmotorként.
 
 A Krakenhez akartam írni néhány bővítményt a `rust` segítségével.
 

@@ -5,8 +5,9 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## Origine
+## Geneza
 
 [Kraken](https://openkraken.com) este un motor de randare web de înaltă performanță bazat pe `Flutter`, care folosește [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) ca motor de scripting.
 

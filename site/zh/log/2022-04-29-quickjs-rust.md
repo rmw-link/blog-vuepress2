@@ -1,5 +1,3 @@
-<!-- 本文件由 ./make.md 自动生成，请不要直接修改此文件 -->
-
 # 修改 quickjs 以导入 rust 函数 —— 一种扩展北海的新思路
 
 ## 代码库
@@ -7,6 +5,7 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
 ## 起因
 

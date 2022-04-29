@@ -5,8 +5,9 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## Izvor
+## Geneza
 
 [Kraken](https://openkraken.com) je visoko zmogljiv spletni pogon za upodabljanje, ki temelji na spletnem mestu `Flutter` in kot skriptni pogon uporablja [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs).
 

@@ -5,10 +5,11 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## Προέλευση
+## Η γένεση
 
-Το [Kraken](https://openkraken.com) είναι μια μηχανή απόδοσης ιστοσελίδων υψηλής απόδοσης που βασίζεται στο `Flutter`, η οποία χρησιμοποιεί το [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) ως μηχανή σεναρίων.
+Το [Kraken](https://openkraken.com) είναι μια μηχανή απόδοσης ιστοσελίδων υψηλής απόδοσης βασισμένη στο `Flutter`, η οποία χρησιμοποιεί το [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) ως μηχανή σεναρίων.
 
 Ήθελα να γράψω κάποιες επεκτάσεις στο Kraken χρησιμοποιώντας το `rust`.
 

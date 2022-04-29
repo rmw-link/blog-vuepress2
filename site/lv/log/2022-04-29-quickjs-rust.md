@@ -5,10 +5,11 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## Izcelsme
+## Pirmsākumi
 
-[Kraken](https://openkraken.com) ir augstas veiktspējas tīmekļa atveidošanas rīks, kas balstīts uz `Flutter`, kurā kā skriptu rīks tiek izmantots [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs).
+[Kraken](https://openkraken.com) ir augstas veiktspējas tīmekļa atveidošanas rīks, kura pamatā ir `Flutter`, kas izmanto [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) kā skriptu rīku.
 
 Es gribēju uzrakstīt dažus Kraken paplašinājumus, izmantojot `rust`.
 

@@ -5,10 +5,11 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
 ## Kilmė
 
-" [Kraken"](https://openkraken.com) yra didelio našumo žiniatinklio atvaizdavimo variklis, pagrįstas `Flutter`, kuriame kaip scenarijų variklis naudojamas [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs).
+" [Kraken"](https://openkraken.com) yra didelio našumo žiniatinklio atvaizdavimo variklis, paremtas `Flutter`, kuriame kaip scenarijų variklis naudojamas [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs).
 
 Norėjau parašyti keletą "Kraken" plėtinių naudodamas `rust`.
 

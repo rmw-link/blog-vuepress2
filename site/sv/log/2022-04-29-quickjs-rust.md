@@ -5,8 +5,9 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## Ursprung
+## Uppkomsten
 
 [Kraken](https://openkraken.com) är en högpresterande webbrenderingsmotor baserad på `Flutter`, som använder [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) som skriptmotor.
 

@@ -5,10 +5,11 @@
 * [ギブス](https://github.com/rmw-lib/quickjs-rust)
 * [ゲテモノ](https://gitee.com/rmw-link/quickjs-rust)
 * [ギトフリック](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [ビットバケット](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## 起源
+## 創世記
 
-[Krakenは](https://openkraken.com) 、 `Flutter` 、スクリプトエンジンとして [quickjsを](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs)使用した高性能なWebレンダリングエンジンです。
+[Krakenは](https://openkraken.com) 、 `Flutter` 、スクリプトエンジンとして [quickjsを](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs)使用した、高性能なWebレンダリングエンジンです。
 
 `rust` を使って Kraken の拡張をいくつか書きたいと思いました。
 

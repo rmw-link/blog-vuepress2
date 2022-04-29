@@ -5,10 +5,11 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## Alkuperä
+## Syntyprosessi
 
-[Kraken](https://openkraken.com) on suorituskykyinen web-renderöintimoottori, joka perustuu osoitteeseen `Flutter` ja käyttää [quickjs:](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) ää skriptausmoottorina.
+[Kraken](https://openkraken.com) on suorituskykyinen web-renderöintimoottori, joka perustuu osoitteeseen `Flutter` ja käyttää skriptausmoottorina [quickjs:ää](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs).
 
 Halusin kirjoittaa joitakin laajennuksia Krakeniin käyttäen `rust`.
 

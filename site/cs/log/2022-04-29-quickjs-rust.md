@@ -5,8 +5,9 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## Původ
+## Geneze
 
 [Kraken](https://openkraken.com) je vysoce výkonné vykreslovací jádro webu založené na adrese `Flutter`, které jako skriptovací jádro používá [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs).
 

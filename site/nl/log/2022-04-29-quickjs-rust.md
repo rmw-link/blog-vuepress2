@@ -5,10 +5,11 @@
 * [github](https://github.com/rmw-lib/quickjs-rust)
 * [gitee](https://gitee.com/rmw-link/quickjs-rust)
 * [gitflic](https://gitflic.ru/project/rmw-link/quickjs-rust)
+* [bitbucket](https://bitbucket.org/rmw-link/quickjs-rust)
 
-## Oorsprong
+## Het ontstaan
 
-[Kraken](https://openkraken.com) is een krachtige web rendering engine gebaseerd op `Flutter`, die [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) gebruikt als zijn scripting engine.
+[Kraken](https://openkraken.com) is een krachtige web rendering engine gebaseerd op `Flutter`, die [quickjs](https://github.com/openkraken/kraken/tree/main/bridge/third_party/quickjs) gebruikt als scripting engine.
 
 Ik wilde wat uitbreidingen schrijven voor Kraken met behulp van `rust`.
 
