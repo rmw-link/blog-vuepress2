@@ -1,0 +1,1 @@
+module.exports = {lang:'fi',title:'rmw.link',description:'Alas datan hegemonia · Cyberland Revolution'}

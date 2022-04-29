@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@rmw/axios": "^0.0.16",
+    "@rmw/deepl-markdown-translate": "^0.0.7",
+    "@rmw/thisdir": "^0.0.2",
+    "@rmw/walk": "^0.0.7",
+    "await-sleep": "^0.0.1",
+    "blake3": "^2.1.7",
+    "html-minifier-terser": "^6.1.0",
+    "md-padding": "^1.1.1",
+    "msgpackr": "^1.5.6",
+    "p-limit": "^4.0.0"
+  }
+}

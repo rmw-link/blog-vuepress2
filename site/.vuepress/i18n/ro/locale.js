@@ -1,0 +1,1 @@
+module.exports = {lang:'ro',title:'rmw.link',description:'Jos cu hegemonia datelor · Cyberland Revolution'}

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+DIR=$(cd "$(dirname "$0")/../.."; pwd)
+set -ex
+
+./script/hook.coffee
+
+cd site
+git add -u
+git add .
+

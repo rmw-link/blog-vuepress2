@@ -1,0 +1,1 @@
+module.exports = {lang:'hu',title:'rmw.link',description:'Le az adathegemóniával · Cyberland Revolution'}

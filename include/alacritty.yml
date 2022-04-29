@@ -1,0 +1,44 @@
+selection:
+  save_to_clipboard: true
+
+tabspaces: 2
+
+key_bindings:
+  - { key: Back, action:  ReceiveChar}
+
+font:
+  size: 14
+
+live_config_reload: true
+
+colors:
+  # Default colors
+  primary:
+    background: '0x000000'
+    foreground: '0xffffff'
+  cursor:
+    text: '0xF81CE5'
+    cursor: '0x99ff99'
+
+  # Normal colors
+  normal:
+    black:   '0x000000'
+    red:     '0xcc9999'
+    green:   '0x33ff00'
+    yellow:  '0xfeff00'
+    blue:    '0x66ddff'
+    magenta: '0x9966aa'
+    cyan:    '0x006666'
+    white:   '0xd0d0d0'
+
+  # Bright colors
+  bright:
+    black:   '0x808080'
+    red:     '0xdd0000'
+    green:   '0x33ff00'
+    yellow:  '0xfeff00'
+    blue:    '0x0099ff'
+    magenta: '0xaa99cc'
+    cyan:    '0x00ffff'
+    white:   '0xFFFFFF'
+

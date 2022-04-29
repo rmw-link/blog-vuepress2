@@ -1,0 +1,1 @@
+module.exports = {lang:'sv',title:'rmw.link',description:'Ned med datahegemonin · Cyberland Revolution'}

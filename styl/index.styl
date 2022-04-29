@@ -1,0 +1,255 @@
+:root, a
+  font-weight 400
+
+#app, html, body
+  height 100%
+
+pre, code[class*=language-], pre[class*=language-], .theme-default-content pre code, .theme-default-content pre[class*=language-] code
+  word-wrap break-word
+  word-break break-word
+  white-space break-spaces
+
+div[class*=language-]
+  background-color #f5fff0
+
+.theme-default-content pre[class*=language-]
+  border-radius 0
+  border 1px dashed #ccc
+  padding 0.75rem 1rem
+  font-size 1.1rem
+
+.theme-default-content pre code, .theme-default-content pre[class*=language-] code
+  color #360
+
+@import './prism-one-ligh.styl'
+
+.navbar-links-item
+  &:first-child
+    &>.dropdown-wrapper
+      background url('/chat.svg') no-repeat 0 0.2rem / 1.1rem
+      filter grayscale(100%)
+      padding-left 0.78rem
+
+      &:hover
+        filter unset
+
+  &>.dropdown-wrapper
+    &>button
+      color #999
+
+    &:hover
+      .arrow.down
+        border-top-color #f40
+
+      &>button
+        color #f40
+
+.dropdown-wrapper .nav-dropdown .dropdown-item a:hover
+  color #f40
+
+strong, b
+  text-emphasis '·' #000
+  text-emphasis-position under left
+
+blockquote
+  padding 0
+  color inherit
+  border 0
+  position relative
+
+  &:before
+    content '〞'
+    top -0.5rem
+    text-indent -0.3rem
+    font-size 1.5rem
+
+  &:after
+    content ''
+    border-left 2px solid #000
+    bottom 0.4rem
+    top 1rem
+    left 0
+
+  &:after, &:before
+    color #000
+    margin-left -1.2rem
+    position absolute
+
+.sidebar, .navbar
+  user-select none
+
+.navbar
+  .logo
+    width 28px
+    height @width
+    vertical-align -5px
+
+  .site-name
+    color #f00
+    letter-spacing 1px
+    font-family h
+
+button[aria-label=lang] .title
+  font-family I
+  font-size 1.8rem
+  vertical-align -0.4rem
+
+div[class*=language-]
+  border-radius 0
+
+.page
+  &>.theme-default-content
+    margin-top 1rem
+
+  &>.page-edit
+    padding 0
+
+.sidebar
+  box-shadow -1px 0 6px -5px #333 inset
+  border 0
+
+  & > .sidebar-links
+    padding 1.9rem 0
+
+    & > .sidebar-heading
+      font-weight 400
+      font-size 1rem
+      color #666
+
+    & > ul > li
+      a
+        border none
+        font-size 0.9rem
+
+    & > p, & > a
+      border 0
+
+      &.router-link-exact-active
+        font-weight 400
+        color #000
+        border none
+        position relative
+
+        &:before
+          content '→'
+          transform scale(0.5)
+          left 0
+          transform-origin 0 45%
+          position absolute
+
+    .sidebar-sub-items
+      .router-link-exact-active
+        color #666
+
+      .active
+        color #000
+
+a.sidebar-item.sidebar-heading.active
+  font-weight 400
+
+.page-meta .meta-item .meta-item-label
+  font-weight 400
+  color var(--c-text-quote)
+
+p a code, code
+  color #000
+
+.theme-default-content:not(.custom)
+  iframe
+    width 100%
+    height 90vh
+    border 0
+
+  p, ul, ol
+    line-height 1.85
+    margin-bottom 0.3rem
+
+  h2, h3, h4, h5, h6
+    border 0
+    margin-bottom 1rem
+
+  a
+    &, & code
+      color #36a
+
+    &:hover
+      &, & code
+        color #f40
+        text-decoration none
+
+  ul
+    list-style none
+    margin 0
+    padding 0
+
+    li
+      position relative
+
+      &:before
+        content ''
+        position absolute
+        left -1rem
+        width 0.1875rem
+        height @width
+        border 2px solid #6a0
+        border-radius @width
+        top 0.65rem
+
+      &> ul
+        margin-left 0.75rem
+
+        li
+          font-size 0.875rem
+
+          &:before
+            top 0.625rem
+            left -0.75rem
+            border-width 1px
+
+#app>.back-to-top
+  background #666
+  right 2rem
+  bottom 2rem
+  width 1rem
+  height @width
+
+@import './font.styl'
+
+// 下面是移动版页面的样式
+.site-name.can-hide
+  display inline-flex
+
+.toggle-sidebar-button
+  right 0.9rem
+  left auto
+  z-index 1
+  top 0.5rem
+
+@media (max-width 719px)
+  .sidebar
+    left auto
+    right 0
+    box-shadow 1px 0 6px -5px #333 inset
+    transform translateX(var(--sidebar-width-mobile))
+
+  .navbar
+    padding-left 1.5rem
+
+  a.header-anchor
+    margin-left -0.8rem
+    padding-right 0.2rem
+
+  .sidebar > .sidebar-links
+    padding 0.8rem 0
+
+  .theme-default-content:not(.custom) ul li:before
+    top 0.85rem
+    border-width 1px
+    left -0.9rem
+
+  blockquote:after, blockquote:before
+    margin-left -0.75rem
+
+.dropdown-wrapper .mobile-dropdown-title
+  font-weight 500
+  user-select none

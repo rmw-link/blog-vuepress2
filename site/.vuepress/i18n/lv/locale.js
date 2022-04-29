@@ -1,0 +1,1 @@
+module.exports = {lang:'lv',title:'rmw.link',description:'Lejup ar datu hegemoniju · Cyberland Revolution'}
