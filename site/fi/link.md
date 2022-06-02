@@ -2,8 +2,8 @@
 
 Rmw.link-prosessin kehittämisen sivutuote.
 
-* [vuepress rmw.link räätälöity versio](https://github.com/rmw-link/blog-vuepress2)  
-  Katso [vuepressin rakennusblogi](/log/2020-11-29-vuepress.html)
+* [Räätälöity versio vuepress rmw.linkistä](https://github.com/rmw-link/blog-vuepress2)  
+  Katso [Blogin](/log/2020-11-29-vuepress.html) rakentaminen [vuepressillä](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   markdown-käännöstyökalut
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -16,5 +16,6 @@ Rmw.link-prosessin kehittämisen sivutuote.
   Blake3:een ja xxh3:een perustuva salausalgoritmi
 * [mdbx](https://docs.rs/crate/mdbx)  
   Ruosteen kääre [libmdbx:](https://github.com/erthink/libmdbx) lle
-* [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)  
-  [Quickjs:n muokkaaminen ruosteen funktioiden tuomiseen - uusi tapa laajentaa Krakenia](/log/2022-04-29-quickjs-rust.html)
+* [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
+* [QuickJS:n muokkaaminen ruostefunktioiden tuomiseksi - uusi tapa laajentaa Krakenia.](/log/2022-04-29-quickjs-rust.html)
+* [Blake3:een perustuva merkle-puu](/log/2022-06-02-blake3_merkle.html)

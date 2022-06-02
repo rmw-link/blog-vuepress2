@@ -17,4 +17,5 @@
 * [mdbx](https://docs.rs/crate/mdbx)
   对 [libmdbx](https://github.com/erthink/libmdbx) 的 rust 封装
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
-  [修改 quickjs 以导入 rust 函数 —— 一种扩展北海的新思路](/log/2022-04-29-quickjs-rust.html)
+* [修改 quickjs 以导入 rust 函数 —— 一种扩展北海的新思路](/log/2022-04-29-quickjs-rust.html)
+* [基于 blake3 的 merkle tree](/log/2022-06-02-blake3_merkle.html)

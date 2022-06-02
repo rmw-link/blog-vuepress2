@@ -2,8 +2,8 @@
 
 Um subproduto do desenvolvimento do processo rmw.link.
 
-* [vuepress rmw.link versão personalizada](https://github.com/rmw-link/blog-vuepress2)  
-  Ver o [blogue vuepress build](/log/2020-11-29-vuepress.html)
+* [Versão personalizada do vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
+  Ver Construir um [blogue com a vuepress](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   ferramentas de tradução markdown
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -16,5 +16,6 @@ Um subproduto do desenvolvimento do processo rmw.link.
   Algoritmo de encriptação baseado em blake3, xxh3
 * [mdbx](https://docs.rs/crate/mdbx)  
   Uma embalagem de ferrugem para [libmdbx](https://github.com/erthink/libmdbx)
-* [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)  
-  [Modificação de quickjs para importar funções de ferrugem - uma nova forma de estender o Kraken](/log/2022-04-29-quickjs-rust.html)
+* [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
+* [Modificação de quickjs para importar funções de ferrugem - uma nova forma de estender o Kraken](/log/2022-04-29-quickjs-rust.html)
+* [Uma árvore merkle baseada em blake3](/log/2022-06-02-blake3_merkle.html)

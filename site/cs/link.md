@@ -2,8 +2,8 @@
 
 Vedlejší produkt vývoje procesu rmw.link.
 
-* [vuepress rmw.link přizpůsobená verze](https://github.com/rmw-link/blog-vuepress2)  
-  Podívejte se na [blog vuepress build](/log/2020-11-29-vuepress.html)
+* [Přizpůsobená verze vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
+  Viz Vytvoření [blogu pomocí vuepress](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   markdown překladatelské nástroje
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -16,5 +16,6 @@ Vedlejší produkt vývoje procesu rmw.link.
   Šifrovací algoritmus založený na blake3, xxh3
 * [mdbx](https://docs.rs/crate/mdbx)  
   Obal rustu pro [libmdbx](https://github.com/erthink/libmdbx)
-* [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)  
-  [Úprava quickjs pro import funkcí rustu - nový způsob rozšíření Krakenu](/log/2022-04-29-quickjs-rust.html)
+* [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
+* [Úprava quickjs pro import funkcí rustu - nový způsob rozšíření Krakenu](/log/2022-04-29-quickjs-rust.html)
+* [Merkleho strom založený na blake3](/log/2022-06-02-blake3_merkle.html)

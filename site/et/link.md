@@ -2,8 +2,8 @@
 
 Rmw.link protsessi arendamise kõrvalsaadus.
 
-* [vuepress rmw.link kohandatud versioon](https://github.com/rmw-link/blog-vuepress2)  
-  Vaata [vuepressi ehitamise blogi](/log/2020-11-29-vuepress.html)
+* [Kohandatud versioon vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
+  Vt [Blogi](/log/2020-11-29-vuepress.html) loomine [vuepressiga](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   markdown tõlkevahendid
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -16,5 +16,6 @@ Rmw.link protsessi arendamise kõrvalsaadus.
   Blake3, xxh3 põhinev krüpteerimisalgoritm
 * [mdbx](https://docs.rs/crate/mdbx)  
   Rooste wrapper [libmdbx](https://github.com/erthink/libmdbx) jaoks [libmdbx](https://github.com/erthink/libmdbx)
-* [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)  
-  [Quickjs muutmine rooste funktsioonide importimiseks - uus viis Krakeni laiendamiseks](/log/2022-04-29-quickjs-rust.html)
+* [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
+* [Quickjs muutmine rooste funktsioonide importimiseks - uus viis Krakeni laiendamiseks](/log/2022-04-29-quickjs-rust.html)
+* [Blake3-l põhinev merkle-puu](/log/2022-06-02-blake3_merkle.html)

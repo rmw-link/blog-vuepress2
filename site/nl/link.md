@@ -2,8 +2,8 @@
 
 Een bijproduct van de ontwikkeling van het rmw.link proces.
 
-* [vuepress rmw.link aangepaste versie](https://github.com/rmw-link/blog-vuepress2)  
-  Zie de [vuepress bouw blog](/log/2020-11-29-vuepress.html)
+* [Aangepaste versie van vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
+  Zie Een [blog](/log/2020-11-29-vuepress.html) bouwen [met vuepress](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   markdown vertaalhulpmiddelen
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -16,5 +16,6 @@ Een bijproduct van de ontwikkeling van het rmw.link proces.
   Encryptie algoritme gebaseerd op blake3, xxh3
 * [mdbx](https://docs.rs/crate/mdbx)  
   Een roest wrapper voor [libmdbx](https://github.com/erthink/libmdbx)
-* [sneljs-rust](https://github.com/rmw-lib/quickjs-rust)  
-  [Quickjs aanpassen om roest functies te importeren - een nieuwe manier om Kraken uit te breiden](/log/2022-04-29-quickjs-rust.html)
+* [sneljs-rust](https://github.com/rmw-lib/quickjs-rust)
+* [Quickjs aanpassen om roest functies te importeren - een nieuwe manier om Kraken uit te breiden](/log/2022-04-29-quickjs-rust.html)
+* [Een merkleboom gebaseerd op blake3](/log/2022-06-02-blake3_merkle.html)
