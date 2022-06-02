@@ -2,7 +2,7 @@
 
 [blake3](https://github.com/BLAKE3-team/BLAKE3) je založený na merkleovom strome, ale vystavené rozhranie neexportuje merkleov strom.
 
-[bao](https://github.com/oconnor663/bao) implementuje overovanie prúdenia blake3, ale nedokáže meniť veľkosť podkladových [chunkov (podporuje väčšie "skupiny chunkov" pre zníženie priestorovej réžie](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementuje overovanie prúdenia blake3, ale nedokáže meniť veľkosť základných [chunkov](https://github.com/oconnor663/bao/issues/34) (pozri [podporu väčších "chunk groups" pre zníženie priestorovej réžie](https://github.com/oconnor663/bao/issues/34) ).
 
 To znamená, že bao spotrebuje 6 % úložného priestoru navyše na zaznamenanie merkleovho stromu, čo je pre distribuovaný index obsahu významná réžia.
 

@@ -2,7 +2,7 @@
 
 [blake3](https://github.com/BLAKE3-team/BLAKE3) understøttes af et merkle-træ, men den eksponerede grænseflade eksporterer ikke merkle-træet.
 
-[bao](https://github.com/oconnor663/bao) implementerer blake3 streamingvalidering, men kan ikke ændre størrelsen på de underliggende [chunks (understøtter større "chunkgrupper" for at reducere pladsoverhead](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementerer blake3 streaming-validering, men kan ikke ændre størrelsen på de underliggende [chunks](https://github.com/oconnor663/bao/issues/34) (se [understøttelse af større "chunk-grupper" for at reducere pladsoverhead](https://github.com/oconnor663/bao/issues/34) ).
 
 Det betyder, at bao bruger 6 % ekstra lagerplads til at registrere merkle-træet, hvilket er et betydeligt overhead for et distribueret indholdsindeks.
 

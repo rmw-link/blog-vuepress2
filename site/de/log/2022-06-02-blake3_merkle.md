@@ -2,7 +2,7 @@
 
 [blake3](https://github.com/BLAKE3-team/BLAKE3) wird durch einen Merkle-Baum unterstützt, aber die exponierte Schnittstelle exportiert den Merkle-Baum nicht.
 
-[bao](https://github.com/oconnor663/bao) implementiert die Blake3-Streaming-Validierung, kann aber die Größe der zugrundeliegenden [Chunks](https://github.com/oconnor663/bao/issues/34) nicht ändern [(Unterstützung größerer "Chunk-Gruppen" zur Verringerung des Speicherplatz-Overheads](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementiert die Blake3-Streaming-Validierung, kann aber die Größe der zugrundeliegenden [Chunks](https://github.com/oconnor663/bao/issues/34) nicht ändern (siehe [Unterstützung größerer "Chunk-Gruppen" zur Verringerung des Speicherplatz-Overheads](https://github.com/oconnor663/bao/issues/34) ).
 
 Dies bedeutet, dass bao 6 % zusätzlichen Speicherplatz für die Aufzeichnung des Merkle-Baums verbraucht, was für einen verteilten Inhaltsindex einen erheblichen Overhead darstellt.
 

@@ -2,7 +2,7 @@
 
 [blake3](https://github.com/BLAKE3-team/BLAKE3) se apoya en un árbol de merkle, pero la interfaz expuesta no exporta el árbol de merkle.
 
-[bao](https://github.com/oconnor663/bao) implementa la validación de streaming de blake3, pero no puede redimensionar los [chunks](https://github.com/oconnor663/bao/issues/34) subyacentes [(soporta "grupos de chunks" más grandes para reducir la sobrecarga de espacio](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementa la validación de streaming de blake3, pero no puede redimensionar los [chunks](https://github.com/oconnor663/bao/issues/34) subyacentes (ver [soporte de "grupos de chunks" más grandes para reducir la sobrecarga de espacio](https://github.com/oconnor663/bao/issues/34) ).
 
 Esto significa que bao consume un 6% de espacio de almacenamiento adicional para registrar el árbol de merkle, lo que supone una sobrecarga importante para un índice de contenido distribuido.
 

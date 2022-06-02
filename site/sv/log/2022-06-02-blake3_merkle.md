@@ -2,7 +2,7 @@
 
 [blake3](https://github.com/BLAKE3-team/BLAKE3) bygger på ett merkle-träd, men det exponerade gränssnittet exporterar inte merkle-trädet.
 
-[bao](https://github.com/oconnor663/bao) implementerar blake3-strömningsvalidering, men kan inte ändra storleken på de underliggande [bitarna (stödjer större "bitgrupper" för att minska utrymmesöverskottet](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementerar blake3-strömningsvalidering, men kan inte ändra storleken på de underliggande [bitarna](https://github.com/oconnor663/bao/issues/34) (se [stöd för större "bitgrupper" för att minska utrymmesöverskottet](https://github.com/oconnor663/bao/issues/34) ).
 
 Detta innebär att bao förbrukar 6 % extra lagringsutrymme för att registrera Merkle-trädet, vilket är en betydande överkostnad för ett distribuerat innehållsindex.
 

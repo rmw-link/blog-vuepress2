@@ -2,7 +2,7 @@
 
 [blake3](https://github.com/BLAKE3-team/BLAKE3) yra paremtas Merkle'io medžiu, tačiau atveriama sąsaja neeksportuoja Merkle'io medžio.
 
-[bao](https://github.com/oconnor663/bao) įgyvendina blake3 srautinį patvirtinimą, tačiau negali keisti pagrindinių [gabalėlių](https://github.com/oconnor663/bao/issues/34) dydžio [(palaiko didesnes "gabalėlių grupes", kad sumažėtų vietos sąnaudos](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) įgyvendina blake3 srautinį patvirtinimą, tačiau negali keisti pagrindinių [gabalų](https://github.com/oconnor663/bao/issues/34) dydžio (žr. [didesnių "gabalų grupių" palaikymą, kad sumažėtų vietos sąnaudos](https://github.com/oconnor663/bao/issues/34) ).
 
 Tai reiškia, kad bao sunaudoja 6 % papildomos vietos Merkle'io medžiui įrašyti, o tai paskirstytam turinio indeksui yra reikšmingos pridėtinės išlaidos.
 

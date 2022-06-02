@@ -2,7 +2,7 @@
 
 [blake3](https://github.com/BLAKE3-team/BLAKE3) se bazează pe un arbore Merkle, dar interfața expusă nu exportă arborele Merkle.
 
-[bao](https://github.com/oconnor663/bao) implementează validarea de streaming blake3, dar nu poate redimensiona bucățile subiacente [(acceptă "grupuri de bucățele" mai mari pentru reducerea spațiului](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementează validarea de streaming blake3, dar nu poate redimensiona [bucățile](https://github.com/oconnor663/bao/issues/34) subiacente (a se vedea [suportul pentru "grupuri de bucăți" mai mari pentru reducerea spațiului](https://github.com/oconnor663/bao/issues/34) ).
 
 Acest lucru înseamnă că bao consumă 6% spațiu de stocare suplimentar pentru a înregistra arborele Merkle, ceea ce reprezintă un cost suplimentar semnificativ pentru un index de conținut distribuit.
 

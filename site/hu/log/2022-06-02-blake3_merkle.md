@@ -2,7 +2,7 @@
 
 A [blake3](https://github.com/BLAKE3-team/BLAKE3) alapja egy merkle-fa, de a megjelenített interfész nem exportálja a merkle-fát.
 
-A [bao](https://github.com/oconnor663/bao) megvalósítja a blake3 streaming érvényesítést, de nem tudja átméretezni az alapul szolgáló [darabokat (támogatja a nagyobb "darabcsoportokat" a kisebb helyigény érdekében](https://github.com/oconnor663/bao/issues/34) ).
+A [bao](https://github.com/oconnor663/bao) megvalósítja a blake3 streaming érvényesítést, de nem tudja átméretezni az alapul szolgáló [darabokat](https://github.com/oconnor663/bao/issues/34) (lásd: [nagyobb "darabcsoportok" támogatása a kisebb helyigény érdekében](https://github.com/oconnor663/bao/issues/34) ).
 
 Ez azt jelenti, hogy a bao 6% extra tárhelyet igényel a merkle-fa rögzítéséhez, ami jelentős többletköltséget jelent egy elosztott tartalomindex esetében.
 

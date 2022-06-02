@@ -2,7 +2,7 @@
 
 [Blake3](https://github.com/BLAKE3-team/BLAKE3) temelji na drevesu merkle, vendar izpostavljeni vmesnik ne izvaža drevesa merkle.
 
-[bao](https://github.com/oconnor663/bao) izvaja preverjanje pretočnosti blake3, vendar ne more spreminjati velikosti osnovnih [kosov (podpira večje "skupine kosov" za zmanjšanje režijskega prostora](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) izvaja preverjanje pretočnosti blake3, vendar ne more spreminjati velikosti osnovnih [kosov](https://github.com/oconnor663/bao/issues/34) (glejte [podporo večjim "skupinam kosov" za zmanjšanje prostorske obremenitve](https://github.com/oconnor663/bao/issues/34) ).
 
 To pomeni, da bao porabi 6 % dodatnega prostora za shranjevanje za zapisovanje drevesa merklov, kar je za porazdeljeni indeks vsebine precejšen režijski strošek.
 

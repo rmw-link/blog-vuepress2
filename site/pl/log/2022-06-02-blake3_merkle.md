@@ -2,7 +2,7 @@
 
 [blake3](https://github.com/BLAKE3-team/BLAKE3) jest oparty na drzewie merkle'a, ale interfejs nie eksportuje drzewa merkle'a.
 
-[bao](https://github.com/oconnor663/bao) implementuje walidację strumieniową blake3, ale nie może zmieniać rozmiaru leżących u jej podstaw [kawałków (obsługuje większe "grupy kawałków" w celu zmniejszenia narzutu przestrzeni](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementuje walidację strumieniową blake3, ale nie może zmieniać rozmiaru leżących u jej podstaw [jednostek](https://github.com/oconnor663/bao/issues/34) (patrz [Obsługa większych "grup jednostek" w celu zmniejszenia narzutu przestrzeni](https://github.com/oconnor663/bao/issues/34) ).
 
 Oznacza to, że bao zużywa 6% dodatkowej przestrzeni dyskowej na zapisanie drzewa merkle'a, co jest znaczącym narzutem w przypadku rozproszonego indeksu treści.
 

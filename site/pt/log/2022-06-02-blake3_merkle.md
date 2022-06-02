@@ -2,7 +2,7 @@
 
 [blake3](https://github.com/BLAKE3-team/BLAKE3) é sustentado por um merkle tree, mas a interface exposta não exporta o merkle tree.
 
-[bao](https://github.com/oconnor663/bao) implementa a validação do fluxo blake3, mas não pode redimensionar os [pedaços](https://github.com/oconnor663/bao/issues/34) subjacentes [(suporta "grupos de pedaços" maiores para reduzir o espaço aéreo](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementa a validação do fluxo blake3, mas não pode redimensionar os [pedaços](https://github.com/oconnor663/bao/issues/34) subjacentes (ver [apoio a "grupos de pedaços" maiores para reduzir o espaço aéreo](https://github.com/oconnor663/bao/issues/34) ).
 
 Isto significa que a bao consome 6% de espaço de armazenamento extra para registar a árvore merkle, o que é uma sobrecarga significativa para um índice de conteúdo distribuído.
 
