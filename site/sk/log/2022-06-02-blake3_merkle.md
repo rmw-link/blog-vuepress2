@@ -6,7 +6,7 @@
 
 To znamená, že bao spotrebuje 6 % úložného priestoru navyše na zaznamenanie merkleovho stromu, čo je pre distribuovaný index obsahu významná réžia.
 
-Preto som implementoval [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) tak, aby pri nastavení `BLOCK_CHUNK` na 10 vypisoval 32-bajtový hash pre každý (1 << 10)*1024 = 1MB, čím sa pridá len 0,3‱ réžie navyše.
+Preto som implementoval [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), aby exportoval 32 bajtov hash na 1 MB obsahu s dodatočnou réžiou ukladania 0,3‱.
 
 `./examples/main.rs` Takto :
 

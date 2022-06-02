@@ -6,7 +6,7 @@ A [bao](https://github.com/oconnor663/bao) megvalósítja a blake3 streaming ér
 
 Ez azt jelenti, hogy a bao 6% extra tárhelyet igényel a merkle-fa rögzítéséhez, ami jelentős többletköltséget jelent egy elosztott tartalomindex esetében.
 
-Ezért a [blake3_merkle-t](https://github.com/rmw-lib/blake3_merkle) úgy implementáltam, hogy minden (1 << 10)*1024 = 1MB után egy 32 bájtos hash-t adjon ki, ha a `BLOCK_CHUNK` értéke 10, ami csak 0,3‱ extra overheadet jelent.
+Ezért a [blake3_merkle-t](https://github.com/rmw-lib/blake3_merkle) úgy implementáltam, hogy 1 MB tartalomra 32 bájt hash-t exportáljon, 0,3‱ további tárolási többletköltséggel.
 
 `./examples/main.rs` Az alábbiak szerint:
 

@@ -6,7 +6,7 @@
 
 Oznacza to, że bao zużywa 6% dodatkowej przestrzeni dyskowej na zapisanie drzewa merkle'a, co jest znaczącym narzutem w przypadku rozproszonego indeksu treści.
 
-Dlatego zaimplementowałem [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), aby wyprowadzać 32-bajtowy hasz dla każdego (1 << 10)*1024 = 1MB, gdy `BLOCK_CHUNK` jest ustawione na 10, dodając tylko 0,3‱ dodatkowego narzutu.
+Dlatego zaimplementowałem [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), aby eksportować 32 bajty haszu na 1 MB zawartości, z dodatkowym narzutem na przechowywanie danych wynoszącym 0,3‱.
 
 `./examples/main.rs` W następujący sposób :
 

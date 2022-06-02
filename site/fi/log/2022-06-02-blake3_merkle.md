@@ -6,7 +6,7 @@
 
 Tämä tarkoittaa, että bao kuluttaa 6 % ylimääräistä tallennustilaa merkle-puun tallentamiseen, mikä on merkittävä yleiskustannus hajautetulle sisältöindeksille.
 
-Niinpä toteutin [blake3_merkle-toiminnon](https://github.com/rmw-lib/blake3_merkle), joka tuottaa 32 tavun hashin jokaista (1 << 10)*1024 = 1MB:n (1 << 10)*1024 = 1MB kohti, kun `BLOCK_CHUNK` on asetettu arvoon 10, mikä lisää vain 0,3‱ ylimääräistä yleiskustannusta.
+Niinpä toteutin [blake3_merkle-toiminnon](https://github.com/rmw-lib/blake3_merkle) viemään 32 tavua hashia 1 Mt:n sisältöä kohti, jolloin ylimääräinen tallennuskustannus on 0,3‱.
 
 `./examples/main.rs` seuraavasti :
 

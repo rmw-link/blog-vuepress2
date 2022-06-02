@@ -6,7 +6,7 @@
 
 Acest lucru înseamnă că bao consumă 6% spațiu de stocare suplimentar pentru a înregistra arborele Merkle, ceea ce reprezintă un cost suplimentar semnificativ pentru un index de conținut distribuit.
 
-Așadar, am implementat [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) pentru a produce un hash de 32 de octeți pentru fiecare (1 << 10)*1024 = 1MB atunci când `BLOCK_CHUNK` este setat la 10, adăugând doar 0,3‱ de costuri suplimentare.
+Așadar, am implementat [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) pentru a exporta 32 de octeți de hash pentru fiecare 1 MB de conținut, cu o suprataxă de stocare suplimentară de 0,3‱.
 
 `./examples/main.rs` După cum urmează :
 

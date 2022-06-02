@@ -6,7 +6,7 @@
 
 Tas nozīmē, ka bao patērē 6 % papildu glabāšanas vietas, lai ierakstītu Merkles koku, kas ir nozīmīga sadales satura indeksa pieskaitāmā daļa.
 
-Tāpēc es ieviesu [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), lai izvadītu 32 baitu hash uz katru (1 << 10)*1024 = 1MB, ja `BLOCK_CHUNK` ir iestatīts uz 10, pievienojot tikai 0,3‱ papildu pieskaitāmās izmaksas.
+Tāpēc es ieviesu [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), lai eksportētu 32 baitus hash uz 1 MB satura ar papildu 0,3 MB uzglabāšanas izmaksām.
 
 `./examples/main.rs` Šādi:
 

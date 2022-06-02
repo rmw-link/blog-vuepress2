@@ -6,7 +6,7 @@
 
 Dit betekent dat bao 6% extra opslagruimte nodig heeft om de merkle tree op te slaan, wat een aanzienlijke overhead is voor een gedistribueerde inhoudsindex.
 
-Dus heb ik [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) geïmplementeerd om een hash van 32 bytes uit te voeren voor elke (1 << 10)*1024 = 1MB wanneer `BLOCK_CHUNK` op 10 is gezet, wat slechts 0.3‱ extra overhead toevoegt.
+Dus heb ik [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) geïmplementeerd om 32 bytes hash te exporteren per 1MB inhoud, met een extra opslagoverhead van 0.3‱.
 
 `./examples/main.rs` Als volgt :
 

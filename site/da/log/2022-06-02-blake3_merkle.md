@@ -6,7 +6,7 @@
 
 Det betyder, at bao bruger 6 % ekstra lagerplads til at registrere merkle-træet, hvilket er et betydeligt overhead for et distribueret indholdsindeks.
 
-Så jeg implementerede [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) til at udstede en 32-byte hash for hver (1 << 10)*1024 = 1 MB, når `BLOCK_CHUNK` er sat til 10, hvilket kun tilføjer 0,3‱ ekstra overhead.
+Så jeg implementerede [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) til at eksportere 32 bytes hash pr. 1 MB indhold med et ekstra lageroverhead på 0,3‱.
 
 `./examples/main.rs` Som følger :
 

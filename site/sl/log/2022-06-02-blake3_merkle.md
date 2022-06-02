@@ -6,7 +6,7 @@
 
 To pomeni, da bao porabi 6 % dodatnega prostora za shranjevanje za zapisovanje drevesa merklov, kar je za porazdeljeni indeks vsebine precejšen režijski strošek.
 
-Zato sem implementiral [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), da je za vsak (1 << 10)*1024 = 1 MB, ko je `BLOCK_CHUNK` nastavljen na 10, izpisal 32-bajtni hash, s čimer sem dodal le 0,3‱ dodatnih režijskih stroškov.
+Zato sem implementiral [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) za izvoz 32 bajtov hasha na 1 MB vsebine, pri čemer je dodatna režija shranjevanja 0,3‱.
 
 `./examples/main.rs` Na naslednji način :
 

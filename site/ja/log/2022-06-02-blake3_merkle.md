@@ -6,7 +6,7 @@
 
 これは、baoがmerkle木を記録するために6%の余分なストレージスペースを消費することを意味し、分散コンテンツインデックスにとっては大きなオーバーヘッドとなる。
 
-そこで、 `BLOCK_CHUNK` を 10 としたとき、(1 << 10)*1024 = 1MB ごとに 32 バイトのハッシュを出力するように [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) を実装し、わずか 0.3‱のオーバーヘッドを追加したのです。
+そこで、コンテンツ1MBあたり32バイトのハッシュをエクスポートするように [blake3_merkleを](https://github.com/rmw-lib/blake3_merkle) 実装し、ストレージのオーバーヘッドを0.3㌘増加させました。
 
 `./examples/main.rs` 以下の通りです。
 

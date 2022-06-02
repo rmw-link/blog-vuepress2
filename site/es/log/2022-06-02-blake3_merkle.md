@@ -6,7 +6,7 @@
 
 Esto significa que bao consume un 6% de espacio de almacenamiento adicional para registrar el árbol de merkle, lo que supone una sobrecarga importante para un índice de contenido distribuido.
 
-Por lo tanto, implementé [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) para dar salida a un hash de 32 bytes por cada (1 << 10)*1024 = 1MB cuando `BLOCK_CHUNK` se establece en 10, añadiendo sólo 0,3‱ de sobrecarga adicional.
+Así que implementé [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) para exportar 32 bytes de hash por 1MB de contenido, con una sobrecarga de almacenamiento adicional de 0,3‱.
 
 `./examples/main.rs` De la siguiente manera :
 

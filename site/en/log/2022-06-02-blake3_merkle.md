@@ -6,7 +6,7 @@ The underlying merkle tree of [blake3](https://github.com/BLAKE3-team/BLAKE3) is
 
 This means that bao consumes 6% extra storage space to record the merkle tree, which is a significant overhead for a distributed content index.
 
-So, I implemented [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), which outputs a 32-byte hash for every (1 << 10)*1024 = 1MB when `BLOCK_CHUNK` is set to 10, adding only 0.3‱ of additional overhead.
+So, I implemented [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) to export 32 bytes of hash per 1MB of content with an additional storage overhead of only 0.3‱.
 
 `./examples/main.rs` As follows :
 

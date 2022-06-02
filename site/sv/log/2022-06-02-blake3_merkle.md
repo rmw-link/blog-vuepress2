@@ -6,7 +6,7 @@
 
 Detta innebär att bao förbrukar 6 % extra lagringsutrymme för att registrera Merkle-trädet, vilket är en betydande överkostnad för ett distribuerat innehållsindex.
 
-Så jag implementerade [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) för att ge ut en 32-byte-hash för varje (1 << 10)*1024 = 1 MB när `BLOCK_CHUNK` är inställd på 10, vilket bara ger 0,3‱ extra overhead.
+Så jag implementerade [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) för att exportera 32 bytes hash per 1 MB innehåll, med en extra lagringsöverskottstid på 0,3‱.
 
 `./examples/main.rs` Följande gäller:
 

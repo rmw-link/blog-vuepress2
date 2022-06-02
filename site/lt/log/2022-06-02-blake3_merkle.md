@@ -6,7 +6,7 @@
 
 Tai reiškia, kad bao sunaudoja 6 % papildomos vietos Merkle'io medžiui įrašyti, o tai paskirstytam turinio indeksui yra reikšmingos pridėtinės išlaidos.
 
-Taigi, įgyvendinau [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), kad išvestų 32 baitų hašą kas (1 << 10)*1024 = 1 MB, kai `BLOCK_CHUNK` yra 10, pridėdamas tik 0,3‱ papildomų pridėtinių išlaidų.
+Taigi, įdiegiau [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), kad kiekvienam 1 MB turinio būtų eksportuojami 32 baitai hash, o papildoma saugojimo našta būtų 0,3‱.
 
 `./examples/main.rs` Taip:
 

@@ -6,7 +6,7 @@
 
 See tähendab, et bao kulutab Merkle-puu salvestamiseks 6% lisamäluruumi, mis on jaotatud sisuindeksi puhul märkimisväärne lisakulu.
 
-Niisiis, ma rakendasin [blake3_merkle'i](https://github.com/rmw-lib/blake3_merkle), et väljastada 32 baidi suurune hash iga (1 << 10)*1024 = 1MB kohta, kui `BLOCK_CHUNK` on seatud 10, lisades ainult 0,3‱ lisakulu.
+Seega rakendasin [blake3_merkle'i](https://github.com/rmw-lib/blake3_merkle), et eksportida 32 baiti hashi 1 MB sisu kohta, mille täiendav salvestuskoormus on 0,3‱.
 
 `./examples/main.rs` Järgnevalt :
 

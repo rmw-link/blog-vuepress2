@@ -6,7 +6,7 @@
 
 Dies bedeutet, dass bao 6 % zusätzlichen Speicherplatz für die Aufzeichnung des Merkle-Baums verbraucht, was für einen verteilten Inhaltsindex einen erheblichen Overhead darstellt.
 
-Also habe ich [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) so implementiert, dass ein 32-Byte-Hash für jeden (1 << 10)*1024 = 1MB ausgegeben wird, wenn `BLOCK_CHUNK` auf 10 gesetzt ist, was nur 0,3‱ zusätzlichen Overhead bedeutet.
+Daher habe ich [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) so implementiert, dass 32 Byte Hash pro 1 MB Inhalt exportiert werden, was einen zusätzlichen Speicheraufwand von 0,3‱ bedeutet.
 
 `./examples/main.rs` Wie folgt:
 
