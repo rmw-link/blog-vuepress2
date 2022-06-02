@@ -1,12 +1,12 @@
 # Merkle-Baum auf der Grundlage von Blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) basiert auf einer Merkle-Baum-Implementierung, aber die exponierte Schnittstelle exportiert keine Merkle-Bäume.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) verfügt über einen Merkle-Baum, aber die exponierte Schnittstelle kann den Merkle-Baum nicht exportieren.
 
-[bao](https://github.com/oconnor663/bao) implementiert die Streaming-Blake3-Validierung, [unterstützt](https://github.com/oconnor663/bao/issues/34) aber nicht [die](https://github.com/oconnor663/bao/issues/34) Größenänderung der zugrunde liegenden [Chunks (Unterstützung größerer "Chunk-Gruppen" zur Verringerung des Speicherplatz-Overheads](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementiert die Blake3-Streaming-Validierung, kann aber die Größe der zugrundeliegenden [Chunks](https://github.com/oconnor663/bao/issues/34) nicht ändern [(Unterstützung größerer "Chunk-Gruppen" zur Verringerung des Speicherplatz-Overheads](https://github.com/oconnor663/bao/issues/34) ).
 
-Die derzeitige Implementierung von bao verbraucht 6 % zusätzlichen Speicherplatz für die Aufzeichnung von Validierungs-Hashes, was einen erheblichen Overhead für einen Inhaltsindizierungsserver darstellt.
+Dies bedeutet, dass bao 6 % zusätzlichen Speicherplatz für die Aufzeichnung des Merkle-Baums verbraucht, was für einen verteilten Inhaltsindex einen erheblichen Overhead darstellt.
 
-Meine Implementierung von [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), wenn `BLOCK_CHUNK` auf 10 gesetzt ist, gibt einen 32-Byte-Hash für jeden (1 << 10)*1024 = 1MB aus, was nur 0,3‱ zusätzlichen Overhead bedeutet.
+Also habe ich [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) so implementiert, dass ein 32-Byte-Hash für jeden (1 << 10)*1024 = 1MB ausgegeben wird, wenn `BLOCK_CHUNK` auf 10 gesetzt ist, was nur 0,3‱ zusätzlichen Overhead bedeutet.
 
 `./examples/main.rs` Wie folgt:
 

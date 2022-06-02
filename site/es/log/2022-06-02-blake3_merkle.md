@@ -1,12 +1,12 @@
 # Árbol de Merkle basado en blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) se basa en una implementación de árboles merkle, pero la interfaz expuesta no exporta árboles merkle.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) tiene un árbol merkle subyacente, pero la interfaz expuesta no puede exportar el árbol merkle.
 
-[bao](https://github.com/oconnor663/bao) implementa la validación de blake3 en streaming, pero no [soporta](https://github.com/oconnor663/bao/issues/34) el redimensionamiento de los [chunks](https://github.com/oconnor663/bao/issues/34) subyacentes [(soporta "grupos de chunks" más grandes para reducir la sobrecarga de espacio](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementa la validación de streaming de blake3, pero no puede redimensionar los [chunks](https://github.com/oconnor663/bao/issues/34) subyacentes [(soporta "grupos de chunks" más grandes para reducir la sobrecarga de espacio](https://github.com/oconnor663/bao/issues/34) ).
 
-La implementación actual de bao consume un 6% de espacio de almacenamiento adicional para registrar los hashes de validación, lo que supone una sobrecarga importante para un servidor de indexación de contenidos.
+Esto significa que bao consume un 6% de espacio de almacenamiento adicional para registrar el árbol de merkle, lo que supone una sobrecarga importante para un índice de contenido distribuido.
 
-Mi implementación de [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), cuando `BLOCK_CHUNK` se establece en 10, produce un hash de 32 bytes por cada (1 << 10)*1024 = 1MB, añadiendo sólo 0,3‱ de sobrecarga adicional.
+Por lo tanto, implementé [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) para dar salida a un hash de 32 bytes por cada (1 << 10)*1024 = 1MB cuando `BLOCK_CHUNK` se establece en 10, añadiendo sólo 0,3‱ de sobrecarga adicional.
 
 `./examples/main.rs` De la siguiente manera :
 

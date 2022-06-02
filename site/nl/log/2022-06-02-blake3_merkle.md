@@ -1,12 +1,12 @@
 # Merkleboom gebaseerd op blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) is gebaseerd op een merkle tree implementatie, maar de blootgelegde interface exporteert geen merkle trees.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) heeft een onderliggende merkle tree, maar de blootgestelde interface kan de merkle tree niet exporteren.
 
-[bao](https://github.com/oconnor663/bao) implementeert streaming blake3 validatie, maar [ondersteunt](https://github.com/oconnor663/bao/issues/34) niet het wijzigen van de grootte van de onderliggende [chunks (ondersteuning van grotere "chunk groups" voor minder ruimte-overhead](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementeert blake3 streaming validatie, maar kan de grootte van de onderliggende [chunks](https://github.com/oconnor663/bao/issues/34) niet wijzigen [(ondersteuning van grotere "chunk groups" voor minder ruimte-overhead](https://github.com/oconnor663/bao/issues/34) ).
 
-De huidige implementatie van bao verbruikt 6% extra opslagruimte om validatie-hashes op te slaan, wat een aanzienlijke overhead is voor een inhoudsindexeringsserver.
+Dit betekent dat bao 6% extra opslagruimte nodig heeft om de merkle tree op te slaan, wat een aanzienlijke overhead is voor een gedistribueerde inhoudsindex.
 
-Mijn implementatie van [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), wanneer `BLOCK_CHUNK` is ingesteld op 10, voert een 32-byte hash uit voor elke (1 << 10)*1024 = 1MB, wat slechts 0.3‱ extra overhead toevoegt.
+Dus heb ik [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) geïmplementeerd om een hash van 32 bytes uit te voeren voor elke (1 << 10)*1024 = 1MB wanneer `BLOCK_CHUNK` op 10 is gezet, wat slechts 0.3‱ extra overhead toevoegt.
 
 `./examples/main.rs` Als volgt :
 

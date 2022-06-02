@@ -1,12 +1,12 @@
 # blake3をベースにしたメルクル木
 
-[blake3は](https://github.com/BLAKE3-team/BLAKE3) merkle treeの実装をベースにしていますが、公開されているインターフェースはmerkle treeをエクスポートするものではありません。
+[blake3は](https://github.com/BLAKE3-team/BLAKE3) 基底にmerkle木を持ちますが、公開されたインターフェースはmerkle木をエクスポートすることができません。
 
-[baoは](https://github.com/oconnor663/bao) ストリーミングBlake3検証を実装していますが、基礎となる [チャンクの](https://github.com/oconnor663/bao/issues/34) サイズ変更は [サポートしていません（容量のオーバーヘッドを減らすために、より大きな「チャンクグループ」をサポート](https://github.com/oconnor663/bao/issues/34) します）。
+[baoは](https://github.com/oconnor663/bao) blake3ストリーミング検証を実装していますが、基礎となる [チャンクの](https://github.com/oconnor663/bao/issues/34) サイズを変更することはできません [（空間のオーバーヘッドを減らすために、より大きな「チャンクグループ」をサポート](https://github.com/oconnor663/bao/issues/34) します）。
 
-現在のbaoの実装では、検証用ハッシュを記録するために6%の余分なストレージスペースを消費しており、これはコンテンツのインデックス作成サーバーにとって大きなオーバーヘッドとなっています。
+これは、baoがmerkle木を記録するために6%の余分なストレージスペースを消費することを意味し、分散コンテンツインデックスにとっては大きなオーバーヘッドとなる。
 
-私の実装した [blake3_merkleは](https://github.com/rmw-lib/blake3_merkle) 、 `BLOCK_CHUNK` を10に設定すると、(1 << 10)*1024 = 1MBごとに32バイトのハッシュを出力し、0.3‱だけオーバーヘッドが追加されるだけです。
+そこで、 `BLOCK_CHUNK` を 10 としたとき、(1 << 10)*1024 = 1MB ごとに 32 バイトのハッシュを出力するように [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) を実装し、わずか 0.3‱のオーバーヘッドを追加したのです。
 
 `./examples/main.rs` 以下の通りです。
 

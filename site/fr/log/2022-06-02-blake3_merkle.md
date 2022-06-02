@@ -1,12 +1,12 @@
 # Arbre de Merkle basé sur blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) est basé sur une implémentation d'arbres de merkle, mais l'interface exposée n'exporte pas d'arbres de merkle.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) possède un arbre de merkle sous-jacent, mais l'interface exposée ne peut pas exporter l'arbre de merkle.
 
-[bao](https://github.com/oconnor663/bao) implémente la validation blake3 en streaming, mais ne [supporte](https://github.com/oconnor663/bao/issues/34) pas [le](https://github.com/oconnor663/bao/issues/34) redimensionnement des [chunks](https://github.com/oconnor663/bao/issues/34) sous-jacents ( [supporte des "groupes de chunk" plus grands pour réduire l'encombrement](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implémente la validation de flux blake3, mais ne peut pas redimensionner les [chunks](https://github.com/oconnor663/bao/issues/34) sous-jacents ( [supporte des "groupes de chunks" plus grands pour réduire l'encombrement](https://github.com/oconnor663/bao/issues/34) ).
 
-L'implémentation actuelle de bao consomme 6 % d'espace de stockage supplémentaire pour enregistrer les hachages de validation, ce qui représente une surcharge importante pour un serveur d'indexation de contenu.
+Cela signifie que bao consomme 6 % d'espace de stockage supplémentaire pour enregistrer l'arbre de merkle, ce qui représente une surcharge importante pour un index de contenu distribué.
 
-Mon implémentation de [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), lorsque `BLOCK_CHUNK` est fixé à 10, produit un hachage de 32 octets pour chaque (1 << 10)*1024 = 1MB, ajoutant seulement 0,3‱ de surcharge supplémentaire.
+Ainsi, j'ai implémenté [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) pour sortir un hachage de 32 octets pour chaque (1 << 10)*1024 = 1MB lorsque `BLOCK_CHUNK` est fixé à 10, ajoutant seulement 0,3‱ de surcharge supplémentaire.
 
 `./examples/main.rs` Comme suit :
 

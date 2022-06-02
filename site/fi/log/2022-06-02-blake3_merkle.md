@@ -1,12 +1,12 @@
 # Blake3:een perustuva Merkle-puu
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) perustuu merkle-puiden toteutukseen, mutta paljastettu rajapinta ei vie merkle-puita.
+[blake3:lla](https://github.com/BLAKE3-team/BLAKE3) on taustalla oleva merkle-puu, mutta näkyvillä oleva rajapinta ei voi viedä merkle-puuta.
 
-[bao](https://github.com/oconnor663/bao) toteuttaa blake3-validoinnin suoratoistona, mutta ei [tue](https://github.com/oconnor663/bao/issues/34) taustalla olevien [kappaleitten](https://github.com/oconnor663/bao/issues/34) koon muuttamista [(tukee suurempia "kappaleryhmiä" pienemmän tilankäytön vuoksi](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) toteuttaa blake3-suoratoistovarmennuksen, mutta ei pysty muuttamaan taustalla olevien [lohkojen](https://github.com/oconnor663/bao/issues/34) kokoa [(tukee suurempia "lohkoryhmiä" pienemmän tilankäytön vuoksi](https://github.com/oconnor663/bao/issues/34) ).
 
-Baon nykyinen toteutus kuluttaa 6 prosenttia ylimääräistä tallennustilaa validointihasheiden tallentamiseen, mikä on merkittävä yleiskustannus sisällön indeksointipalvelimelle.
+Tämä tarkoittaa, että bao kuluttaa 6 % ylimääräistä tallennustilaa merkle-puun tallentamiseen, mikä on merkittävä yleiskustannus hajautetulle sisältöindeksille.
 
-Kun `BLOCK_CHUNK` on asetettu arvoon 10, [blake3_merkle-toteutukseni](https://github.com/rmw-lib/blake3_merkle) tuottaa 32 tavun hashin jokaista (1 << 10)*1024 = 1MB kohti, mikä lisää vain 0,3‱ ylimääräistä yleiskustannusta.
+Niinpä toteutin [blake3_merkle-toiminnon](https://github.com/rmw-lib/blake3_merkle), joka tuottaa 32 tavun hashin jokaista (1 << 10)*1024 = 1MB:n (1 << 10)*1024 = 1MB kohti, kun `BLOCK_CHUNK` on asetettu arvoon 10, mikä lisää vain 0,3‱ ylimääräistä yleiskustannusta.
 
 `./examples/main.rs` seuraavasti :
 

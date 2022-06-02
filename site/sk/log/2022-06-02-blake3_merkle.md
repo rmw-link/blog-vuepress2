@@ -1,12 +1,12 @@
 # Merkleho strom založený na blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) je založený na implementácii merkleovho stromu, ale vystavené rozhranie neexportuje merkleove stromy.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) má základný merkleov strom, ale vystavené rozhranie nemôže exportovať merkleov strom.
 
-[bao](https://github.com/oconnor663/bao) implementuje prúdové overovanie blake3, ale nepodporuje zmenu veľkosti základných [chunkov (podporuje väčšie "skupiny chunkov" pre zníženie priestorovej réžie](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementuje overovanie prúdenia blake3, ale nedokáže meniť veľkosť podkladových [chunkov (podporuje väčšie "skupiny chunkov" pre zníženie priestorovej réžie](https://github.com/oconnor663/bao/issues/34) ).
 
-Súčasná implementácia bao spotrebuje 6 % úložného priestoru navyše na zaznamenávanie validačných hashov, čo je pre server indexovania obsahu značná réžia.
+To znamená, že bao spotrebuje 6 % úložného priestoru navyše na zaznamenanie merkleovho stromu, čo je pre distribuovaný index obsahu významná réžia.
 
-Moja implementácia [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), keď je `BLOCK_CHUNK` nastavená na 10, vypisuje 32-bajtový hash pre každý (1 << 10)*1024 = 1MB, čo pridáva len 0,3‱ dodatočnej réžie.
+Preto som implementoval [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) tak, aby pri nastavení `BLOCK_CHUNK` na 10 vypisoval 32-bajtový hash pre každý (1 << 10)*1024 = 1MB, čím sa pridá len 0,3‱ réžie navyše.
 
 `./examples/main.rs` Takto :
 

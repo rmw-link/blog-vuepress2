@@ -1,12 +1,12 @@
 # Merklio medis pagal blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) remiasi merklio medžio įgyvendinimu, tačiau atveriama sąsaja neeksportuoja merklio medžių.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) turi pagrindinį Merkle'io medį, tačiau per rodomą sąsają negalima eksportuoti Merkle'io medžio.
 
-[bao](https://github.com/oconnor663/bao) įgyvendina srautinį blake3 patvirtinimą, tačiau nepalaiko pagrindinių [gabalėlių](https://github.com/oconnor663/bao/issues/34) dydžio keitimo [(palaiko didesnes "gabalėlių grupes", kad sumažėtų vietos sąnaudos](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) įgyvendina blake3 srautinį patvirtinimą, tačiau negali keisti pagrindinių [gabalėlių](https://github.com/oconnor663/bao/issues/34) dydžio [(palaiko didesnes "gabalėlių grupes", kad sumažėtų vietos sąnaudos](https://github.com/oconnor663/bao/issues/34) ).
 
-Dabartinis bao įgyvendinimas naudoja 6 % papildomos saugojimo vietos, kad įrašytų patvirtinimo hashes, o tai yra didelė turinio indeksavimo serverio pridėtinė našta.
+Tai reiškia, kad bao sunaudoja 6 % papildomos vietos Merkle'io medžiui įrašyti, o tai paskirstytam turinio indeksui yra reikšmingos pridėtinės išlaidos.
 
-Mano įgyvendinta [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), kai `BLOCK_CHUNK` yra 10, išveda 32 baitų hash kas (1 << 10)*1024 = 1 MB, pridėdama tik 0,3‱ papildomų pridėtinių išlaidų.
+Taigi, įgyvendinau [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), kad išvestų 32 baitų hašą kas (1 << 10)*1024 = 1 MB, kai `BLOCK_CHUNK` yra 10, pridėdamas tik 0,3‱ papildomų pridėtinių išlaidų.
 
 `./examples/main.rs` Taip:
 

@@ -1,12 +1,12 @@
 # Drevo Merkle, ki temelji na blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) temelji na implementaciji drevesa merkle, vendar izpostavljeni vmesnik ne izvaža drevesa merkle.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) ima osnovno drevo merkle, vendar izpostavljeni vmesnik ne more izvoziti drevesa merkle.
 
-[bao](https://github.com/oconnor663/bao) izvaja pretočno preverjanje blake3, vendar ne podpira spreminjanja velikosti osnovnih [kosov (podpira večje "skupine kosov" za zmanjšanje režijskega prostora](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) izvaja preverjanje pretočnosti blake3, vendar ne more spreminjati velikosti osnovnih [kosov (podpira večje "skupine kosov" za zmanjšanje režijskega prostora](https://github.com/oconnor663/bao/issues/34) ).
 
-Trenutna izvedba bao porabi 6 % dodatnega pomnilniškega prostora za zapisovanje hashev za potrjevanje, kar je za strežnik za indeksiranje vsebine precejšen režijski strošek.
+To pomeni, da bao porabi 6 % dodatnega prostora za shranjevanje za zapisovanje drevesa merklov, kar je za porazdeljeni indeks vsebine precejšen režijski strošek.
 
-Moja implementacija [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), ko je `BLOCK_CHUNK` nastavljena na 10, izpiše 32-bajtni hash za vsak (1 << 10)*1024 = 1 MB, kar doda le 0,3‱ dodatnih režijskih stroškov.
+Zato sem implementiral [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), da je za vsak (1 << 10)*1024 = 1 MB, ko je `BLOCK_CHUNK` nastavljen na 10, izpisal 32-bajtni hash, s čimer sem dodal le 0,3‱ dodatnih režijskih stroškov.
 
 `./examples/main.rs` Na naslednji način :
 

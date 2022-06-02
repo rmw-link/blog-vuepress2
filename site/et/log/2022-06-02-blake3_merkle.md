@@ -1,12 +1,12 @@
 # Merkle puu põhineb blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) põhineb merkle-puu rakendamisel, kuid avalikustatud liides ei ekspordi merkle-puid.
+[blake3-l](https://github.com/BLAKE3-team/BLAKE3) on aluseks merkle-puu, kuid avalikustatud liides ei saa merkle-puud eksportida.
 
-[bao](https://github.com/oconnor663/bao) rakendab voogesituse blake3 valideerimist, kuid ei [toeta](https://github.com/oconnor663/bao/issues/34) aluseks olevate [tükkide](https://github.com/oconnor663/bao/issues/34) suuruse muutmist [(toetab suuremaid "tükkide gruppe", et vähendada ruumi koormust](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) rakendab blake3 voogedastuse valideerimist, kuid ei saa muuta aluseks olevate [tükkide](https://github.com/oconnor663/bao/issues/34) suurust [(toetab suuremaid "tükkide gruppe", et vähendada ruumi koormust](https://github.com/oconnor663/bao/issues/34) ).
 
-Praegune bao rakendamine tarbib 6% täiendavat salvestusruumi valideerimishaššide salvestamiseks, mis on sisu indekseerimisserveri jaoks märkimisväärne lisakulu.
+See tähendab, et bao kulutab Merkle-puu salvestamiseks 6% lisamäluruumi, mis on jaotatud sisuindeksi puhul märkimisväärne lisakulu.
 
-Minu [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) rakendamine, kui `BLOCK_CHUNK` on seatud 10, väljastab 32baidise hashi iga (1 << 10)*1024 = 1MB kohta, lisades ainult 0,3‱ lisakulu.
+Niisiis, ma rakendasin [blake3_merkle'i](https://github.com/rmw-lib/blake3_merkle), et väljastada 32 baidi suurune hash iga (1 << 10)*1024 = 1MB kohta, kui `BLOCK_CHUNK` on seatud 10, lisades ainult 0,3‱ lisakulu.
 
 `./examples/main.rs` Järgnevalt :
 

@@ -1,12 +1,12 @@
 # Drzewo Merkle'a na podstawie blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) jest oparty na implementacji drzewa merkle, ale interfejs nie eksportuje drzew merkle.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) ma bazowe drzewo merkle'a, ale interfejs nie może eksportować drzewa merkle'a.
 
-[bao](https://github.com/oconnor663/bao) implementuje strumieniową walidację blake3, ale nie [obsługuje](https://github.com/oconnor663/bao/issues/34) zmiany rozmiaru leżących u podstaw [chunków (obsługuje większe "grupy chunków" w celu zmniejszenia narzutu przestrzeni](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementuje walidację strumieniową blake3, ale nie może zmieniać rozmiaru leżących u jej podstaw [kawałków (obsługuje większe "grupy kawałków" w celu zmniejszenia narzutu przestrzeni](https://github.com/oconnor663/bao/issues/34) ).
 
-Aktualna implementacja bao zużywa 6% dodatkowej przestrzeni dyskowej na zapisywanie haszy walidacyjnych, co stanowi znaczący narzut dla serwera indeksującego zawartość.
+Oznacza to, że bao zużywa 6% dodatkowej przestrzeni dyskowej na zapisanie drzewa merkle'a, co jest znaczącym narzutem w przypadku rozproszonego indeksu treści.
 
-Moja implementacja [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), gdy `BLOCK_CHUNK` jest ustawione na 10, tworzy 32-bajtowy hash dla każdego (1 << 10)*1024 = 1MB, dodając tylko 0,3‱ dodatkowego narzutu.
+Dlatego zaimplementowałem [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), aby wyprowadzać 32-bajtowy hasz dla każdego (1 << 10)*1024 = 1MB, gdy `BLOCK_CHUNK` jest ustawione na 10, dodając tylko 0,3‱ dodatkowego narzutu.
 
 `./examples/main.rs` W następujący sposób :
 

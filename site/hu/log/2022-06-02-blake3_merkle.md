@@ -1,12 +1,12 @@
 # Merkle-fa a blake3 alapján
 
-A [blake3](https://github.com/BLAKE3-team/BLAKE3) egy merkle-fa implementáción alapul, de a megjelenített interfész nem exportál merkle-fákat.
+A [blake3-nak](https://github.com/BLAKE3-team/BLAKE3) van egy mögöttes merkle-fája, de a megjelenített interfész nem tudja exportálni a merkle-fát.
 
-A [bao](https://github.com/oconnor663/bao) streaming blake3 érvényesítést valósít meg, de nem [támogatja](https://github.com/oconnor663/bao/issues/34) az alapul szolgáló [darabok](https://github.com/oconnor663/bao/issues/34) méretének megváltoztatását [(nagyobb "darabcsoportok" támogatása a kisebb helyigény érdekében](https://github.com/oconnor663/bao/issues/34) ).
+A [bao](https://github.com/oconnor663/bao) megvalósítja a blake3 streaming érvényesítést, de nem tudja átméretezni az alapul szolgáló [darabokat (támogatja a nagyobb "darabcsoportokat" a kisebb helyigény érdekében](https://github.com/oconnor663/bao/issues/34) ).
 
-A bao jelenlegi implementációja 6%-os extra tárhelyet igényel az érvényesítési hashek rögzítéséhez, ami jelentős többletköltséget jelent egy tartalomindexelő kiszolgáló számára.
+Ez azt jelenti, hogy a bao 6% extra tárhelyet igényel a merkle-fa rögzítéséhez, ami jelentős többletköltséget jelent egy elosztott tartalomindex esetében.
 
-A [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) implementációm, ha a `BLOCK_CHUNK` 10-re van állítva, minden (1 << 10)*1024 = 1MB után egy 32 bájtos hash-t ad ki, ami csak 0,3‱ további többletköltséget jelent.
+Ezért a [blake3_merkle-t](https://github.com/rmw-lib/blake3_merkle) úgy implementáltam, hogy minden (1 << 10)*1024 = 1MB után egy 32 bájtos hash-t adjon ki, ha a `BLOCK_CHUNK` értéke 10, ami csak 0,3‱ extra overheadet jelent.
 
 `./examples/main.rs` Az alábbiak szerint:
 

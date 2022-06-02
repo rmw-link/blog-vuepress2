@@ -1,12 +1,12 @@
 # Merkles koks, pamatojoties uz blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) ir balstīts uz merkļu koku implementāciju, taču atklātā saskarne neeksportē merkļu kokus.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) pamatā ir merkles koks, bet eksponētais interfeiss nevar eksportēt merkles koku.
 
-[bao](https://github.com/oconnor663/bao) īsteno straumēšanas blake3 validāciju, bet neatbalsta pamatā esošo [chunks](https://github.com/oconnor663/bao/issues/34) izmēru maiņu [(atbalsta lielākas "chunk grupas", lai samazinātu telpas pieskaitāmās izmaksas](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) īsteno blake3 straumēšanas validāciju, bet nevar mainīt pakārtoto [gabalu](https://github.com/oconnor663/bao/issues/34) lielumu [(atbalsta lielākas "gabalu grupas", lai samazinātu pieskaitāmo vietu](https://github.com/oconnor663/bao/issues/34) ).
 
-Pašreizējā bao implementācija patērē 6 % papildu glabāšanas vietas, lai ierakstītu validācijas hashes, kas satura indeksēšanas serverim ir ievērojama pieskaitāmā vērtība.
+Tas nozīmē, ka bao patērē 6 % papildu glabāšanas vietas, lai ierakstītu Merkles koku, kas ir nozīmīga sadales satura indeksa pieskaitāmā daļa.
 
-Mana [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) implementācija, kad `BLOCK_CHUNK` ir iestatīta uz 10, izvada 32 baitu hash uz katru (1 << 10)*1024 = 1MB, pievienojot tikai 0,3‱ papildu pieskaitāmās izmaksas.
+Tāpēc es ieviesu [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), lai izvadītu 32 baitu hash uz katru (1 << 10)*1024 = 1MB, ja `BLOCK_CHUNK` ir iestatīts uz 10, pievienojot tikai 0,3‱ papildu pieskaitāmās izmaksas.
 
 `./examples/main.rs` Šādi:
 

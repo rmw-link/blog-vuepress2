@@ -1,12 +1,12 @@
 # Merkle tree based on blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) is based on the merkle tree implementation, but the exposed interface does not export the merkle tree.
+The underlying merkle tree of [blake3](https://github.com/BLAKE3-team/BLAKE3) is a merkle tree, but the exposed interface cannot export the merkle tree.
 
-[bao](https://github.com/oconnor663/bao) implements streaming blake3 verification, but does not [support](https://github.com/oconnor663/bao/issues/34) resizing the underlying [chunks (support larger "chunk groups" for reduced space overhead](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implements blake3 streaming verification, but cannot resize the underlying [chunks (support larger "chunk groups" for reduced space overhead](https://github.com/oconnor663/bao/issues/34) ).
 
-The current implementation of bao consumes 6% extra storage space to record validation hashes, which is a significant overhead for a content index server.
+This means that bao consumes 6% extra storage space to record the merkle tree, which is a significant overhead for a distributed content index.
 
-My implementation of [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), when `BLOCK_CHUNK` is set to 10, outputs a 32-byte hash for every (1 << 10)*1024 = 1MB, adding only 0.3‱ of additional overhead.
+So, I implemented [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), which outputs a 32-byte hash for every (1 << 10)*1024 = 1MB when `BLOCK_CHUNK` is set to 10, adding only 0.3‱ of additional overhead.
 
 `./examples/main.rs` As follows :
 
