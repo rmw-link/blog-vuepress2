@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) rakendab blake3 voogedastuse valideerimist, kuid ei saa muuta aluseks olevate [tükkide](https://github.com/oconnor663/bao/issues/34) suurust (vt [suuremate "tükkide rühmade" toetamine ruumi koormuse vähendamiseks](https://github.com/oconnor663/bao/issues/34) ).
 
-See tähendab, et bao kulutab Merkle-puu salvestamiseks 6% lisamäluruumi, mis on jaotatud sisuindeksi puhul märkimisväärne lisakulu.
+See tähendab, et bao kulutab merkle-puu salvestamiseks täiendavalt 6% salvestusruumi, mis on jaotatud sisuindeksi puhul märkimisväärne lisakulu.
 
 Seega rakendasin [blake3_merkle'i](https://github.com/rmw-lib/blake3_merkle), et eksportida 32 baiti hashi 1 MB sisu kohta, mille täiendav salvestuskoormus on 0,3‱.
+
+Merkle-puu suudab genereerida blake3-ga kooskõlas olevaid hashe'e.
+
+Kui sisu on väiksem või võrdne 1MB, on Merkle-puul ainult üks sõlm ja selle sõlme hash on võrdne blake3 hashiga.
 
 `./examples/main.rs` Järgnevalt :
 

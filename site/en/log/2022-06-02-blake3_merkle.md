@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) implements blake3 streaming verification, but cannot resize the underlying [chunks](https://github.com/oconnor663/bao/issues/34) (see [support larger "chunk groups" for reduced space overhead](https://github.com/oconnor663/bao/issues/34) ).
 
-This means that bao consumes 6% extra storage space to record the merkle tree, which is a significant overhead for a distributed content index.
+That is, bao consumes 6% extra storage space to record the merkle tree, which is a significant overhead for a distributed content index.
 
 So, I implemented [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) to export 32 bytes of hash per 1MB of content with an additional storage overhead of only 0.3‱.
+
+The merkle tree can generate hash values consistent with blake3.
+
+When the content is less than or equal to 1MB, the merkle tree has only one node, and the hash of this node is equal to the hash of blake3.
 
 `./examples/main.rs` As follows :
 

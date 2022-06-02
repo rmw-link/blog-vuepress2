@@ -4,9 +4,13 @@ A [blake3](https://github.com/BLAKE3-team/BLAKE3) alapja egy merkle-fa, de a meg
 
 A [bao](https://github.com/oconnor663/bao) megvalósítja a blake3 streaming érvényesítést, de nem tudja átméretezni az alapul szolgáló [darabokat](https://github.com/oconnor663/bao/issues/34) (lásd: [nagyobb "darabcsoportok" támogatása a kisebb helyigény érdekében](https://github.com/oconnor663/bao/issues/34) ).
 
-Ez azt jelenti, hogy a bao 6% extra tárhelyet igényel a merkle-fa rögzítéséhez, ami jelentős többletköltséget jelent egy elosztott tartalomindex esetében.
+Ez azt jelenti, hogy a bao a merkle-fa rögzítéséhez további 6% tárolóhelyet foglal el, ami jelentős többletköltséget jelent egy elosztott tartalomindex esetében.
 
 Ezért a [blake3_merkle-t](https://github.com/rmw-lib/blake3_merkle) úgy implementáltam, hogy 1 MB tartalomra 32 bájt hash-t exportáljon, 0,3‱ további tárolási többletköltséggel.
+
+A merkle-fa képes a blake3-nak megfelelő hash-okat generálni.
+
+Ha a tartalom legfeljebb 1 MB méretű, a merkle-fa csak egy csomópontot tartalmaz, és ennek a csomópontnak a hash-ja megegyezik a blake3 hash-jával.
 
 `./examples/main.rs` Az alábbiak szerint:
 

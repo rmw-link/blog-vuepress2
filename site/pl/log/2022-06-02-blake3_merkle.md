@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) implementuje walidację strumieniową blake3, ale nie może zmieniać rozmiaru leżących u jej podstaw [jednostek](https://github.com/oconnor663/bao/issues/34) (patrz [Obsługa większych "grup jednostek" w celu zmniejszenia narzutu przestrzeni](https://github.com/oconnor663/bao/issues/34) ).
 
-Oznacza to, że bao zużywa 6% dodatkowej przestrzeni dyskowej na zapisanie drzewa merkle'a, co jest znaczącym narzutem w przypadku rozproszonego indeksu treści.
+Oznacza to, że bao zużywa dodatkowe 6% przestrzeni dyskowej na zapisanie drzewa merkle'a, co jest znaczącym narzutem w przypadku rozproszonego indeksu treści.
 
 Dlatego zaimplementowałem [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), aby eksportować 32 bajty haszu na 1 MB zawartości, z dodatkowym narzutem na przechowywanie danych wynoszącym 0,3‱.
+
+Drzewo merkle'a może generować hasze zgodne z blake3.
+
+Gdy zawartość jest mniejsza lub równa 1 MB, w drzewie merkle'a znajduje się tylko jeden węzeł, a wartość skrótu tego węzła jest równa wartości skrótu węzła blake3.
 
 `./examples/main.rs` W następujący sposób :
 

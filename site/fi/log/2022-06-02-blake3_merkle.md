@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) toteuttaa blake3-suoratoistovarmennuksen, mutta ei pysty muuttamaan taustalla olevien [lohkojen](https://github.com/oconnor663/bao/issues/34) kokoa (katso [tuki suuremmille "lohkoryhmille", mikä vähentää tilankulutusta](https://github.com/oconnor663/bao/issues/34) ).
 
-Tämä tarkoittaa, että bao kuluttaa 6 % ylimääräistä tallennustilaa merkle-puun tallentamiseen, mikä on merkittävä yleiskustannus hajautetulle sisältöindeksille.
+Tämä tarkoittaa, että bao kuluttaa 6 prosenttia ylimääräistä tallennustilaa merkle-puun tallentamiseen, mikä on merkittävä yleiskustannus hajautetulle sisältöindeksille.
 
 Niinpä toteutin [blake3_merkle-toiminnon](https://github.com/rmw-lib/blake3_merkle) viemään 32 tavua hashia 1 Mt:n sisältöä kohti, jolloin ylimääräinen tallennuskustannus on 0,3‱.
+
+Merkle-puu voi tuottaa blake3:n mukaisia hasheja.
+
+Kun sisältö on enintään 1MB, merkle-puussa on vain yksi solmu, ja tämän solmun hash on yhtä suuri kuin blake3:n hash.
 
 `./examples/main.rs` seuraavasti :
 

@@ -8,6 +8,10 @@ Dit betekent dat bao 6% extra opslagruimte nodig heeft om de merkle tree op te s
 
 Dus heb ik [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) geïmplementeerd om 32 bytes hash te exporteren per 1MB inhoud, met een extra opslagoverhead van 0.3‱.
 
+De merkle boom kan hashes genereren die consistent zijn met blake3.
+
+Wanneer de inhoud kleiner is dan of gelijk aan 1MB, heeft de merkle tree slechts één knoop en de hash van deze knoop is gelijk aan de hash van blake3.
+
 `./examples/main.rs` Als volgt :
 
 ```rust

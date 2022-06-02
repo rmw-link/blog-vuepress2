@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) įgyvendina blake3 srautinį patvirtinimą, tačiau negali keisti pagrindinių [gabalų](https://github.com/oconnor663/bao/issues/34) dydžio (žr. [didesnių "gabalų grupių" palaikymą, kad sumažėtų vietos sąnaudos](https://github.com/oconnor663/bao/issues/34) ).
 
-Tai reiškia, kad bao sunaudoja 6 % papildomos vietos Merkle'io medžiui įrašyti, o tai paskirstytam turinio indeksui yra reikšmingos pridėtinės išlaidos.
+Tai reiškia, kad bao sunaudoja papildomus 6 % saugyklos vietos Merklio medžiui įrašyti, o tai yra reikšmingos pridėtinės išlaidos paskirstytam turinio indeksui.
 
 Taigi, įdiegiau [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), kad kiekvienam 1 MB turinio būtų eksportuojami 32 baitai hash, o papildoma saugojimo našta būtų 0,3‱.
+
+Merklio medis gali generuoti blake3 atitinkančias hashes.
+
+Kai turinys yra mažesnis arba lygus 1 MB, Merkle medis turi tik vieną mazgą, o šio mazgo hash yra lygus blake3 hash.
 
 `./examples/main.rs` Taip:
 

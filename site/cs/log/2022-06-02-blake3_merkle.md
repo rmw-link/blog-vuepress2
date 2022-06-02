@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) implementuje ověřování datových toků blake3, ale nemůže měnit velikost podkladových [chunků](https://github.com/oconnor663/bao/issues/34) (viz [podpora větších "skupin chunků" pro snížení prostorové režie](https://github.com/oconnor663/bao/issues/34) ).
 
-To znamená, že bao spotřebuje 6 % úložného prostoru navíc na záznam merkleova stromu, což je u distribuovaného indexu obsahu značná režie.
+To znamená, že bao spotřebuje dalších 6 % úložného prostoru pro záznam merkleova stromu, což je pro distribuovaný index obsahu značná režie.
 
 Proto jsem implementoval [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) tak, aby exportoval 32 bajtů hashe na 1 MB obsahu s dodatečnou režií ukládání 0,3‱.
+
+Merkleho strom může generovat hashe v souladu s blake3.
+
+Pokud je obsah menší nebo roven 1 MB, má merklův strom pouze jeden uzel a hash tohoto uzlu se rovná hashi blake3.
 
 `./examples/main.rs` Následující :
 

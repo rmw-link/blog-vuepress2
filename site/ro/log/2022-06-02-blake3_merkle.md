@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) implementează validarea de streaming blake3, dar nu poate redimensiona [bucățile](https://github.com/oconnor663/bao/issues/34) subiacente (a se vedea [suportul pentru "grupuri de bucăți" mai mari pentru reducerea spațiului](https://github.com/oconnor663/bao/issues/34) ).
 
-Acest lucru înseamnă că bao consumă 6% spațiu de stocare suplimentar pentru a înregistra arborele Merkle, ceea ce reprezintă un cost suplimentar semnificativ pentru un index de conținut distribuit.
+Acest lucru înseamnă că bao consumă un spațiu de stocare suplimentar de 6% pentru a înregistra arborele Merkle, ceea ce reprezintă un cost suplimentar semnificativ pentru un index de conținut distribuit.
 
 Așadar, am implementat [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) pentru a exporta 32 de octeți de hash pentru fiecare 1 MB de conținut, cu o suprataxă de stocare suplimentară de 0,3‱.
+
+Arborele Merkle poate genera hașuri în concordanță cu blake3.
+
+Atunci când conținutul este mai mic sau egal cu 1 MB, arborele Merkle are un singur nod, iar hash-ul acestui nod este egal cu hash-ul lui blake3.
 
 `./examples/main.rs` După cum urmează :
 

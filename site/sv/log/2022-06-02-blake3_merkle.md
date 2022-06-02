@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) implementerar blake3-strömningsvalidering, men kan inte ändra storleken på de underliggande [bitarna](https://github.com/oconnor663/bao/issues/34) (se [stöd för större "bitgrupper" för att minska utrymmesöverskottet](https://github.com/oconnor663/bao/issues/34) ).
 
-Detta innebär att bao förbrukar 6 % extra lagringsutrymme för att registrera Merkle-trädet, vilket är en betydande överkostnad för ett distribuerat innehållsindex.
+Detta innebär att bao förbrukar ytterligare 6 % av lagringsutrymmet för att registrera merkle-trädet, vilket är en betydande overhead för ett distribuerat innehållsindex.
 
 Så jag implementerade [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) för att exportera 32 bytes hash per 1 MB innehåll, med en extra lagringsöverskottstid på 0,3‱.
+
+Merkle-trädet kan generera hash-koder som överensstämmer med blake3.
+
+När innehållet är mindre än eller lika med 1 MB har merkle-trädet endast en nod och hashvärdet för denna nod är lika med hashvärdet för blake3.
 
 `./examples/main.rs` Följande gäller:
 

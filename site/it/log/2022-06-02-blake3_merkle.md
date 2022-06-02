@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) implementa la validazione dello streaming blake3, ma non può ridimensionare i [chunk](https://github.com/oconnor663/bao/issues/34) sottostanti (vedere il [supporto di "gruppi di chunk" più grandi per ridurre l'overhead di spazio](https://github.com/oconnor663/bao/issues/34) ).
 
-Ciò significa che bao consuma il 6% di spazio di archiviazione in più per registrare l'albero di merkle, che è un overhead significativo per un indice di contenuti distribuito.
+Ciò significa che bao consuma un ulteriore 6% di spazio di archiviazione per registrare l'albero di merkle, un overhead significativo per un indice di contenuti distribuito.
 
 Ho quindi implementato [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) per esportare 32 byte di hash per 1 MB di contenuto, con un overhead di memorizzazione aggiuntivo di 0,3‱.
+
+L'albero di merkle può generare hash coerenti con blake3.
+
+Quando il contenuto è inferiore o uguale a 1 MB, l'albero di Merkle ha un solo nodo e l'hash di questo nodo è uguale all'hash di blake3.
 
 `./examples/main.rs` Come segue :
 

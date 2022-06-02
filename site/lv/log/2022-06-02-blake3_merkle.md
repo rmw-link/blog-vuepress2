@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) īsteno blake3 straumēšanas validāciju, bet nevar mainīt pakārtoto [gabalu](https://github.com/oconnor663/bao/issues/34) lielumu (skatiet [atbalstu lielākām "gabalu grupām", lai samazinātu pieskaitāmo vietu](https://github.com/oconnor663/bao/issues/34) ).
 
-Tas nozīmē, ka bao patērē 6 % papildu glabāšanas vietas, lai ierakstītu Merkles koku, kas ir nozīmīga sadales satura indeksa pieskaitāmā daļa.
+Tas nozīmē, ka bao patērē papildu 6 % glabāšanas vietas, lai ierakstītu Merkles koku, kas ir ievērojama pieskaitāmā vērtība izplatītam satura indeksam.
 
 Tāpēc es ieviesu [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), lai eksportētu 32 baitus hash uz 1 MB satura ar papildu 0,3 MB uzglabāšanas izmaksām.
+
+Merkles koks var ģenerēt blake3 atbilstošas hašes.
+
+Ja saturs ir mazāks vai vienāds ar 1 MB, Merkles kokam ir tikai viens mezgls, un šī mezgla hash ir vienāds ar blake3 hash.
 
 `./examples/main.rs` Šādi:
 

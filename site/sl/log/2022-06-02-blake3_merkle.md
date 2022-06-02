@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) izvaja preverjanje pretočnosti blake3, vendar ne more spreminjati velikosti osnovnih [kosov](https://github.com/oconnor663/bao/issues/34) (glejte [podporo večjim "skupinam kosov" za zmanjšanje prostorske obremenitve](https://github.com/oconnor663/bao/issues/34) ).
 
-To pomeni, da bao porabi 6 % dodatnega prostora za shranjevanje za zapisovanje drevesa merklov, kar je za porazdeljeni indeks vsebine precejšen režijski strošek.
+To pomeni, da bao za zapis drevesa merklov porabi dodatnih 6 % prostora za shranjevanje, kar je za porazdeljeni indeks vsebine precejšen režijski strošek.
 
 Zato sem implementiral [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) za izvoz 32 bajtov hasha na 1 MB vsebine, pri čemer je dodatna režija shranjevanja 0,3‱.
+
+Merklovo drevo lahko ustvari hashe, ki so skladni z blake3.
+
+Če je vsebina manjša ali enaka 1 MB, ima drevo merklov samo eno vozlišče in hash tega vozlišča je enak hashu blake3.
 
 `./examples/main.rs` Na naslednji način :
 

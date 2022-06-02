@@ -4,9 +4,13 @@
 
 [bao](https://github.com/oconnor663/bao) implementiert die Blake3-Streaming-Validierung, kann aber die Größe der zugrundeliegenden [Chunks](https://github.com/oconnor663/bao/issues/34) nicht ändern (siehe [Unterstützung größerer "Chunk-Gruppen" zur Verringerung des Speicherplatz-Overheads](https://github.com/oconnor663/bao/issues/34) ).
 
-Dies bedeutet, dass bao 6 % zusätzlichen Speicherplatz für die Aufzeichnung des Merkle-Baums verbraucht, was für einen verteilten Inhaltsindex einen erheblichen Overhead darstellt.
+Das bedeutet, dass bao zusätzlich 6 % Speicherplatz für die Aufzeichnung des Merkle-Baums verbraucht, was für einen verteilten Inhaltsindex einen erheblichen Overhead darstellt.
 
 Daher habe ich [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) so implementiert, dass 32 Byte Hash pro 1 MB Inhalt exportiert werden, was einen zusätzlichen Speicheraufwand von 0,3‱ bedeutet.
+
+Der Merkle-Baum kann Hashes erzeugen, die mit Blake3 übereinstimmen.
+
+Wenn der Inhalt kleiner oder gleich 1 MB ist, hat der Merkle-Baum nur einen Knoten und der Hash dieses Knotens ist gleich dem Hash von blake3.
 
 `./examples/main.rs` Wie folgt:
 

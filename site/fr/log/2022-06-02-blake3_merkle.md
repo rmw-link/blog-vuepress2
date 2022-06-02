@@ -8,6 +8,10 @@ Cela signifie que bao consomme 6 % d'espace de stockage supplémentaire pour enr
 
 J'ai donc implémenté [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) pour exporter 32 octets de hachage par 1 Mo de contenu, avec une surcharge de stockage supplémentaire de 0,3‱.
 
+L'arbre de merkle peut générer des hachages compatibles avec blake3.
+
+Lorsque le contenu est inférieur ou égal à 1 Mo, l'arbre de merkle ne comporte qu'un seul nœud et le hachage de ce nœud est égal au hachage de blake3.
+
 `./examples/main.rs` Comme suit :
 
 ```rust
