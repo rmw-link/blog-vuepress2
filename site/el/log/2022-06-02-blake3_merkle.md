@@ -1,6 +1,6 @@
 # Δέντρο Merkle με βάση το blake3
 
-Το [blake3](https://github.com/BLAKE3-team/BLAKE3) έχει ένα υποκείμενο δέντρο merkle, αλλά η εκτεθειμένη διεπαφή δεν μπορεί να εξάγει το δέντρο merkle.
+Το [blake3](https://github.com/BLAKE3-team/BLAKE3) υποστηρίζεται από ένα δέντρο merkle, αλλά η εκτεθειμένη διεπαφή δεν εξάγει το δέντρο merkle.
 
 [Το bao](https://github.com/oconnor663/bao) υλοποιεί την επικύρωση ροής blake3, αλλά δεν μπορεί να αλλάξει το μέγεθος των υποκείμενων [τεμαχίων (υποστήριξη μεγαλύτερων "ομάδων τεμαχίων" για μειωμένη επιβάρυνση χώρου](https://github.com/oconnor663/bao/issues/34) ).
 

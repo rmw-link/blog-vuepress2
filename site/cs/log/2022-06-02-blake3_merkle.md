@@ -1,6 +1,6 @@
 # Merkleho strom založený na blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) má základní merkleův strom, ale vystavené rozhraní nemůže merkleův strom exportovat.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) je založen na merkleově stromu, ale vystavené rozhraní neexportuje merkleův strom.
 
 [bao](https://github.com/oconnor663/bao) implementuje ověřování datových toků blake3, ale nemůže měnit velikost podkladových [chunků (podporuje větší "skupiny chunků" pro snížení prostorové režie](https://github.com/oconnor663/bao/issues/34) ).
 

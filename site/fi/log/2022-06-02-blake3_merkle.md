@@ -1,6 +1,6 @@
 # Blake3:een perustuva Merkle-puu
 
-[blake3:lla](https://github.com/BLAKE3-team/BLAKE3) on taustalla oleva merkle-puu, mutta näkyvillä oleva rajapinta ei voi viedä merkle-puuta.
+[blake3](https://github.com/BLAKE3-team/BLAKE3):n perustana on merkle-puu, mutta paljastettu käyttöliittymä ei vie merkle-puuta.
 
 [bao](https://github.com/oconnor663/bao) toteuttaa blake3-suoratoistovarmennuksen, mutta ei pysty muuttamaan taustalla olevien [lohkojen](https://github.com/oconnor663/bao/issues/34) kokoa [(tukee suurempia "lohkoryhmiä" pienemmän tilankäytön vuoksi](https://github.com/oconnor663/bao/issues/34) ).
 

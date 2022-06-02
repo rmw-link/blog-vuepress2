@@ -1,6 +1,6 @@
 # Arbre de Merkle basé sur blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) possède un arbre de merkle sous-jacent, mais l'interface exposée ne peut pas exporter l'arbre de merkle.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) est sous-tendu par un arbre de merkle, mais l'interface exposée n'exporte pas l'arbre de merkle.
 
 [bao](https://github.com/oconnor663/bao) implémente la validation de flux blake3, mais ne peut pas redimensionner les [chunks](https://github.com/oconnor663/bao/issues/34) sous-jacents ( [supporte des "groupes de chunks" plus grands pour réduire l'encombrement](https://github.com/oconnor663/bao/issues/34) ).
 

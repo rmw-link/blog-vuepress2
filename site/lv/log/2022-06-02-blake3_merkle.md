@@ -1,6 +1,6 @@
 # Merkles koks, pamatojoties uz blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) pamatā ir merkles koks, bet eksponētais interfeiss nevar eksportēt merkles koku.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) pamatā ir merkles koks, taču atklātā saskarne neeksportē merkles koku.
 
 [bao](https://github.com/oconnor663/bao) īsteno blake3 straumēšanas validāciju, bet nevar mainīt pakārtoto [gabalu](https://github.com/oconnor663/bao/issues/34) lielumu [(atbalsta lielākas "gabalu grupas", lai samazinātu pieskaitāmo vietu](https://github.com/oconnor663/bao/issues/34) ).
 

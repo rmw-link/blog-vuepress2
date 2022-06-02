@@ -1,6 +1,6 @@
 # Albero di Merkle basato su blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) ha un albero di merkle sottostante, ma l'interfaccia esposta non può esportare l'albero di merkle.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) si basa su un albero di merkle, ma l'interfaccia esposta non esporta l'albero di merkle.
 
 [bao](https://github.com/oconnor663/bao) implementa la validazione dello streaming blake3, ma non può ridimensionare i [chunk](https://github.com/oconnor663/bao/issues/34) sottostanti [(supporta "gruppi di chunk" più grandi per ridurre l'overhead di spazio](https://github.com/oconnor663/bao/issues/34) ).
 

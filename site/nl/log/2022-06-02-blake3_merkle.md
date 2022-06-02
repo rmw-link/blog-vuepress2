@@ -1,6 +1,6 @@
 # Merkleboom gebaseerd op blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) heeft een onderliggende merkle tree, maar de blootgestelde interface kan de merkle tree niet exporteren.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) wordt ondersteund door een merkle tree, maar de blootgelegde interface exporteert de merkle tree niet.
 
 [bao](https://github.com/oconnor663/bao) implementeert blake3 streaming validatie, maar kan de grootte van de onderliggende [chunks](https://github.com/oconnor663/bao/issues/34) niet wijzigen [(ondersteuning van grotere "chunk groups" voor minder ruimte-overhead](https://github.com/oconnor663/bao/issues/34) ).
 

@@ -1,6 +1,6 @@
-# Merkle tree based on blake3
+# merkle tree based on blake3
 
-The underlying merkle tree of [blake3](https://github.com/BLAKE3-team/BLAKE3) is a merkle tree, but the exposed interface cannot export the merkle tree.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) is based on merkle tree, but the exposed interface cannot export merkle tree.
 
 [bao](https://github.com/oconnor663/bao) implements blake3 streaming verification, but cannot resize the underlying [chunks (support larger "chunk groups" for reduced space overhead](https://github.com/oconnor663/bao/issues/34) ).
 

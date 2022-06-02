@@ -1,6 +1,6 @@
 # Merkle-träd baserat på blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) har ett underliggande merkle-träd, men det exponerade gränssnittet kan inte exportera merkle-trädet.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) bygger på ett merkle-träd, men det exponerade gränssnittet exporterar inte merkle-trädet.
 
 [bao](https://github.com/oconnor663/bao) implementerar blake3-strömningsvalidering, men kan inte ändra storleken på de underliggande [bitarna (stödjer större "bitgrupper" för att minska utrymmesöverskottet](https://github.com/oconnor663/bao/issues/34) ).
 

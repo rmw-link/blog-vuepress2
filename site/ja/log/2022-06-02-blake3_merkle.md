@@ -1,6 +1,6 @@
 # blake3をベースにしたメルクル木
 
-[blake3は](https://github.com/BLAKE3-team/BLAKE3) 基底にmerkle木を持ちますが、公開されたインターフェースはmerkle木をエクスポートすることができません。
+[blake3は](https://github.com/BLAKE3-team/BLAKE3) merkle treeを下敷きにしていますが、公開されているインターフェースではmerkle treeをエクスポートしていません。
 
 [baoは](https://github.com/oconnor663/bao) blake3ストリーミング検証を実装していますが、基礎となる [チャンクの](https://github.com/oconnor663/bao/issues/34) サイズを変更することはできません [（空間のオーバーヘッドを減らすために、より大きな「チャンクグループ」をサポート](https://github.com/oconnor663/bao/issues/34) します）。
 

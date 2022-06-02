@@ -1,6 +1,6 @@
 # Merkle puu põhineb blake3
 
-[blake3-l](https://github.com/BLAKE3-team/BLAKE3) on aluseks merkle-puu, kuid avalikustatud liides ei saa merkle-puud eksportida.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) aluseks on merkle-puu, kuid avalikustatud liides ei ekspordi merkle-puud.
 
 [bao](https://github.com/oconnor663/bao) rakendab blake3 voogedastuse valideerimist, kuid ei saa muuta aluseks olevate [tükkide](https://github.com/oconnor663/bao/issues/34) suurust [(toetab suuremaid "tükkide gruppe", et vähendada ruumi koormust](https://github.com/oconnor663/bao/issues/34) ).
 

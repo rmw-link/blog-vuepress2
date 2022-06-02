@@ -1,6 +1,6 @@
 # Merkle-Baum auf der Grundlage von Blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) verfügt über einen Merkle-Baum, aber die exponierte Schnittstelle kann den Merkle-Baum nicht exportieren.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) wird durch einen Merkle-Baum unterstützt, aber die exponierte Schnittstelle exportiert den Merkle-Baum nicht.
 
 [bao](https://github.com/oconnor663/bao) implementiert die Blake3-Streaming-Validierung, kann aber die Größe der zugrundeliegenden [Chunks](https://github.com/oconnor663/bao/issues/34) nicht ändern [(Unterstützung größerer "Chunk-Gruppen" zur Verringerung des Speicherplatz-Overheads](https://github.com/oconnor663/bao/issues/34) ).
 

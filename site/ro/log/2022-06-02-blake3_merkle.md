@@ -1,6 +1,6 @@
 # Arbore Merkle bazat pe blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) are un arbore Merkle subiacent, dar interfața expusă nu poate exporta arborele Merkle.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) se bazează pe un arbore Merkle, dar interfața expusă nu exportă arborele Merkle.
 
 [bao](https://github.com/oconnor663/bao) implementează validarea de streaming blake3, dar nu poate redimensiona bucățile subiacente [(acceptă "grupuri de bucățele" mai mari pentru reducerea spațiului](https://github.com/oconnor663/bao/issues/34) ).
 

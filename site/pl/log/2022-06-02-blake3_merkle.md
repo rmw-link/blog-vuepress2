@@ -1,6 +1,6 @@
 # Drzewo Merkle'a na podstawie blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) ma bazowe drzewo merkle'a, ale interfejs nie może eksportować drzewa merkle'a.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) jest oparty na drzewie merkle'a, ale interfejs nie eksportuje drzewa merkle'a.
 
 [bao](https://github.com/oconnor663/bao) implementuje walidację strumieniową blake3, ale nie może zmieniać rozmiaru leżących u jej podstaw [kawałków (obsługuje większe "grupy kawałków" w celu zmniejszenia narzutu przestrzeni](https://github.com/oconnor663/bao/issues/34) ).
 

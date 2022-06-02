@@ -1,6 +1,6 @@
 # Drevo Merkle, ki temelji na blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) ima osnovno drevo merkle, vendar izpostavljeni vmesnik ne more izvoziti drevesa merkle.
+[Blake3](https://github.com/BLAKE3-team/BLAKE3) temelji na drevesu merkle, vendar izpostavljeni vmesnik ne izvaža drevesa merkle.
 
 [bao](https://github.com/oconnor663/bao) izvaja preverjanje pretočnosti blake3, vendar ne more spreminjati velikosti osnovnih [kosov (podpira večje "skupine kosov" za zmanjšanje režijskega prostora](https://github.com/oconnor663/bao/issues/34) ).
 

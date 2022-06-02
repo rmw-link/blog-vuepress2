@@ -1,6 +1,6 @@
 # Merkle-træ baseret på blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) har et underliggende merkle-træ, men den udsatte grænseflade kan ikke eksportere merkle-træet.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) understøttes af et merkle-træ, men den eksponerede grænseflade eksporterer ikke merkle-træet.
 
 [bao](https://github.com/oconnor663/bao) implementerer blake3 streamingvalidering, men kan ikke ændre størrelsen på de underliggende [chunks (understøtter større "chunkgrupper" for at reducere pladsoverhead](https://github.com/oconnor663/bao/issues/34) ).
 

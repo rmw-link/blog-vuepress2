@@ -1,6 +1,6 @@
 # Merkleho strom založený na blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) má základný merkleov strom, ale vystavené rozhranie nemôže exportovať merkleov strom.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) je založený na merkleovom strome, ale vystavené rozhranie neexportuje merkleov strom.
 
 [bao](https://github.com/oconnor663/bao) implementuje overovanie prúdenia blake3, ale nedokáže meniť veľkosť podkladových [chunkov (podporuje väčšie "skupiny chunkov" pre zníženie priestorovej réžie](https://github.com/oconnor663/bao/issues/34) ).
 

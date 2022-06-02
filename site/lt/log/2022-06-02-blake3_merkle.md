@@ -1,6 +1,6 @@
 # Merklio medis pagal blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) turi pagrindinį Merkle'io medį, tačiau per rodomą sąsają negalima eksportuoti Merkle'io medžio.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) yra paremtas Merkle'io medžiu, tačiau atveriama sąsaja neeksportuoja Merkle'io medžio.
 
 [bao](https://github.com/oconnor663/bao) įgyvendina blake3 srautinį patvirtinimą, tačiau negali keisti pagrindinių [gabalėlių](https://github.com/oconnor663/bao/issues/34) dydžio [(palaiko didesnes "gabalėlių grupes", kad sumažėtų vietos sąnaudos](https://github.com/oconnor663/bao/issues/34) ).
 

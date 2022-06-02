@@ -1,6 +1,6 @@
 # Merkle-fa a blake3 alapján
 
-A [blake3-nak](https://github.com/BLAKE3-team/BLAKE3) van egy mögöttes merkle-fája, de a megjelenített interfész nem tudja exportálni a merkle-fát.
+A [blake3](https://github.com/BLAKE3-team/BLAKE3) alapja egy merkle-fa, de a megjelenített interfész nem exportálja a merkle-fát.
 
 A [bao](https://github.com/oconnor663/bao) megvalósítja a blake3 streaming érvényesítést, de nem tudja átméretezni az alapul szolgáló [darabokat (támogatja a nagyobb "darabcsoportokat" a kisebb helyigény érdekében](https://github.com/oconnor663/bao/issues/34) ).
 
