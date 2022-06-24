@@ -1,9 +1,9 @@
-# Biblioteca Open Source
+# Biblioteca open source
 
 Un sottoprodotto dello sviluppo del processo rmw.link.
 
-* [Versione personalizzata di vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
-  Vedere Creare un [blog con vuepress](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link versione personalizzata](https://github.com/rmw-link/blog-vuepress2)  
+  Vedere il [blog di costruzione di vuepress](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   strumenti di traduzione markdown
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -18,4 +18,5 @@ Un sottoprodotto dello sviluppo del processo rmw.link.
   Un wrapper rust per [libmdbx](https://github.com/erthink/libmdbx)
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [Modificare quickjs per importare funzioni rust: un nuovo modo di estendere Kraken](/log/2022-04-29-quickjs-rust.html)
-* [Un albero di merkle basato su blake3](/log/2022-06-02-blake3_merkle.html)
+* [albero di merkle basato su blake3](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : generatore di captcha rust e leggero che può essere compilato in wasm](/log/2022-06-24_tiny_captcha.html)

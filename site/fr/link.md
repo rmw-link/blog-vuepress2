@@ -2,8 +2,8 @@
 
 Un sous-produit du développement du processus rmw.link.
 
-* [Version personnalisée de vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
-  Voir Construire un [blog avec vuepress](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link version personnalisée](https://github.com/rmw-link/blog-vuepress2)  
+  Voir le [blog de construction de vuepress](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   outils de traduction markdown
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -18,4 +18,5 @@ Un sous-produit du développement du processus rmw.link.
   Un wrapper rust pour [libmdbx](https://github.com/erthink/libmdbx)
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [Modifier quickjs pour importer des fonctions rust - une nouvelle façon d'étendre Kraken](/log/2022-04-29-quickjs-rust.html)
-* [Un arbre de merkle basé sur blake3](/log/2022-06-02-blake3_merkle.html)
+* [arbre de merkle basé sur blake3](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : générateur de captcha léger et rouillé qui peut être compilé en wasm](/log/2022-06-24_tiny_captcha.html)

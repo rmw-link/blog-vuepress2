@@ -1,14 +1,14 @@
 # Arbre de Merkle basé sur blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) est sous-tendu par un arbre de merkle, mais l'interface exposée n'exporte pas l'arbre de merkle.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) est basé sur un arbre de merkle, mais l'interface exposée n'exporte pas l'arbre de merkle.
 
-[bao](https://github.com/oconnor663/bao) met en œuvre la validation de flux blake3, mais ne peut pas redimensionner les [morceaux](https://github.com/oconnor663/bao/issues/34) sous-jacents (voir le [support de plus grands "groupes de morceaux" pour réduire l'enc](https://github.com/oconnor663/bao/issues/34) ombrement).
+[bao](https://github.com/oconnor663/bao) met en œuvre la validation de flux blake3, mais ne peut pas redimensionner les [morceaux](https://github.com/oconnor663/bao/issues/34) sous-jacents (voir le [support de plus grands "groupes de morceaux" pour réduire l'encombrement](https://github.com/oconnor663/bao/issues/34) ).
 
 Cela signifie que bao consomme 6 % d'espace de stockage supplémentaire pour enregistrer l'arbre de merkle, ce qui représente une surcharge importante pour un index de contenu distribué.
 
-J'ai donc implémenté [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) pour exporter 32 octets de hachage par 1 Mo de contenu, avec une surcharge de stockage supplémentaire de 0,3‱.
+J'ai donc implémenté [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) pour dériver 32 octets de hachage par 1 Mo de contenu avec un surcoût de stockage supplémentaire de 0,3‱.
 
-L'arbre de merkle peut générer des hachages compatibles avec blake3.
+L'arbre de merkle génère des hachages qui sont cohérents avec blake3.
 
 Lorsque le contenu est inférieur ou égal à 1 Mo, l'arbre de merkle ne comporte qu'un seul nœud et le hachage de ce nœud est égal au hachage de blake3.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Exécutez `./example.main.sh`et la sortie ressemblera à ceci
+Exécutez `./example.main.sh`et la sortie est la suivante
 
 ```
 [examples/main.rs:14] &merkle.li = [

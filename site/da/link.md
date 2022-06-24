@@ -2,8 +2,8 @@
 
 Et biprodukt af udviklingen af rmw.link-processen.
 
-* [Tilpasset version af vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
-  Se Opbygning af en [blog med vuepress](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link tilpasset version](https://github.com/rmw-link/blog-vuepress2)  
+  Se [vuepress-bloggen om opbygning af vuepress](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   værktøjer til oversættelse af markdown
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -15,7 +15,8 @@ Et biprodukt af udviklingen af rmw.link-processen.
 * [xxblake3](https://docs.rs/crate/xxblake3)  
   Krypteringsalgoritme baseret på blake3, xxh3
 * [mdbx](https://docs.rs/crate/mdbx)  
-  En rust-wrapper til [libmdbx](https://github.com/erthink/libmdbx)
+  En rust-wrapper for [libmdbx](https://github.com/erthink/libmdbx)
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [Ændring af quickjs til at importere rustfunktioner - en ny måde at udvide Kraken på](/log/2022-04-29-quickjs-rust.html)
-* [Et merkle-træ baseret på blake3](/log/2022-06-02-blake3_merkle.html)
+* [merkle-træ baseret på blake3](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : rust letvægts captcha-generator, der kan kompileres til wasm](/log/2022-06-24_tiny_captcha.html)

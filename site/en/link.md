@@ -3,7 +3,7 @@
 A by-product of the rmw.link development process.
 
 * [vuepress rmw.link customization](https://github.com/rmw-link/blog-vuepress2)  
-  See ["vuepress Build a Blog](/log/2020-11-29-vuepress.html)
+  See the [vuepress build blog](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   markdown translation tools
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -19,3 +19,4 @@ A by-product of the rmw.link development process.
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [Modifying quickjs to import rust functions - a new way to extend Kraken](/log/2022-04-29-quickjs-rust.html)
 * [merkle tree based on blake3](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : rust lightweight captcha generator that can be compiled into wasm](/log/2022-06-24_tiny_captcha.html)

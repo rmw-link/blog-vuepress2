@@ -1,14 +1,14 @@
 # Merkle-fa a blake3 alapján
 
-A [blake3](https://github.com/BLAKE3-team/BLAKE3) alapja egy merkle-fa, de a megjelenített interfész nem exportálja a merkle-fát.
+A [blake3](https://github.com/BLAKE3-team/BLAKE3) egy merkle-fán alapul, de az exponált interfész nem tudja exportálni a merkle-fát.
 
-A [bao](https://github.com/oconnor663/bao) megvalósítja a blake3 streaming érvényesítést, de nem tudja átméretezni az alapul szolgáló [darabokat](https://github.com/oconnor663/bao/issues/34) (lásd: [nagyobb "darabcsoportok" támogatása a kisebb helyigény érdekében](https://github.com/oconnor663/bao/issues/34) ).
+A [bao](https://github.com/oconnor663/bao) megvalósítja a blake3 streaming érvényesítést, de nem tudja átméretezni az alapul szolgáló [darabokat](https://github.com/oconnor663/bao/issues/34) (lásd a [nagyobb "darabcsoportok" támogatását a kisebb helyigény érdekében](https://github.com/oconnor663/bao/issues/34) ).
 
-Ez azt jelenti, hogy a bao a merkle-fa rögzítéséhez további 6% tárolóhelyet foglal el, ami jelentős többletköltséget jelent egy elosztott tartalomindex esetében.
+Ez azt jelenti, hogy a bao 6% extra tárhelyet igényel a merkle-fa rögzítéséhez, ami jelentős többletköltséget jelent egy elosztott tartalomindex esetében.
 
-Ezért a [blake3_merkle-t](https://github.com/rmw-lib/blake3_merkle) úgy implementáltam, hogy 1 MB tartalomra 32 bájt hash-t exportáljon, 0,3‱ további tárolási többletköltséggel.
+Ezért a [blake3_merkle-t](https://github.com/rmw-lib/blake3_merkle) úgy implementáltam, hogy 1 MB tartalomra 32 bájt hash-t származtassak, 0,3‱ további tárolási többletköltséggel.
 
-A merkle-fa képes a blake3-nak megfelelő hash-okat generálni.
+A merkle-fa a blake3-nak megfelelő hash-eket generál.
 
 Ha a tartalom legfeljebb 1 MB méretű, a merkle-fa csak egy csomópontot tartalmaz, és ennek a csomópontnak a hash-ja megegyezik a blake3 hash-jával.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-A `./example.main.sh`futtatásával a kimenet így fog kinézni
+Futtassa a `./example.main.sh`címet, és a kimenet a következő
 
 ```
 [examples/main.rs:14] &merkle.li = [

@@ -1,14 +1,14 @@
 # Merkleboom gebaseerd op blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) wordt ondersteund door een merkle tree, maar de blootgelegde interface exporteert de merkle tree niet.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) is gebaseerd op een merkle tree, maar de blootgelegde interface exporteert de merkle tree niet.
 
 [bao](https://github.com/oconnor663/bao) implementeert blake3 streaming validatie, maar kan de grootte van de onderliggende [chunks](https://github.com/oconnor663/bao/issues/34) niet wijzigen (zie [ondersteuning van grotere "chunk groups" voor minder ruimte-overhead](https://github.com/oconnor663/bao/issues/34) ).
 
 Dit betekent dat bao 6% extra opslagruimte nodig heeft om de merkle tree op te slaan, wat een aanzienlijke overhead is voor een gedistribueerde inhoudsindex.
 
-Dus heb ik [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) geïmplementeerd om 32 bytes hash te exporteren per 1MB inhoud, met een extra opslagoverhead van 0.3‱.
+Dus heb ik [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) geïmplementeerd om 32 bytes hash af te leiden per 1MB inhoud met een extra opslag-overhead van 0.3‱.
 
-De merkle boom kan hashes genereren die consistent zijn met blake3.
+De merkle boom genereert hashes die consistent zijn met blake3.
 
 Wanneer de inhoud kleiner is dan of gelijk aan 1MB, heeft de merkle tree slechts één knoop en de hash van deze knoop is gelijk aan de hash van blake3.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Start `./example.main.sh`en de uitvoer zal er als volgt uitzien
+Start `./example.main.sh`en de output is als volgt
 
 ```
 [examples/main.rs:14] &merkle.li = [

@@ -2,8 +2,8 @@
 
 Šalutinis rmw.link proceso kūrimo produktas.
 
-* [Pritaikyta "vuepress" versija rmw.link](https://github.com/rmw-link/blog-vuepress2)  
-  Žr. [Tinklaraščio](/log/2020-11-29-vuepress.html) kūrimas [su "vuepress](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link pritaikyta versija](https://github.com/rmw-link/blog-vuepress2)  
+  Žr. " [vuepress" kūrimo tinklaraštį](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   Markdown vertimo įrankiai
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -18,4 +18,5 @@
   [Libmdbx](https://github.com/erthink/libmdbx) rust apvalkalas
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [Quickjs modifikavimas, kad būtų galima importuoti rūdžių funkcijas - naujas būdas išplėsti "Kraken](/log/2022-04-29-quickjs-rust.html)
-* [Merkle'io medis, pagrįstas blake3](/log/2022-06-02-blake3_merkle.html)
+* [Merklio medis pagal blake3](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : rūdžių lengvas captcha generatorius, kurį galima sukompiliuoti į wasm](/log/2022-06-24_tiny_captcha.html)

@@ -2,8 +2,8 @@
 
 Rmw.link protsessi arendamise kõrvalsaadus.
 
-* [Kohandatud versioon vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
-  Vt [Blogi](/log/2020-11-29-vuepress.html) loomine [vuepressiga](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link kohandatud versioon](https://github.com/rmw-link/blog-vuepress2)  
+  Vaata [vuepressi ehitamise blogi](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   markdown tõlkevahendid
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -18,4 +18,5 @@ Rmw.link protsessi arendamise kõrvalsaadus.
   Rooste wrapper [libmdbx](https://github.com/erthink/libmdbx) jaoks [libmdbx](https://github.com/erthink/libmdbx)
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [Quickjs muutmine rooste funktsioonide importimiseks - uus viis Krakeni laiendamiseks](/log/2022-04-29-quickjs-rust.html)
-* [Blake3-l põhinev merkle-puu](/log/2022-06-02-blake3_merkle.html)
+* [merkle-puu, mis põhineb blake3-l](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : rooste kergekaaluline captcha generaator, mida saab kompileerida wasm-i](/log/2022-06-24_tiny_captcha.html)

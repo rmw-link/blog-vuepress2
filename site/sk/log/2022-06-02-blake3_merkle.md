@@ -1,14 +1,14 @@
 # Merkleho strom založený na blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) je založený na merkleovom strome, ale vystavené rozhranie neexportuje merkleov strom.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) je založený na merkleovom strome, ale vystavené rozhranie nedokáže exportovať merkleov strom.
 
 [bao](https://github.com/oconnor663/bao) implementuje overovanie prúdenia blake3, ale nedokáže meniť veľkosť základných [chunkov](https://github.com/oconnor663/bao/issues/34) (pozri [podporu väčších "chunk groups" pre zníženie priestorovej réžie](https://github.com/oconnor663/bao/issues/34) ).
 
-To znamená, že bao spotrebuje ďalších 6 % úložného priestoru na záznam merkleovho stromu, čo je pre distribuovaný index obsahu značná réžia.
+To znamená, že bao spotrebuje 6 % úložného priestoru navyše na zaznamenanie merkleovho stromu, čo je pre distribuovaný index obsahu významná réžia.
 
-Preto som implementoval [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), aby exportoval 32 bajtov hash na 1 MB obsahu s dodatočnou réžiou ukladania 0,3‱.
+Preto som implementoval [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) na získanie 32 bajtov hash na 1 MB obsahu s dodatočnou réžiou ukladania 0,3‱.
 
-Merkleho strom dokáže generovať hashe v súlade s blake3.
+Merkleho strom generuje hashe, ktoré sú v súlade s blake3.
 
 Ak je obsah menší alebo rovný 1 MB, merkleov strom má len jeden uzol a hash tohto uzla sa rovná hashu blake3.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Spustite stránku `./example.main.sh`a výstup bude vyzerať takto
+Spustite stránku `./example.main.sh`a výstup je nasledovný
 
 ```
 [examples/main.rs:14] &merkle.li = [

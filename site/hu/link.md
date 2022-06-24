@@ -2,8 +2,8 @@
 
 Az rmw.link folyamat fejlesztésének mellékterméke.
 
-* [A vuepress rmw.link testreszabott változata](https://github.com/rmw-link/blog-vuepress2)  
-  Lásd: [Blog](/log/2020-11-29-vuepress.html) építése [vuepresszel](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link testreszabott változat](https://github.com/rmw-link/blog-vuepress2)  
+  Lásd a [vuepress építési blogot](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   markdown fordítási eszközök
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -18,4 +18,5 @@ Az rmw.link folyamat fejlesztésének mellékterméke.
   Egy rozsda wrapper a [libmdbx-hez](https://github.com/erthink/libmdbx)
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [A quickjs módosítása a rozsda függvények importálásához - a Kraken kiterjesztésének új módja](/log/2022-04-29-quickjs-rust.html)
-* [A merkle fa a blake3 alapján](/log/2022-06-02-blake3_merkle.html)
+* [merkle-fa blake3 alapján](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : rozsda könnyű captcha generátor, amely wasm-be fordítható.](/log/2022-06-24_tiny_captcha.html)

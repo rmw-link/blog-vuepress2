@@ -2,8 +2,8 @@
 
 Ένα υποπροϊόν της ανάπτυξης της διαδικασίας rmw.link.
 
-* [Προσαρμοσμένη έκδοση του vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
-  Βλέπε Δημιουργία ενός [blog με το vuepress](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link προσαρμοσμένη έκδοση](https://github.com/rmw-link/blog-vuepress2)  
+  Δείτε το [blog κατασκευής του vuepress](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   εργαλεία μετάφρασης markdown
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -18,4 +18,5 @@
   Ένα περιτύλιγμα σκουριάς για [τη libmdbx](https://github.com/erthink/libmdbx)
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [Τροποποίηση του quickjs για την εισαγωγή συναρτήσεων ρουστίνας - ένας νέος τρόπος επέκτασης του Kraken](/log/2022-04-29-quickjs-rust.html)
-* [Ένα δέντρο merkle με βάση το blake3](/log/2022-06-02-blake3_merkle.html)
+* [δέντρο merkle με βάση το blake3](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : rust ελαφριά γεννήτρια captcha που μπορεί να μεταγλωττιστεί σε wasm](/log/2022-06-24_tiny_captcha.html)

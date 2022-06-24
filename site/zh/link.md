@@ -19,3 +19,4 @@
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [修改 quickjs 以导入 rust 函数 —— 一种扩展北海的新思路](/log/2022-04-29-quickjs-rust.html)
 * [基于 blake3 的 merkle tree](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : rust 轻量级验证码生成器，可以编译成 wasm](/log/2022-06-24_tiny_captcha.html)

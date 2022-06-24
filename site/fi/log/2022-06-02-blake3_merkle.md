@@ -1,14 +1,14 @@
 # Blake3:een perustuva Merkle-puu
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3):n perustana on merkle-puu, mutta paljastettu käyttöliittymä ei vie merkle-puuta.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) perustuu merkle-puuhun, mutta paljastettu käyttöliittymä ei vie merkle-puuta.
 
-[bao](https://github.com/oconnor663/bao) toteuttaa blake3-suoratoistovarmennuksen, mutta ei pysty muuttamaan taustalla olevien [lohkojen](https://github.com/oconnor663/bao/issues/34) kokoa (katso [tuki suuremmille "lohkoryhmille", mikä vähentää tilankulutusta](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) toteuttaa blake3-suoratoistovarmennuksen, mutta ei pysty muuttamaan taustalla olevien [lohkojen](https://github.com/oconnor663/bao/issues/34) kokoa (katso [tuki suuremmille "lohkoryhmille", jotta tilankäyttö vähenisi](https://github.com/oconnor663/bao/issues/34) ).
 
-Tämä tarkoittaa, että bao kuluttaa 6 prosenttia ylimääräistä tallennustilaa merkle-puun tallentamiseen, mikä on merkittävä yleiskustannus hajautetulle sisältöindeksille.
+Tämä tarkoittaa, että bao kuluttaa 6 % ylimääräistä tallennustilaa merkle-puun tallentamiseen, mikä on merkittävä yleiskustannus hajautetulle sisältöindeksille.
 
-Niinpä toteutin [blake3_merkle-toiminnon](https://github.com/rmw-lib/blake3_merkle) viemään 32 tavua hashia 1 Mt:n sisältöä kohti, jolloin ylimääräinen tallennuskustannus on 0,3‱.
+Niinpä toteutin [blake3_merkle-toiminnon](https://github.com/rmw-lib/blake3_merkle), jonka avulla saadaan 32 tavua hashia 1 Mt:n sisältöä kohti, ja ylimääräinen tallennuskustannus on 0,3‱.
 
-Merkle-puu voi tuottaa blake3:n mukaisia hasheja.
+Merkle-puu tuottaa hasheja, jotka ovat yhdenmukaisia blake3:n kanssa.
 
 Kun sisältö on enintään 1MB, merkle-puussa on vain yksi solmu, ja tämän solmun hash on yhtä suuri kuin blake3:n hash.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Suorita `./example.main.sh`ja tuloste näyttää tältä.
+Suorita `./example.main.sh`ja tuloste on seuraava
 
 ```
 [examples/main.rs:14] &merkle.li = [

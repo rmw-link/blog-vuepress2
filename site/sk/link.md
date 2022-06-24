@@ -2,8 +2,8 @@
 
 Vedľajší produkt vývoja procesu rmw.link.
 
-* [Prispôsobená verzia vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
-  Pozrite časť Budovanie [blogu pomocou aplikácie vuepress](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link prispôsobená verzia](https://github.com/rmw-link/blog-vuepress2)  
+  Pozrite si [blog vuepress build](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   nástroje na preklad markdown
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -17,5 +17,6 @@ Vedľajší produkt vývoja procesu rmw.link.
 * [mdbx](https://docs.rs/crate/mdbx)  
   Rust wrapper pre [libmdbx](https://github.com/erthink/libmdbx)
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
-* [Úprava quickjs na import funkcií hrdze - nový spôsob rozšírenia Krakenu](/log/2022-04-29-quickjs-rust.html)
-* [Merkleho strom založený na blake3](/log/2022-06-02-blake3_merkle.html)
+* [Úprava quickjs na import funkcií rustu - nový spôsob rozšírenia Krakenu](/log/2022-04-29-quickjs-rust.html)
+* [merkleho strom založený na blake3](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : rust lightweight captcha generator that can be compiled into wasm](/log/2022-06-24_tiny_captcha.html)

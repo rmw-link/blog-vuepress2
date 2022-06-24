@@ -1,14 +1,14 @@
 # Merkles koks, pamatojoties uz blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) pamatā ir merkles koks, taču atklātā saskarne neeksportē merkles koku.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) ir balstīts uz merkles koku, taču pieejamais interfeiss neeksportē merkles koku.
 
 [bao](https://github.com/oconnor663/bao) īsteno blake3 straumēšanas validāciju, bet nevar mainīt pakārtoto [gabalu](https://github.com/oconnor663/bao/issues/34) lielumu (skatiet [atbalstu lielākām "gabalu grupām", lai samazinātu pieskaitāmo vietu](https://github.com/oconnor663/bao/issues/34) ).
 
-Tas nozīmē, ka bao patērē papildu 6 % glabāšanas vietas, lai ierakstītu Merkles koku, kas ir ievērojama pieskaitāmā vērtība izplatītam satura indeksam.
+Tas nozīmē, ka bao patērē 6 % papildu glabāšanas vietas, lai ierakstītu Merkles koku, kas ir nozīmīga sadales satura indeksa pieskaitāmā daļa.
 
-Tāpēc es ieviesu [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), lai eksportētu 32 baitus hash uz 1 MB satura ar papildu 0,3 MB uzglabāšanas izmaksām.
+Tāpēc es ieviesu [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), lai iegūtu 32 baitus hash uz 1 MB satura ar papildu 0,3 MB glabāšanas izmaksām.
 
-Merkles koks var ģenerēt blake3 atbilstošas hašes.
+Merkle koks ģenerē hašas, kas atbilst blake3.
 
 Ja saturs ir mazāks vai vienāds ar 1 MB, Merkles kokam ir tikai viens mezgls, un šī mezgla hash ir vienāds ar blake3 hash.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Palaidiet `./example.main.sh`, un izvades rezultāti izskatīsies šādi.
+Palaidiet `./example.main.sh`, un izvades rezultāts ir šāds.
 
 ```
 [examples/main.rs:14] &merkle.li = [

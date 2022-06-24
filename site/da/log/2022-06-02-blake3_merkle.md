@@ -1,14 +1,14 @@
 # Merkle-træ baseret på blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) understøttes af et merkle-træ, men den eksponerede grænseflade eksporterer ikke merkle-træet.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) er baseret på et merkle-træ, men den eksponerede grænseflade eksporterer ikke merkle-træet.
 
-[bao](https://github.com/oconnor663/bao) implementerer blake3 streaming-validering, men kan ikke ændre størrelsen på de underliggende [chunks](https://github.com/oconnor663/bao/issues/34) (se [understøttelse af større "chunk-grupper" for at reducere pladsoverhead](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementerer blake3-streamingvalidering, men kan ikke ændre størrelsen på de underliggende [chunks](https://github.com/oconnor663/bao/issues/34) (se [understøttelse af større "chunk-grupper" for at reducere pladsoverhead](https://github.com/oconnor663/bao/issues/34) ).
 
-Det betyder, at bao bruger yderligere 6 % af lagerpladsen til at registrere merkle-træet, hvilket er et betydeligt overhead for et distribueret indholdsindeks.
+Det betyder, at bao bruger 6 % ekstra lagerplads til at registrere merkle-træet, hvilket er et betydeligt overhead for et distribueret indholdsindeks.
 
-Så jeg implementerede [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) til at eksportere 32 bytes hash pr. 1 MB indhold med et ekstra lageroverhead på 0,3‱.
+Så jeg implementerede [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) til at udlede 32 bytes hash pr. 1 MB indhold med et ekstra lageroverhead på 0,3‱.
 
-Merkle-træet kan generere hashes, der er i overensstemmelse med blake3.
+Merkle-træet genererer hashes, der er i overensstemmelse med blake3.
 
 Når indholdet er mindre end eller lig med 1 MB, har merkle-træet kun én knude, og hash-koden for denne knude er lig med hash-koden for blake3.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Kør `./example.main.sh`, og resultatet vil se således ud
+Kør `./example.main.sh`, og resultatet er som følger
 
 ```
 [examples/main.rs:14] &merkle.li = [

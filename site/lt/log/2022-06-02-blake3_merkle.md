@@ -1,14 +1,14 @@
 # Merklio medis pagal blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) yra paremtas Merkle'io medžiu, tačiau atveriama sąsaja neeksportuoja Merkle'io medžio.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) remiasi Merkle'io medžiu, tačiau atveriama sąsaja neeksportuoja Merkle'io medžio.
 
 [bao](https://github.com/oconnor663/bao) įgyvendina blake3 srautinį patvirtinimą, tačiau negali keisti pagrindinių [gabalų](https://github.com/oconnor663/bao/issues/34) dydžio (žr. [didesnių "gabalų grupių" palaikymą, kad sumažėtų vietos sąnaudos](https://github.com/oconnor663/bao/issues/34) ).
 
-Tai reiškia, kad bao sunaudoja papildomus 6 % saugyklos vietos Merklio medžiui įrašyti, o tai yra reikšmingos pridėtinės išlaidos paskirstytam turinio indeksui.
+Tai reiškia, kad bao sunaudoja 6 % papildomos vietos Merkle'io medžiui įrašyti, o tai paskirstytam turinio indeksui yra reikšmingos pridėtinės išlaidos.
 
-Taigi, įdiegiau [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), kad kiekvienam 1 MB turinio būtų eksportuojami 32 baitai hash, o papildoma saugojimo našta būtų 0,3‱.
+Taigi, įdiegiau [blake3_merkle](https://github.com/rmw-lib/blake3_merkle), kad iš 1 MB turinio būtų išvesta 32 baitai hash, o papildoma saugojimo našta būtų 0,3‱.
 
-Merklio medis gali generuoti blake3 atitinkančias hashes.
+Merklio medis generuoja blake3 atitinkančias hashes.
 
 Kai turinys yra mažesnis arba lygus 1 MB, Merkle medis turi tik vieną mazgą, o šio mazgo hash yra lygus blake3 hash.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Paleiskite `./example.main.sh`ir išvestis atrodys taip
+Paleiskite `./example.main.sh`ir gaukite tokią išvestį
 
 ```
 [examples/main.rs:14] &merkle.li = [

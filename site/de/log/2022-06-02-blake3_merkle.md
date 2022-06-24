@@ -1,14 +1,14 @@
 # Merkle-Baum auf der Grundlage von Blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) wird durch einen Merkle-Baum unterstützt, aber die exponierte Schnittstelle exportiert den Merkle-Baum nicht.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) basiert auf einem Merkle-Baum, aber die exponierte Schnittstelle exportiert den Merkle-Baum nicht.
 
-[bao](https://github.com/oconnor663/bao) implementiert die Blake3-Streaming-Validierung, kann aber die Größe der zugrundeliegenden [Chunks](https://github.com/oconnor663/bao/issues/34) nicht ändern (siehe [Unterstützung größerer "Chunk-Gruppen" zur Verringerung des Speicherplatz-Overheads](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) implementiert die Blake3-Streaming-Validierung, kann aber die Größe der zugrundeliegenden [Chunks](https://github.com/oconnor663/bao/issues/34) nicht ändern (siehe [Unterstützung größerer "Chunk-Gruppen" für geringeren Platzbedarf](https://github.com/oconnor663/bao/issues/34) ).
 
-Das bedeutet, dass bao zusätzlich 6 % Speicherplatz für die Aufzeichnung des Merkle-Baums verbraucht, was für einen verteilten Inhaltsindex einen erheblichen Overhead darstellt.
+Das bedeutet, dass bao 6 % zusätzlichen Speicherplatz für die Aufzeichnung des Merkle-Baums verbraucht, was für einen verteilten Inhaltsindex einen erheblichen Overhead darstellt.
 
-Daher habe ich [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) so implementiert, dass 32 Byte Hash pro 1 MB Inhalt exportiert werden, was einen zusätzlichen Speicheraufwand von 0,3‱ bedeutet.
+Also habe ich [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) implementiert, um 32 Byte Hash pro 1 MB Inhalt mit einem zusätzlichen Speicher-Overhead von 0,3‱ abzuleiten.
 
-Der Merkle-Baum kann Hashes erzeugen, die mit Blake3 übereinstimmen.
+Der Merkle-Baum erzeugt Hashes, die mit blake3 übereinstimmen.
 
 Wenn der Inhalt kleiner oder gleich 1 MB ist, hat der Merkle-Baum nur einen Knoten und der Hash dieses Knotens ist gleich dem Hash von blake3.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Führen Sie `./example.main.sh`aus, und die Ausgabe sieht wie folgt aus
+Führen Sie `./example.main.sh`aus, und die Ausgabe lautet wie folgt
 
 ```
 [examples/main.rs:14] &merkle.li = [

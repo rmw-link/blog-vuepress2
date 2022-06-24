@@ -1,14 +1,14 @@
 # blake3をベースにしたメルクル木
 
-[blake3は](https://github.com/BLAKE3-team/BLAKE3) merkle treeを下敷きにしていますが、公開されているインターフェースではmerkle treeをエクスポートしていません。
+[blake3は](https://github.com/BLAKE3-team/BLAKE3) merkle木をベースにしていますが、公開されているインターフェースはmerkle木をエクスポートしません。
 
-[bao](https://github.com/oconnor663/bao) は blake3 ストリーミング検証を実装していますが、基礎となる [チャンクの](https://github.com/oconnor663/bao/issues/34) サイズを変更することはできません ( [空間のオーバーヘッドを減らすためにより大きな "chunk group" をサポート](https://github.com/oconnor663/bao/issues/34) するを参照してください)。
+[bao](https://github.com/oconnor663/bao) は blake3 ストリーミング検証を実装していますが、基礎となる [チャンクの](https://github.com/oconnor663/bao/issues/34) サイズを変更することはできません（ [空間のオーバーヘッドを減らすためにより大きな "chunk group" をサポートする](https://github.com/oconnor663/bao/issues/34) を参照してください）。
 
-これは、baoがmerkle木を記録するために、さらに6%のストレージスペースを消費していることを意味し、分散コンテンツインデックスとしては大きなオーバーヘッドとなります。
+これは、baoがmerkle木を記録するために6%の余分なストレージスペースを消費することを意味し、分散コンテンツインデックスにとっては大きなオーバーヘッドとなる。
 
-そこで、コンテンツ1MBあたり32バイトのハッシュをエクスポートするように [blake3_merkleを](https://github.com/rmw-lib/blake3_merkle) 実装し、ストレージのオーバーヘッドを0.3㌘増加させました。
+そこで、 [blake3_merkleを](https://github.com/rmw-lib/blake3_merkle) 実装し、コンテンツ1MBあたり32バイトのハッシュを導き出し、さらにストレージのオーバーヘッドを0.3‱としました。
 
-メルクル木はblake3と一致するハッシュを生成することができる。
+メルクル木はblake3と整合性のあるハッシュを生成する。
 
 コンテンツが1MB以下の場合、メルクルツリーは1つのノードしか持たず、このノードのハッシュはblake3のハッシュと等しくなる。
 

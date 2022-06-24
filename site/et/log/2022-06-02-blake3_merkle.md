@@ -1,14 +1,14 @@
 # Merkle puu põhineb blake3
 
-[blake3](https://github.com/BLAKE3-team/BLAKE3) aluseks on merkle-puu, kuid avalikustatud liides ei ekspordi merkle-puud.
+[blake3](https://github.com/BLAKE3-team/BLAKE3) põhineb merkle-puul, kuid avalikustatud liides ei ekspordi merkle-puud.
 
-[bao](https://github.com/oconnor663/bao) rakendab blake3 voogedastuse valideerimist, kuid ei saa muuta aluseks olevate [tükkide](https://github.com/oconnor663/bao/issues/34) suurust (vt [suuremate "tükkide rühmade" toetamine ruumi koormuse vähendamiseks](https://github.com/oconnor663/bao/issues/34) ).
+[bao](https://github.com/oconnor663/bao) rakendab blake3 voogedastuse valideerimist, kuid ei saa muuta aluseks olevate [tükkide](https://github.com/oconnor663/bao/issues/34) suurust (vt [suuremate "tükkide rühmade" toetamine, et vähendada ruumi koormust](https://github.com/oconnor663/bao/issues/34) ).
 
-See tähendab, et bao kulutab merkle-puu salvestamiseks täiendavalt 6% salvestusruumi, mis on jaotatud sisuindeksi puhul märkimisväärne lisakulu.
+See tähendab, et bao kulutab Merkle-puu salvestamiseks 6% lisamäluruumi, mis on jaotatud sisuindeksi puhul märkimisväärne lisakulu.
 
-Seega rakendasin [blake3_merkle'i](https://github.com/rmw-lib/blake3_merkle), et eksportida 32 baiti hashi 1 MB sisu kohta, mille täiendav salvestuskoormus on 0,3‱.
+Seega rakendasin [blake3_merkle'i](https://github.com/rmw-lib/blake3_merkle), et tuletada 32 baiti hashi 1 MB sisu kohta, mille täiendav salvestuskoormus on 0,3‱.
 
-Merkle-puu suudab genereerida blake3-ga kooskõlas olevaid hashe'e.
+Merkle-puu genereerib hashed, mis on kooskõlas blake3-ga.
 
 Kui sisu on väiksem või võrdne 1MB, on Merkle-puul ainult üks sõlm ja selle sõlme hash on võrdne blake3 hashiga.
 
@@ -35,7 +35,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-Käivita `./example.main.sh`ja väljund näeb välja selline
+Käivita `./example.main.sh`ja väljund on järgmine
 
 ```
 [examples/main.rs:14] &merkle.li = [

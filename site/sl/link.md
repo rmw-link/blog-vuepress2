@@ -2,8 +2,8 @@
 
 Stranski produkt razvoja procesa rmw.link.
 
-* [Prilagojena različica programa vuepress rmw.link](https://github.com/rmw-link/blog-vuepress2)  
-  Oglejte si Gradnja [bloga z vuepressom](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link prilagojena različica](https://github.com/rmw-link/blog-vuepress2)  
+  Oglejte si [blog vuepress build](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   orodja za prevajanje markdown
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -18,4 +18,5 @@ Stranski produkt razvoja procesa rmw.link.
   Rust ovitek za [libmdbx](https://github.com/erthink/libmdbx)
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
 * [Spreminjanje quickjs za uvoz funkcij rust - nov način razširitve Krakena](/log/2022-04-29-quickjs-rust.html)
-* [Drevo merklov, ki temelji na blake3](/log/2022-06-02-blake3_merkle.html)
+* [merklejevo drevo, ki temelji na blake3](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : rust lightweight captcha generator, ki ga je mogoče sestaviti v wasm](/log/2022-06-24_tiny_captcha.html)

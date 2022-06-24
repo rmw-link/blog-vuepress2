@@ -2,8 +2,8 @@
 
 Rmw.link-prosessin kehittämisen sivutuote.
 
-* [Räätälöity versio vuepress rmw.linkistä](https://github.com/rmw-link/blog-vuepress2)  
-  Katso [Blogin](/log/2020-11-29-vuepress.html) rakentaminen [vuepressillä](/log/2020-11-29-vuepress.html)
+* [vuepress rmw.link räätälöity versio](https://github.com/rmw-link/blog-vuepress2)  
+  Katso [vuepressin rakennusblogi](/log/2020-11-29-vuepress.html)
 * [@rmw/deepl-markdown-translate](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)  
   markdown-käännöstyökalut
 * [rmw-utf8](https://docs.rs/crate/rmw-utf8)  
@@ -17,5 +17,6 @@ Rmw.link-prosessin kehittämisen sivutuote.
 * [mdbx](https://docs.rs/crate/mdbx)  
   Ruosteen kääre [libmdbx:](https://github.com/erthink/libmdbx) lle
 * [quickjs-rust](https://github.com/rmw-lib/quickjs-rust)
-* [QuickJS:n muokkaaminen ruostefunktioiden tuomiseksi - uusi tapa laajentaa Krakenia.](/log/2022-04-29-quickjs-rust.html)
-* [Blake3:een perustuva merkle-puu](/log/2022-06-02-blake3_merkle.html)
+* [Quickjs:n muokkaaminen ruosteen toimintojen tuomiseksi - uusi tapa laajentaa Krakenia](/log/2022-04-29-quickjs-rust.html)
+* [blake3:een perustuva merkle-puu](/log/2022-06-02-blake3_merkle.html)
+* [tiny_captcha : ruoste kevyt captcha generaattori, joka voidaan kääntää wasm:ksi](/log/2022-06-24_tiny_captcha.html)
