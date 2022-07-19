@@ -4,9 +4,9 @@ I dag er internettet som et sygeligt feudalt dynasti, hvor oligarkerne fuldender
 
 Informationssortering manipuleres, sociale relationer låses inde. Platforme er meta-universets guder, der lever og dør, og de, der sætter spørgsmålstegn ved dem, bliver degraderet og forbudt.
 
-Som en fisk på en ambolt. Jeg bryder mig ikke om denne verden, og jeg ønsker at søge forandring.
+Som fisk på ambolte. Jeg bryder mig ikke om denne verden, og jeg ønsker at søge forandring.
 
-Jeg ønsker at genopbygge et nyt internet: en verden, **hvor alle** ejer deres egne data. **Folkets data skal tilhøre folket.**
+Jeg ønsker at genopbygge et nyt internet: at **lade alle** være ejere af deres data. **Folkets data skal tilhøre folket.**
 
 Så i dag starter jeg dette projekt - rmw.link.
 
@@ -34,13 +34,13 @@ På denne måde opnås der en udligning af data. Hver enkelt person har sin egen
 
 På grundlag af decentraliseringen af lagring og distribution af indhold kan der videreudvikles et decentraliseret kreditsystem.
 
-Hver person kan leje lagerplads og båndbredde og lagre ubenyttede ressourcer til gengæld for en anden persons lagerbåndbredde (kaldet en kredit, når den ikke er brugt).
+Hver person kan leje lagerplads og båndbredde ud og lagre ubenyttede ressourcer i bytte for en anden persons lagerbåndbredde (kaldet en kredit, når den ikke er brugt).
 
 Du kan f.eks. sikkerhedskopiere dine egne filer krypteret til en andens maskine.
 
 På samme måde kan lagerplads og båndbredde betales til webmasteren af webstedet som et abonnementsgebyr.
 
-Webmasteren har til gengæld en masse lagerplads og båndbredde på grund af sine fans' abonnementer, som han kan videresælge for at tjene penge og forsørge sin familie.
+Webmasteren har til gengæld en masse lagerplads og båndbredde på grund af sine fans' abonnementer, som han kan videresælge for at tjene penge til at tjene penge og brødføde sin familie.
 
 Efter min mening kan de mange virtuelle blockchain-mønter, der bruger en masse ressourcer på at beregne meningsløse hashes, kun være spild af elektricitet og ikke miljøvenlige.
 
@@ -54,7 +54,7 @@ Ordets ild vil aldrig blive slukket, og civilisationen vil altid blive videregiv
 
 Jeg tror, at digitale ækvivalenter med mere praktisk værdi (båndbredde, lagerplads) vil opstå og erstatte dem og opbygge et helt nyt system af kreditpenge til den digitale verden.
 
-F.eks. kunne kreditten fra en gruppe af langvarige online indskudsknudepunkter, der fungerer vedvarende, danne en kurvvaluta, der kunne tjene som den virtuelle verdens universelle ækvivalent, kaldet "rmw.link-mønten".
+F.eks. kunne kreditten fra en gruppe af indskudsknuder, der er online i lang tid og opererer vedvarende, danne en kurvvaluta, der kunne tjene som den virtuelle verdens universelle ækvivalent, kaldet "rmw.link-mønten".
 
 Når der er skabt en vis stordriftsøkonomi, kan man endda rejse midler til at yde kreditter og udbytte til at yde kreditter.
 

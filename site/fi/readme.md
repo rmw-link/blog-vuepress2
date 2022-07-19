@@ -1,12 +1,12 @@
 # Prologi
 
-Nykyään Internet on kuin sairaalloinen feodaalidynastia, jossa oligarkit ovat saattaneet päätökseen maa-alueiden ankkuroinnin, monopolisoivat ihmisten luomia tietoja ja istuvat maanvuokrissa.
+Nykyään Internet on kuin sairaalloinen feodaalidynastia, jossa oligarkit ovat saattaneet päätökseen maa-alueiden valtauksen, monopolisoivat ihmisten luomia tietoja ja istuvat maanvuokrissa.
 
 Tietojen lajittelua manipuloidaan, sosiaaliset suhteet lukitaan. Alustat ovat meta-universumin jumalia, jotka elävät ja kuolevat, ja ne, jotka kyseenalaistavat ne, alennetaan ja kielletään.
 
-Kuin kala alasin päällä. En pidä tästä maailmasta ja haluan pyrkiä muutokseen.
+Kuin kalat ahvenen päällä. En pidä tästä maailmasta ja haluan pyrkiä muutokseen.
 
-Haluan rakentaa uuden internetin: maailman, **jossa jokainen** omistaa omat tietonsa. **Kansan tiedot kuuluvat kansalle.**
+Haluan rakentaa uuden internetin: **kaikki saavat** omistaa tietonsa. **Kansan tiedot kuuluvat kansalle.**
 
 Joten tänään aloitan tämän projektin - rmw.link.
 
@@ -14,15 +14,15 @@ Joten tänään aloitan tämän projektin - rmw.link.
 
 ## Miten rakennetaan tasa-arvoinen Internet kaikille?
 
-Nykyinen internet on suunniteltu asiakas-palvelin -arkkitehtuuriin.
+Internet on nykyään suunniteltu asiakas-palvelin -arkkitehtuuriin.
 
 Asiakas lataa sisältöä palvelimelle, ja palvelin jakaa tiedot katsojalle.
 
-Asiakas-palvelin -arkkitehtuurissa kahden osapuolen välillä ei ole yhtäläisiä valtasuhteita.
+Asiakas-palvelin -arkkitehtuurissa kahden osapuolen välillä ei ole yhtäläistä valtaa.
 
 Palvelin omistaa kaikki tiedot, kun taas asiakas voi vain anoa palvelimelta lupaa tehdä itsensä näkyväksi.
 
-Tämä epälooginen arkkitehtuuri on Internetin nykypäivän oligarkkisen maailman perusta.
+Tämä epälooginen arkkitehtuuri on Internetin oligarkkisen maailman perusta.
 
 Ja kaiken tämän muuttamiseksi on yksinkertaisesti ajateltava toisin.
 
@@ -40,7 +40,7 @@ Voit esimerkiksi varmuuskopioida omat tiedostosi salattuna jonkun toisen koneell
 
 Samoin tallennustilasta ja kaistanleveydestä voidaan maksaa sivuston ylläpitäjälle tilausmaksuna.
 
-Verkkomestarilla puolestaan on paljon tallennustilaa ja kaistanleveyttä faniensa tilausten ansiosta, ja hän voi myydä niitä edelleen ansaitakseen rahaa ja elättääkseen perheensä.
+Verkkomestarilla puolestaan on paljon tallennustilaa ja kaistanleveyttä faniensa tilausten ansiosta, ja hän voi myydä niitä edelleen ansaitakseen voittoa ja elättääkseen perheensä.
 
 Mielestäni monet lohkoketjun virtuaaliset kolikot, jotka kuluttavat paljon resursseja merkityksettömien hashien laskemiseen, voivat olla vain sähkön tuhlausta eivätkä ympäristöystävällisiä.
 
@@ -60,7 +60,7 @@ Kun tietty mittakaavaetuus on saavutettu, voidaan jopa kerätä varoja luottojen
 
 Luottojen ja osinkojen avulla voidaan edistää jakamistalouden kehitystä ja kasvua, lisätä käyttämättömien resurssien käyttöä ja kannustaa ihmisten aloitteellisuutta arvon luomiseksi.
 
-Tietenkin on monia vaikeuksia ja esteitä, jotka liittyvät teknisiin yksityiskohtiin, jotta kaikki tämä toteutuisi.
+Teknisten yksityiskohtien toteuttamiseen liittyy tietenkin monia vaikeuksia ja esteitä.
 
 Mutta uskon, että missä on tahto, siellä on myös tie.
 

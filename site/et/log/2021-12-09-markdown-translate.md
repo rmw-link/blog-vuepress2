@@ -28,6 +28,6 @@ Tõlge toimib järgmiselt
 
 ![](https://raw.githubusercontent.com/gcxfd/img/gh-pages/CytFEw.png)
 
-Tõlge nõuab [deepl'i `api key`,](https://www.deepl.com/pro-api) palun küsige seda esmalt [.](https://www.deepl.com/pro-api) (avamiseks on vaja USA krediitkaarti, selle avamiseks saad saata e-kirja aadressil `i@rmw.link`, kui vajad seda).
+Tõlge nõuab [deepl'i `api key`,](https://www.deepl.com/pro-api) palun küsige seda esmalt. (avamiseks on vaja USA krediitkaarti, selle avamiseks saad saata e-kirja aadressil `i@rmw.link`, kui vajad seda).
 
 Vaata täpsemalt [koodidokumentatsioonist](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)

@@ -4,9 +4,9 @@
 
 Sortarea informațiilor este manipulată, relațiile sociale sunt blocate. Platformele sunt zeii metauniversului, care trăiesc și mor, iar cei care le contestă sunt retrogradați și interziși.
 
-Ca un pește pe o nicovală. Nu-mi place această lume și vreau să caut schimbarea.
+Ca peștii pe nicovală. Nu-mi place această lume și vreau să caut schimbarea.
 
-Vreau să reconstruiesc un nou internet: o lume în **care fiecare** își deține propriile date. **Lăsați datele oamenilor să aparțină oamenilor.**
+Vreau să reconstruiesc un nou internet: să **las pe toată lumea** să fie proprietara datelor sale. **Lăsați datele oamenilor să aparțină oamenilor.**
 
 Așadar, astăzi încep acest proiect - rmw.link.
 
@@ -40,7 +40,7 @@ De exemplu, puteți face o copie de rezervă a propriilor fișiere criptate pe c
 
 În mod similar, spațiul de stocare și lățimea de bandă pot fi plătite webmasterului site-ului ca taxă de abonament.
 
-La rândul său, webmasterul dispune de o mulțime de spațiu de stocare și de lățime de bandă datorită abonamentelor fanilor săi, pe care le poate revinde ulterior pentru a face bani și a-și întreține familia.
+La rândul său, webmasterul dispune de o mulțime de spațiu de stocare și de lățime de bandă datorită abonamentelor fanilor săi, pe care le poate revinde ulterior pentru a face bani pentru a obține profit și a-și hrăni familia.
 
 După părerea mea, numeroasele monede virtuale din blockchain care consumă o mulțime de resurse pentru a calcula hash-uri fără sens nu pot fi decât o risipă de energie electrică și nu sunt prietenoase cu mediul.
 
@@ -60,7 +60,7 @@ După ce se creează o anumită economie de scară, se pot strânge fonduri pent
 
 Cu ajutorul creditelor și al dividendelor, economia de partajare poate fi stimulată să se dezvolte și să crească, sporind utilizarea resurselor nefolosite și stimulând inițiativa umană de a crea valoare.
 
-Desigur, vor exista multe dificultăți și obstacole în ceea ce privește detaliile tehnice pentru ca toate acestea să se întâmple.
+Bineînțeles, vor exista multe dificultăți și obstacole în ceea ce privește detaliile tehnice pentru ca toate acestea să se întâmple.
 
 Dar eu cred: unde există voință, există o cale.
 

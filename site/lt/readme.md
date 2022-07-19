@@ -2,11 +2,11 @@
 
 Šiandien internetas primena ligotą feodalinę dinastiją, kurioje oligarchai baigia aneksuoti žemę, monopolizuoja žmonių sukurtus duomenis ir gauna žemės rentą.
 
-Manipuliuojama informacijos rūšiavimu, uždaromi socialiniai santykiai. Platformos yra meta-visatos dievai, gyvenantys ir mirštantys, o tie, kurie jomis abejoja, yra pažeminami ir uždraudžiami.
+Manipuliuojama informacijos rūšiavimu, užrakinami socialiniai santykiai. Platformos yra meta-visatos dievai, gyvenantys ir mirštantys, o tie, kurie jomis abejoja, yra pažeminami ir uždraudžiami.
 
-Kaip žuvis ant priekalo. Man nepatinka šis pasaulis ir aš noriu siekti pokyčių.
+Kaip žuvys ant priekalo. Man nepatinka šis pasaulis ir aš noriu siekti pokyčių.
 
-Noriu atkurti naują internetą - pasaulį, kuriame **kiekvienas būtų** savo duomenų savininkas. **Tegul žmonių duomenys priklauso žmonėms.**
+Noriu atkurti naują internetą: **leisti kiekvienam** turėti savo duomenis. **Tegul žmonių duomenys priklauso žmonėms.**
 
 Taigi šiandien pradedu šį projektą - rmw.link.
 
@@ -14,7 +14,7 @@ Taigi šiandien pradedu šį projektą - rmw.link.
 
 ## Kaip sukurti visiems vienodą internetą?
 
-Šiandieninis internetas sukurtas pagal kliento ir serverio architektūrą.
+Šiandien internetas sukurtas pagal kliento ir serverio architektūrą.
 
 Klientas įkelia turinį į serverį, o serveris paskirsto duomenis žiūrovui.
 
@@ -40,7 +40,7 @@ Pavyzdžiui, galite sukurti savo užšifruotų failų atsarginę kopiją kito as
 
 Už saugyklą ir duomenų srauto pralaidumą svetainės administratoriui galima mokėti abonentinį mokestį.
 
-Savo ruožtu tinklalapio valdytojas dėl gerbėjų prenumeratos turi daug duomenų saugyklos ir pralaidumo, kuriuos gali toliau perparduoti, kad uždirbtų pinigų ir išmaitintų savo šeimą.
+Savo ruožtu tinklalapio valdytojas dėl gerbėjų prenumeratos turi daug duomenų saugyklos ir pralaidumo, kuriuos gali perparduoti, kad uždirbtų pinigų ir išlaikytų savo šeimą.
 
 Mano nuomone, daugybė blokų grandinės virtualių monetų, kurios sunaudoja daug išteklių beprasmiams hashams apskaičiuoti, gali būti tik elektros energijos švaistymas ir nėra draugiškos aplinkai.
 
@@ -56,7 +56,7 @@ Manau, kad juos pakeis skaitmeniniai atitikmenys, turintys didesnę praktinę ve
 
 Pavyzdžiui, grupės ilgalaikių, nuolat veikiančių internetinių indėlių mazgų kreditai galėtų sudaryti krepšelio valiutą, kuri tarnautų kaip universalus virtualaus pasaulio atitikmuo, vadinamas "rmw.link moneta".
 
-Sukūrus tam tikrą masto ekonomiją, galima net pritraukti lėšų kreditams teikti ir dividendų kreditams teikti.
+Sukūrus tam tikrą masto ekonomiją, galima netgi pritraukti lėšų kreditams teikti ir dividendų kreditams teikti.
 
 Pasinaudojant kreditais ir dividendais, dalijimosi ekonomika gali būti skatinama vystytis ir augti, didinant nenaudojamų išteklių naudojimą ir skatinant žmonių iniciatyvą kurti vertę.
 

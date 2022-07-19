@@ -4,9 +4,9 @@ Mūsdienās internets ir kā slima feodāla dinastija, kurā oligarhi pabeidz ze
 
 Tiek manipulēts ar informācijas šķirošanu, sociālās attiecības tiek bloķētas. Platformas ir meta-visuma dievi, kas dzīvo un mirst, un tie, kas tos apšauba, tiek pazemināti un aizliegti.
 
-Kā zivs uz kalauniem. Man nepatīk šī pasaule, un es vēlos meklēt pārmaiņas.
+Kā zivis uz skārda. Man nepatīk šī pasaule, un es vēlos meklēt pārmaiņas.
 
-Es vēlos atjaunot jaunu internetu - pasauli, kurā **katram** pieder savi dati. **Ļaujiet cilvēku datiem piederēt cilvēkiem.**
+Es vēlos atjaunot jaunu internetu, lai **ikvienam būtu** savi dati. **Ļaujiet cilvēku datiem piederēt cilvēkiem.**
 
 Tāpēc šodien es sāku šo projektu - rmw.link.
 
@@ -26,7 +26,7 @@ Serverim pieder visi dati, bet klients var tikai lūgt atļauju serverim, lai pa
 
 Lai to visu mainītu, ir vienkārši jādomā citādi.
 
-Katra persona glabā savus radītos datus un izplata tos saviem abonentiem.
+Katra persona saglabā savus radītos datus un izplata tos saviem abonentiem.
 
 Abonenti varētu arī izplatīt datus cits citam, tādējādi novēršot nepieciešamību pēc serveriem.
 

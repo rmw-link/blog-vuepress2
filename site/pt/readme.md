@@ -4,17 +4,17 @@ Hoje em dia, a Internet é como uma dinastia feudal doentia, com oligarcas a com
 
 A classificação da informação é manipulada, as relações sociais são encerradas. As plataformas são os deuses do meta-universo, vivendo e morrendo, e aqueles que as questionam são despromovidos e proibidos.
 
-Como um peixe sobre uma bigorna. Eu não gosto deste mundo e quero procurar a mudança.
+Como peixe em bigornas. Eu não gosto deste mundo e quero procurar a mudança.
 
-Quero reconstruir uma nova Internet: um mundo **onde cada um** possua os seus próprios dados. **Deixar os dados do povo pertencerem ao povo.**
+Quero reconstruir uma nova Internet: **deixar cada um** possuir os seus dados. **Deixar os dados do povo pertencerem ao povo.**
 
-Portanto, hoje, estou a iniciar este projecto - rmw.link.
+Assim, hoje, estou a iniciar este projecto - rmw.link.
 
 ![rmw.link标语图](/slogan.svg)
 
 ## Como construir uma Internet igual para todos ?
 
-A Internet de hoje está concebida numa arquitectura cliente-servidor.
+A Internet de hoje é concebida numa arquitectura cliente-servidor.
 
 O cliente carrega o conteúdo para o servidor e o servidor distribui os dados para o espectador.
 
@@ -40,7 +40,7 @@ Por exemplo, pode fazer o backup dos seus próprios ficheiros encriptados na má
 
 Da mesma forma, o armazenamento e a largura de banda podem ser pagos ao webmaster do site como taxa de subscrição.
 
-O webmaster, por sua vez, tem muito armazenamento e largura de banda devido às subscrições dos seus fãs, que pode revender ainda mais para ganhar dinheiro e alimentar a sua família.
+O webmaster, por sua vez, tem muito armazenamento e largura de banda devido às subscrições dos seus fãs, que pode revender ainda mais para ganhar dinheiro para lucrar e alimentar a sua família.
 
 Na minha opinião, as muitas moedas virtuais de cadeia de bloqueio que consomem muitos recursos para calcular hashes sem sentido só podem ser um desperdício de electricidade e não amigo do ambiente.
 
@@ -54,7 +54,7 @@ O fogo da Palavra nunca será extinto, e a civilização será sempre transmitid
 
 Acredito que os equivalentes digitais com um valor mais prático (largura de banda, armazenamento) irão subir e substituí-los, e construir todo um novo sistema de crédito monetário para o mundo digital.
 
-Por exemplo, o crédito de um grupo de nós de depósito online de longo prazo, persistentemente em funcionamento, poderia formar uma moeda de cesto que serviria como o equivalente universal do mundo virtual, chamado 'rmw.link coin'.
+Por exemplo, o crédito de um grupo de nós de depósito online de longo prazo, persistentemente em funcionamento, poderia formar uma moeda de cesto que serviria como o equivalente universal do mundo virtual, chamada 'rmw.link coin'.
 
 Após uma certa economia de escala ter sido criada, pode-se mesmo angariar fundos para conceder créditos e dividendos para conceder créditos.
 

@@ -28,6 +28,6 @@ Traducerea funcționează după cum urmează
 
 ![](https://raw.githubusercontent.com/gcxfd/img/gh-pages/CytFEw.png)
 
-Traducerea necesită traducerea [lui deepl's `api key`,](https://www.deepl.com/pro-api) vă rugăm să o solicitați în prealabil. (Este necesar un card de credit din SUA pentru a deschide un cont, puteți trimite un e-mail la `i@rmw.link` pentru a vă ajuta cu acest lucru dacă aveți nevoie).
+Traducerea necesită [`api key`](https://www.deepl.com/pro-api), vă rugăm să o solicitați în prealabil. (Este necesar un card de credit din SUA pentru a deschide, puteți trimite un e-mail la `i@rmw.link` pentru a vă ajuta cu acest lucru dacă aveți nevoie).
 
 Consultați [documentația codului](https://www.npmjs.com/package/@rmw/deepl-markdown-translate) pentru mai multe detalii

@@ -3,9 +3,8 @@
 DIR=$(cd "$(dirname "$0")/../.."; pwd)
 set -ex
 
-./script/hook.coffee
+# ./script/hook.coffee
 
 cd site
 git add -u
 git add .
-

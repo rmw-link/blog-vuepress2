@@ -2,11 +2,11 @@
 
 Hoy en día, Internet es como una dinastía feudal enfermiza, con oligarcas que completan la anexión de tierras, acaparando los datos creados por el pueblo y sentándose sobre las rentas de la tierra.
 
-Se manipula la clasificación de la información, se bloquean las relaciones sociales. Las plataformas son los dioses del metauniverso, viven y mueren, y quienes las cuestionan son degradados y prohibidos.
+La clasificación de la información se manipula, las relaciones sociales se bloquean. Las plataformas son los dioses del metauniverso, viven y mueren, y quienes las cuestionan son degradados y prohibidos.
 
-Como un pez en un yunque. No me gusta este mundo y quiero buscar un cambio.
+Como los peces en los yunques. No me gusta este mundo y quiero buscar un cambio.
 
-Quiero reconstruir una nueva Internet: un mundo **en el que todos** sean dueños de sus propios datos. **Que los datos del pueblo sean del pueblo.**
+Quiero reconstruir una nueva Internet: **que todos** sean dueños de sus datos. **Que los datos del pueblo sean del pueblo.**
 
 Así que hoy empiezo este proyecto - rmw.link.
 
@@ -40,11 +40,11 @@ Por ejemplo, puedes hacer una copia de seguridad de tus propios archivos encript
 
 Del mismo modo, el almacenamiento y el ancho de banda se pueden pagar al webmaster del sitio como una cuota de suscripción.
 
-El webmaster, por su parte, dispone de mucho almacenamiento y ancho de banda gracias a las suscripciones de sus fans, que además puede revender para ganar dinero y alimentar a su familia.
+El webmaster, por su parte, dispone de mucho almacenamiento y ancho de banda gracias a las suscripciones de sus fans, que puede revender además para ganar dinero y alimentar a su familia.
 
 En mi opinión, las numerosas monedas virtuales de blockchain que consumen muchos recursos para calcular hashes sin sentido sólo pueden ser un desperdicio de electricidad y no son respetuosas con el medio ambiente.
 
-Por supuesto, el Bitcoin tiene su importancia histórica.
+Por supuesto, Bitcoin tiene su importancia histórica.
 
 Fue la primera vez que el mundo se dio cuenta de que todavía hay programas mucho más posibles, que la fe tiene un precio, y que creo en el yo sólido.
 
@@ -56,9 +56,9 @@ Creo que los equivalentes digitales con más valor práctico (ancho de banda, al
 
 Por ejemplo, el crédito de un grupo de nodos de depósito en línea de larga duración y de funcionamiento persistente podría formar una cesta de monedas que serviría como equivalente universal del mundo virtual, llamada "moneda rmw.link".
 
-Una vez creada una cierta economía de escala, se puede incluso recaudar fondos para conceder créditos y dividendos para conceder créditos.
+Una vez que se ha creado una cierta economía de escala, se puede incluso recaudar fondos para conceder créditos y dividendos para conceder créditos.
 
-Con créditos y dividendos, se puede estimular el desarrollo y el crecimiento de la economía colaborativa, aumentando el uso de los recursos ociosos y estimulando la iniciativa humana para crear valor.
+Con el crédito y los dividendos, se puede estimular el desarrollo y el crecimiento de la economía colaborativa, aumentando el uso de los recursos ociosos y estimulando la iniciativa humana para crear valor.
 
 Por supuesto, habrá muchas dificultades y obstáculos en los detalles técnicos para que todo esto ocurra.
 

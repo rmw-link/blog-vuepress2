@@ -1,14 +1,14 @@
 # Prologo
 
-Oggi Internet è come una dinastia feudale malata, con gli oligarchi che completano l'annessione delle terre, monopolizzando i dati creati dal popolo e sedendosi sulle rendite dei terreni.
+Oggi Internet è come una dinastia feudale malata, dove gli oligarchi hanno completato l'annessione delle terre, monopolizzato i dati creati dal popolo e siedono sulla rendita fondiaria.
 
-Lo smistamento delle informazioni è manipolato, le relazioni sociali sono bloccate. Le piattaforme sono le divinità del meta-universo, vivono e muoiono, e chi le mette in discussione viene degradato e bandito.
+Lo smistamento delle informazioni è manipolato, le relazioni sociali sono bloccate. Le piattaforme sono gli dei del meta-universo, vivono e muoiono, e chi le mette in discussione viene degradato e bandito.
 
-Come un pesce su un'incudine. Non mi piace questo mondo e voglio cercare un cambiamento.
+Come i pesci sulle incudini. Non mi piace questo mondo e voglio cercare un cambiamento.
 
-Voglio ricostruire un nuovo Internet: un mondo **dove ognuno** possiede i propri dati. **Lasciate che i dati del popolo appartengano al popolo.**
+Voglio ricostruire una nuova Internet: **lasciare che tutti** siano proprietari dei propri dati. **Che i dati del popolo appartengano al popolo.**
 
-Così oggi, sto iniziando questo progetto - rmw.link.
+Oggi, quindi, inizio questo progetto - rmw.link.
 
 ![rmw.link标语图](/slogan.svg)
 
@@ -16,53 +16,53 @@ Così oggi, sto iniziando questo progetto - rmw.link.
 
 Internet oggi è progettato su un'architettura client-server.
 
-Il cliente carica il contenuto sul server e il server distribuisce i dati allo spettatore.
+Il client carica il contenuto sul server e quest'ultimo distribuisce i dati al visualizzatore.
 
-In un'architettura client-server, non c'è uguaglianza di potere tra le due parti.
+In un'architettura client-server, non c'è parità di potere tra le due parti.
 
-Il server possiede tutti i dati, mentre il client può solo chiedere il permesso al server per rendersi visibile.
+Il server possiede tutti i dati, mentre il client può solo chiedere il permesso al server di rendersi visibile.
 
 Questa architettura illogica è alla base del mondo oligarchico di Internet oggi.
 
-E per cambiare tutto questo, bisogna semplicemente pensare in modo diverso.
+Per cambiare tutto questo è sufficiente pensare in modo diverso.
 
-Ogni persona memorizza i dati che crea e li distribuisce ai suoi abbonati.
+Ogni persona memorizza i dati che crea e li distribuisce ai propri abbonati.
 
-Gli abbonati potrebbero anche distribuire i dati l'uno all'altro, eliminando la necessità di server.
+Gli abbonati potrebbero anche distribuirsi i dati a vicenda, eliminando la necessità di server.
 
 In questo modo si ottiene l'equalizzazione dei dati. Ogni persona ha la propria sovranità sui dati.
 
-Sulla base della decentralizzazione dello stoccaggio e della distribuzione dei contenuti, si può sviluppare ulteriormente un sistema di credito decentralizzato.
+Sulla base della decentralizzazione dell'archiviazione e della distribuzione dei contenuti, è possibile sviluppare ulteriormente un sistema di credito decentralizzato.
 
-Ogni persona può affittare lo storage e la larghezza di banda, immagazzinando risorse inattive in cambio della larghezza di banda dello storage di un'altra persona (chiamato credito quando non utilizzato).
+Ogni persona può affittare lo spazio di memoria e la larghezza di banda, immagazzinando le risorse inattive in cambio della larghezza di banda di un'altra persona (chiamata credito quando è inutilizzata).
 
-Per esempio, si può fare il backup dei propri file criptati sulla macchina di qualcun altro.
+Ad esempio, è possibile eseguire il backup dei propri file crittografati sul computer di un'altra persona.
 
-Allo stesso modo, lo stoccaggio e la larghezza di banda possono essere pagati al webmaster del sito come tassa di abbonamento.
+Allo stesso modo, l'archiviazione e la larghezza di banda possono essere pagate al webmaster del sito come canone di abbonamento.
 
-Il webmaster, a sua volta, ha un sacco di memoria e di larghezza di banda grazie agli abbonamenti dei suoi fan, che può ulteriormente rivendere per fare soldi e sostenere la sua famiglia.
+Il webmaster, a sua volta, dispone di molto spazio di archiviazione e larghezza di banda grazie agli abbonamenti dei suoi fan, che può rivendere per fare soldi e mantenere la sua famiglia.
 
-Secondo me, le molte monete virtuali della blockchain che consumano un sacco di risorse per calcolare hash senza senso possono essere solo uno spreco di elettricità e non rispettose dell'ambiente.
+A mio avviso, le numerose monete virtuali della blockchain che consumano molte risorse per calcolare hash senza senso non possono che essere uno spreco di elettricità e non sono rispettose dell'ambiente.
 
-Naturalmente, Bitcoin ha il suo significato storico.
+Naturalmente, il Bitcoin ha un suo significato storico.
 
-È stata la prima volta che il mondo si è reso conto che ci sono ancora programmi molto più possibili, che la fede ha un prezzo, e che credo nel solido me.
+È stata la prima volta che il mondo si è reso conto che ci sono ancora programmi possibili, che la fede ha un prezzo e che io credo in me stesso.
 
 È stata la prima volta che ha incorporato il sistema finanziario nell'universo digitale, come Prometeo che ruba il fuoco del cielo alla terra.
 
-Il fuoco del Verbo non si spegnerà mai, e la civiltà sarà sempre trasmessa. Bitcoin è il nuovo inizio, non la fine, della storia della civiltà digitale umana.
+Il fuoco della Parola non si spegnerà mai e la civiltà sarà sempre tramandata. Bitcoin è il nuovo inizio, non la fine, della storia della civiltà digitale umana.
 
-Credo che gli equivalenti digitali con un valore più pratico (larghezza di banda, immagazzinamento) sorgeranno e li sostituiranno, e costruiranno un intero nuovo sistema di denaro di credito per il mondo digitale.
+Credo che gli equivalenti digitali con un valore più pratico (larghezza di banda, memoria) sorgeranno e li sostituiranno, costruendo un intero nuovo sistema di credito monetario per il mondo digitale.
 
-Per esempio, il credito di un gruppo di nodi di deposito online a lungo termine e persistentemente operativi potrebbe formare un paniere di valuta che servirebbe come l'equivalente universale del mondo virtuale, chiamato "rmw.link coin".
+Ad esempio, il credito di un gruppo di nodi di deposito che sono online da molto tempo e operano in modo persistente potrebbe formare un paniere di valuta che servirebbe come equivalente universale del mondo virtuale, chiamato "moneta rmw.link".
 
 Dopo aver creato una certa economia di scala, si possono anche raccogliere fondi per concedere crediti e dividendi per concedere crediti.
 
-Con il credito e i dividendi, la sharing economy può essere stimolata a svilupparsi e crescere, aumentando l'uso delle risorse inattive e stimolando l'iniziativa umana a creare valore.
+Con il credito e i dividendi, la sharing economy può essere stimolata a svilupparsi e a crescere, aumentando l'utilizzo delle risorse inutilizzate e stimolando l'iniziativa umana per creare valore.
 
-Naturalmente, ci saranno molte difficoltà e ostacoli nei dettagli tecnici per rendere tutto questo possibile.
+Naturalmente, ci saranno molte difficoltà e ostacoli nei dettagli tecnici per realizzare tutto questo.
 
-Ma io credo: dove c'è una volontà, c'è un modo.
+Ma io credo che dove c'è una volontà, c'è un modo.
 
 Il viaggio di mille miglia inizia con il primo passo.
 
@@ -78,16 +78,16 @@ Proprio come ha scritto Imaho in La leggenda di Goku
 
 Come disse notoriamente Paul Kerchakin.
 
-> La cosa più preziosa della vita è la vita, e la vita è solo una volta per ogni persona.
+> La cosa più preziosa della vita è la vita, e la vita è una volta sola per ogni persona.
 > 
-> La vita di un uomo dovrebbe essere spesa in modo tale che quando si guarderà indietro, non rimpiangerà di averla sprecata e non si vergognerà di non aver fatto nulla.
+> La vita di un uomo dovrebbe essere spesa in modo tale che, quando si guarderà indietro, non si pentirà di averla sprecata e non si vergognerà di non aver fatto nulla.
 > 
-> Quando morirà, potrà dire: "Ho dedicato tutta la mia vita e tutta la mia energia alla più preziosa delle cause - la lotta per la liberazione di tutta l'umanità.
+> Quando morirà, potrà dire: "Ho dedicato tutta la mia vita e tutte le mie energie alla causa più preziosa: la lotta per la liberazione di tutta l'umanità".
 
-Rovesciamo insieme i vecchi tempi!
+Ribaltiamo insieme i vecchi tempi!
 
 ![](https://raw.githubusercontent.com/gcxfd/img/gh-pages/1.jpg)
 
-[Clicca qui per unirti alla chat room di zulipchat](https://rmw.zulipchat.com) (ti consigliamo di installare un client per desktop e cellulari per facilitare la comunicazione in tempo reale) [^1].
+[Fare clic qui per unirsi alla chat room di zulipchat](https://rmw.zulipchat.com) (si consiglia di installare un client per desktop e telefoni cellulari per facilitare la comunicazione in tempo reale) [^1].
 
 [^1]: zulipchat è open source e supporta l'esportazione dei dati per una futura migrazione a una piattaforma di chat basata su rmw.link.

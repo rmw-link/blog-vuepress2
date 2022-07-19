@@ -4,9 +4,9 @@ Internet se dnes podobá nemocné feudální dynastii, v níž oligarchové doko
 
 Třídění informací je manipulováno, sociální vztahy jsou uzamčeny. Platformy jsou bohy metavesmíru, žijí a umírají, a ti, kdo je zpochybňují, jsou degradováni a zakázáni.
 
-Jako ryba na kovadlině. Tento svět se mi nelíbí a chci usilovat o změnu.
+Jako ryby na kovadlinách. Tento svět se mi nelíbí a chci usilovat o změnu.
 
-Chci obnovit nový internet: svět, **kde každý** vlastní svá data. **Ať data lidí patří lidem.**
+Chci obnovit nový internet: aby **každý** vlastnil svá data. **Ať data lidí patří lidem.**
 
 Dnes tedy zahajuji tento projekt - rmw.link.
 
@@ -38,15 +38,15 @@ Každá osoba si může pronajímat úložiště a šířku pásma a ukládat ne
 
 Můžete například zálohovat své vlastní soubory zašifrované do cizího počítače.
 
-Stejně tak lze za úložiště a šířku pásma platit správci webu jako předplatné.
+Stejně tak lze za úložiště a šířku pásma platit webmasterovi webu jako předplatné.
 
-Správce webu má zase díky předplatnému od svých fanoušků k dispozici velké množství úložného prostoru a šířky pásma, které může dále prodávat, aby vydělal peníze a podpořil svou rodinu.
+Správce webu má zase díky předplatnému od svých fanoušků k dispozici velké množství úložného prostoru a šířky pásma, které může dále prodávat a vydělávat tak peníze, aby měl zisk a uživil svou rodinu.
 
 Podle mého názoru může být mnoho virtuálních mincí v blockchainu, které spotřebovávají spoustu zdrojů na výpočet nesmyslných hashů, pouze plýtváním elektřinou a nejsou šetrné k životnímu prostředí.
 
 Bitcoin má samozřejmě svůj historický význam.
 
-Tehdy si svět poprvé uvědomil, že stále existují programy, které umožňují mnohem víc, že víra má svou cenu a že věřím v pevné já.
+Bylo to poprvé, kdy si svět uvědomil, že stále existují programy, které jsou mnohem více možné, že víra má svou cenu a že věřím v pevné já.
 
 Bylo to poprvé, kdy byl finanční systém začleněn do digitálního vesmíru, jako když Prométheus ukradl nebeský oheň na zem.
 

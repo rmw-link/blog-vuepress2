@@ -28,6 +28,6 @@
 
 ![](https://raw.githubusercontent.com/gcxfd/img/gh-pages/CytFEw.png)
 
-Преводът изисква [deepl's `api key`](https://www.deepl.com/pro-api), моля, поискайте го първо. (За да отворите, е необходима американска кредитна карта - ако имате нужда, можете да изпратите имейл до `i@rmw.link`, за да ви помогнем с това).
+Преводът изисква [deepl's `api key`](https://www.deepl.com/pro-api), моля, поискайте го първо. (За да отворите, е необходима американска кредитна карта; ако имате нужда от такава, можете да изпратите имейл на `i@rmw.link` ).
 
 Вижте [документацията за кода](https://www.npmjs.com/package/@rmw/deepl-markdown-translate) за повече подробности

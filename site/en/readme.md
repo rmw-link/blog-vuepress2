@@ -2,13 +2,13 @@
 
 Today the Internet is like a sickly feudal dynasty, with oligarchs completing the annexation of land, monopolizing the data created by the people, and sitting on the land rent.
 
-Information sorting is manipulated and social relationships are locked up. The platform is the God of the meta-universe, living and dying, and those who question are demoted and banned.
+Information sorting is manipulated and social relationships are locked up. The platform is the God of the meta-universe, living and dying, and those who question are downgraded and banned.
 
-Like a fish on an anvil. I don't like this world and I want to seek change.
+Like fish on anvil. I don't like this kind of world, and I want to seek change.
 
-I want to rebuild a new Internet: **let everyone own their own data. Let the people's data belong to the people.**
+I want to reconstruct a new Internet: let everyone own their **own data. Let the people's data belong to the people.**
 
-So today, I started this project - rmw.link.
+So, today, I started this project - rmw.link.
 
 ![rmw.link标语图](/slogan.svg)
 
@@ -18,9 +18,9 @@ Today's Internet is designed based on a client-server architecture.
 
 The client uploads the content to the server, and the server distributes the data to the viewer.
 
-In a client-server architecture, there is no equality of power between the two parties.
+In the client-server architecture, there is no equality of power between the two parties.
 
-The server owns all the data, and the client can only beg permission from the server to make itself visible.
+The server owns all the data, while the client can only beg permission from the server to make itself visible.
 
 The root cause of today's oligarchically-controlled world of the Internet is this illogical architectural design.
 
@@ -34,13 +34,13 @@ In this way, data affirmative action is achieved. Each person has his or her own
 
 Based on the decentralization of content storage and distribution, a decentralized credit system can be further developed.
 
-Each person can rent storage and bandwidth, storing idle resources in exchange for another person's storage bandwidth (called credit when unused).
+Each person can rent storage and bandwidth, storing idle resources in exchange for another person's storage bandwidth (called a credit when unused).
 
 For example, you can encrypt and back up your own files to someone else's machine.
 
 Similarly, the storage and bandwidth can be paid to the webmaster of the site as a subscription fee.
 
-The webmaster, in turn, has a lot of storage and bandwidth because of his fans' subscriptions, which he can further resell to make money to profit and support his family.
+The webmaster, in turn, has a lot of storage and bandwidth because of the subscriptions of his fans, which he can further resell to make money to profit and support his family.
 
 In my opinion, the many blockchain virtual coins that consume a lot of resources to calculate meaningless hashes can only be a waste of electricity and not environmentally friendly.
 
@@ -58,7 +58,7 @@ For example, a group of long-term online, long-lasting operation of the credit l
 
 After a certain economy of scale is formed, people can even raise funds for the credit amount and distribute dividends for the credit amount.
 
-With credit and dividends, we can stimulate the development and growth of the sharing economy, increase the use of idle resources, and stimulate human initiative to create value.
+With credit and dividends, we can stimulate the development and growth of the sharing economy, increase the utilization rate of idle resources, and stimulate the initiative of human beings to create value.
 
 Of course, there will be many difficulties and obstacles in the technical details to achieve all this.
 

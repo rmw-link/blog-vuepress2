@@ -4,9 +4,9 @@ Vandaag de dag is het internet als een ziekelijke feodale dynastie, met oligarch
 
 Het sorteren van informatie wordt gemanipuleerd, sociale relaties worden opgesloten. Platforms zijn de goden van het meta-universum, levend en stervend, en zij die hen in twijfel trekken worden gedegradeerd en verbannen.
 
-Als een vis op een aambeeld. Ik hou niet van deze wereld en ik wil verandering zoeken.
+Zoals vissen op aambeelden. Ik hou niet van deze wereld en ik wil verandering zoeken.
 
-Ik wil een nieuw internet heropbouwen: een wereld **waarin iedereen** eigenaar is van zijn eigen gegevens. **Laat de gegevens van het volk aan het volk toebehoren.**
+Ik wil een nieuw internet heropbouwen: **iedereen** eigenaar laten zijn van zijn gegevens. **Laat de gegevens van het volk aan het volk toebehoren.**
 
 Dus vandaag, begin ik dit project - rmw.link.
 
@@ -16,7 +16,7 @@ Dus vandaag, begin ik dit project - rmw.link.
 
 Het Internet van vandaag is ontworpen op basis van een client-server architectuur.
 
-De client uploadt de inhoud naar de server en de server distribueert de gegevens naar de kijker.
+De client uploadt inhoud naar de server en de server distribueert de gegevens naar de kijker.
 
 In een client-server architectuur is er geen gelijkheid van macht tussen de twee partijen.
 
@@ -28,7 +28,7 @@ En om dit alles te veranderen, moet men gewoon anders denken.
 
 Ieder slaat de gegevens die hij creëert op en verspreidt ze onder zijn abonnees.
 
-De abonnees zouden ook gegevens onder elkaar kunnen verspreiden, zodat er geen servers meer nodig zijn.
+Abonnees zouden ook gegevens onder elkaar kunnen verspreiden, waardoor er geen servers meer nodig zijn.
 
 Op die manier wordt de gegevensvereffening tot stand gebracht. Elke persoon heeft zijn eigen datasoevereiniteit.
 
@@ -40,7 +40,7 @@ U kunt bijvoorbeeld uw eigen bestanden versleuteld back-uppen op de machine van 
 
 Ook de opslagruimte en de bandbreedte kunnen als abonnementsgeld aan de webmaster van de site worden betaald.
 
-De webmaster heeft op zijn beurt veel opslagruimte en bandbreedte door de abonnementen van zijn fans, die hij verder kan doorverkopen om geld te verdienen en zijn gezin te voeden.
+De webmaster heeft op zijn beurt veel opslagruimte en bandbreedte door de abonnementen van zijn fans, die hij verder kan doorverkopen om geld te verdienen om winst te maken en zijn gezin te voeden.
 
 Naar mijn mening kunnen de vele virtuele munten op de blockchain die veel grondstoffen verbruiken om betekenisloze hashes te berekenen, alleen maar een verspilling van elektriciteit en niet milieuvriendelijk zijn.
 

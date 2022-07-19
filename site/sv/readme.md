@@ -4,17 +4,17 @@ I dag är Internet som en sjuklig feodal dynasti, med oligarker som fullbordar a
 
 Informationssortering manipuleras, sociala relationer låses in. Plattformarna är metauniversums gudar, de lever och dör, och de som ifrågasätter dem degraderas och förbjuds.
 
-Som en fisk på ett städ. Jag tycker inte om den här världen och jag vill försöka förändra den.
+Som fiskar på städ. Jag tycker inte om den här världen och jag vill försöka förändra den.
 
-Jag vill bygga upp ett nytt Internet: en värld där **alla** äger sina egna data. **Låt folkets uppgifter tillhöra folket.**
+Jag vill bygga upp ett nytt Internet: **alla ska få** äga sina data. **Låt folkets uppgifter tillhöra folket.**
 
-I dag startar jag därför detta projekt - rmw.link.
+I dag startar jag alltså detta projekt - rmw.link.
 
 ![rmw.link标语图](/slogan.svg)
 
 ## Hur bygger vi ett lika internet för alla?
 
-Dagens Internet är utformat enligt en klient-server-arkitektur.
+Internet är i dag utformat enligt en klient-server-arkitektur.
 
 Klienten laddar upp innehåll till servern och servern distribuerar data till tittaren.
 
@@ -40,7 +40,7 @@ Du kan till exempel säkerhetskopiera dina egna filer krypterade till någon ann
 
 På samma sätt kan lagring och bandbredd betalas till webbplatsens webmaster som en abonnemangsavgift.
 
-Webmastern har i sin tur mycket lagringsutrymme och bandbredd tack vare fansens prenumerationer, som han kan sälja vidare för att tjäna pengar och försörja sin familj.
+Webmastern har i sin tur mycket lagringsutrymme och bandbredd på grund av fansens prenumerationer, som han kan sälja vidare för att tjäna pengar och försörja sin familj.
 
 Jag anser att de många virtuella blockchain-mynt som förbrukar mycket resurser för att beräkna meningslösa hashkoder bara kan vara ett slöseri med el och inte miljövänliga.
 
@@ -54,7 +54,7 @@ Ordets eld kommer aldrig att slockna, och civilisationen kommer alltid att föra
 
 Jag tror att digitala motsvarigheter med ett mer praktiskt värde (bandbredd, lagring) kommer att ersätta dem och bygga upp ett helt nytt system av kreditpengar för den digitala världen.
 
-Till exempel skulle krediterna från en grupp långvariga online-depositionsnoder som fungerar kontinuerligt kunna bilda en valutakorg som skulle fungera som den virtuella världens universella motsvarighet och kallas "rmw.link-mynt".
+Till exempel skulle krediterna från en grupp långvariga online-depositionsknutar som fungerar kontinuerligt kunna bilda en valutakorg som skulle fungera som den virtuella världens universella motsvarighet och kallas "rmw.link-mynt".
 
 När en viss stordriftsekonomi har skapats kan man till och med samla in medel för att bevilja krediter och utdelningar för att bevilja krediter.
 

@@ -2,7 +2,7 @@
 
 Tirgū pieejamie marķējuma tulkošanas rīki ir problemātiski un nedarbojas labi.
 
-Piemēram, ja lietojat [menthays/markdown-translator](https://github.com/menthays/markdown-translator), lai tulkotu marķējuma tekstu, tas tulko
+Piemēram, ja lietojat [menthays/markdown-translator](https://github.com/menthays/markdown-translator), lai tulkotu marķējuma tekstu, tas tulko šādu tekstu
 
 `对 [libmdbx](https://github.com/erthink/libmdbx) 的 rust 封装`
 

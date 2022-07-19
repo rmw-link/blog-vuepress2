@@ -1,12 +1,12 @@
 # Prológ
 
-Dnes je internet ako chorá feudálna dynastia, kde oligarchovia dokončujú anexiu pôdy, monopolizujú údaje vytvorené ľuďmi a sedia na pozemkovej rente.
+Dnes je internet ako chorá feudálna dynastia, kde oligarchovia dokončili anexiu pôdy, monopolizovali údaje vytvorené ľuďmi a sedia na pozemkovej rente.
 
 Manipuluje sa s triedením informácií, sociálne vzťahy sú uzavreté. Platformy sú bohovia metavesmíru, žijú a umierajú, a tí, ktorí ich spochybňujú, sú degradovaní a zakázaní.
 
-Ako ryba na kovadline. Tento svet sa mi nepáči a chcem sa usilovať o zmenu.
+Ako ryby na kovadline. Tento svet sa mi nepáči a chcem sa usilovať o zmenu.
 
-Chcem obnoviť nový internet: svet, **v ktorom každý** vlastní svoje vlastné údaje. **Nech údaje ľudí patria ľuďom.**
+Chcem obnoviť nový internet: aby **každý** vlastnil svoje údaje. **Nech údaje ľudí patria ľuďom.**
 
 Takže dnes začínam tento projekt - rmw.link.
 
@@ -40,7 +40,7 @@ Môžete napríklad zálohovať svoje vlastné súbory zašifrované do cudzieho
 
 Podobne aj úložisko a šírka pásma sa môžu platiť správcovi webu ako predplatné.
 
-Webmaster má zase vďaka predplatnému od svojich fanúšikov k dispozícii veľa úložného priestoru a šírky pásma, ktoré môže ďalej predávať, aby zarobil peniaze a uživil svoju rodinu.
+Webmaster má zasa vďaka predplatnému od svojich fanúšikov k dispozícii veľa úložného priestoru a šírky pásma, ktoré môže ďalej predávať, aby zarobil peniaze a podporil svoju rodinu.
 
 Podľa môjho názoru môžu byť mnohé virtuálne mince blockchainu, ktoré spotrebúvajú veľa zdrojov na výpočet nezmyselných hashov, len plytvaním elektrickou energiou a nie sú šetrné k životnému prostrediu.
 
@@ -54,7 +54,7 @@ Oheň Slova nikdy nezhasne a civilizácia sa bude vždy odovzdávať ďalej. Bit
 
 Verím, že ich nahradia digitálne ekvivalenty s väčšou praktickou hodnotou (šírka pásma, úložisko) a vytvoria úplne nový systém kreditných peňazí pre digitálny svet.
 
-Napríklad kredit skupiny dlhodobo online fungujúcich vkladových uzlov by mohol vytvoriť menový kôš, ktorý by slúžil ako univerzálny ekvivalent virtuálneho sveta, nazývaný "rmw.link coin".
+Napríklad kredit skupiny depozitných uzlov, ktoré sú dlhodobo online a fungujú trvalo, by mohol vytvoriť menový kôš, ktorý by slúžil ako univerzálny ekvivalent virtuálneho sveta, nazývaný "rmw.link coin".
 
 Po vytvorení určitej úspory z rozsahu možno dokonca získavať finančné prostriedky na poskytovanie úverov a dividendy na poskytovanie úverov.
 

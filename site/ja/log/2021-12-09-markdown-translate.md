@@ -28,6 +28,6 @@
 
 ![](https://raw.githubusercontent.com/gcxfd/img/gh-pages/CytFEw.png)
 
-翻訳には [deeplの`api key`、](https://www.deepl.com/pro-api)まずリクエストしてください。(開設には米国のクレジットカードが必要です。必要な場合は、 `i@rmw.link` にメールでお問い合わせください）。
+翻訳には [deeplの`api key` 、](https://www.deepl.com/pro-api)まずリクエストしてください。(開設には米国のクレジットカードが必要です。必要な場合は、 `i@rmw.link` にメールしてください）。
 
 詳しくは[コードドキュメントを](https://www.npmjs.com/package/@rmw/deepl-markdown-translate)ご覧ください

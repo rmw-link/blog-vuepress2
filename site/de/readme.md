@@ -2,11 +2,11 @@
 
 Heute gleicht das Internet einer kränkelnden Feudaldynastie, in der Oligarchen die Aneignung von Grund und Boden vollenden, die von den Menschen geschaffenen Daten monopolisieren und auf den Landrenten sitzen.
 
-Die Sortierung von Informationen wird manipuliert, soziale Beziehungen werden unter Verschluss gehalten. Plattformen sind die Götter des Meta-Universums, sie leben und sterben, und wer sie in Frage stellt, wird degradiert und verbannt.
+Die Sortierung von Informationen wird manipuliert, soziale Beziehungen werden verschlossen. Plattformen sind die Götter des Meta-Universums, sie leben und sterben, und wer sie in Frage stellt, wird degradiert und verbannt.
 
-Wie ein Fisch auf einem Amboss. Mir gefällt diese Welt nicht und ich möchte sie verändern.
+Wie Fische auf Ambossen. Mir gefällt diese Welt nicht und ich möchte sie verändern.
 
-Ich möchte ein neues Internet aufbauen: eine Welt **, in der jeder** über seine eigenen Daten verfügt. **Die Daten des Volkes sollen dem Volk gehören.**
+Ich möchte ein neues Internet aufbauen: **Jeder** soll Eigentümer seiner Daten werden. **Die Daten des Volkes sollen dem Volk gehören.**
 
 Deshalb beginne ich heute dieses Projekt - rmw.link.
 
@@ -40,7 +40,7 @@ So können Sie beispielsweise Ihre eigenen Dateien verschlüsselt auf dem Rechne
 
 Ebenso können der Speicherplatz und die Bandbreite als Abonnementgebühr an den Webmaster der Website gezahlt werden.
 
-Der Webmaster wiederum verfügt dank der Abonnements seiner Fans über viel Speicherplatz und Bandbreite, die er weiterverkaufen kann, um Geld zu verdienen und seine Familie zu ernähren.
+Der Webmaster wiederum verfügt dank der Abonnements seiner Fans über eine Menge Speicherplatz und Bandbreite, die er weiterverkaufen kann, um Geld zu verdienen und seine Familie zu ernähren.
 
 Meiner Meinung nach können die vielen virtuellen Blockchain-Münzen, die eine Menge Ressourcen verbrauchen, um sinnlose Hashes zu berechnen, nur eine Verschwendung von Strom und nicht umweltfreundlich sein.
 
@@ -48,13 +48,13 @@ Natürlich hat der Bitcoin seine historische Bedeutung.
 
 Es war das erste Mal, dass die Welt erkannte, dass es noch so viel mehr Programme gibt, dass der Glaube einen Preis hat und dass ich an ein solides Ich glaube.
 
-Es war das erste Mal, dass das Finanzsystem in das digitale Universum eingebettet wurde, wie Prometheus, der das Feuer des Himmels auf die Erde stahl.
+Es war das erste Mal, dass das Finanzsystem in das digitale Universum eingebettet wurde, so wie Prometheus das Feuer des Himmels auf die Erde stahl.
 
 Das Feuer des Wortes wird nie erlöschen, und die Zivilisation wird immer weitergegeben werden. Bitcoin ist der neue Anfang, nicht das Ende der Geschichte der menschlichen digitalen Zivilisation.
 
 Ich glaube, dass digitale Äquivalente mit mehr praktischem Wert (Bandbreite, Speicherplatz) auftauchen und sie ersetzen werden und ein ganz neues Kreditgeldsystem für die digitale Welt schaffen werden.
 
-So könnte zum Beispiel das Guthaben einer Gruppe von dauerhaft online arbeitenden Depotknoten eine Korbwährung bilden, die als universelles Äquivalent der virtuellen Welt dienen würde, genannt "rmw.link coin".
+Zum Beispiel könnte das Guthaben einer Gruppe von Depotknoten, die lange Zeit online sind und beständig arbeiten, eine Korbwährung bilden, die als universelles Äquivalent der virtuellen Welt dienen würde, genannt "rmw.link coin".
 
 Wenn eine gewisse Größenordnung erreicht ist, können sogar Mittel für die Vergabe von Krediten und Dividenden für die Vergabe von Krediten aufgebracht werden.
 

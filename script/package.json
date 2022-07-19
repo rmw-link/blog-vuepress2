@@ -9,7 +9,7 @@
     "blake3": "^2.1.7",
     "html-minifier-terser": "^6.1.0",
     "md-padding": "^1.1.1",
-    "msgpackr": "^1.5.6",
+    "msgpackr": "^1.6.1",
     "p-limit": "^4.0.0"
   }
 }

@@ -8,15 +8,15 @@ Jos esimerkiksi käytät [menthays/markdown-kääntäjää](https://github.com/m
 
 osoitteeseen
 
-`Right [libmdbx](https://github.com/erthink/libmdbx) The rust package of`Syy tähän on se, että se jakaa tekstin seuraaviin osiin
+`Right [libmdbx](https://github.com/erthink/libmdbx) The rust package of`Tämä johtuu siitä, että se jakaa tekstin seuraaviin osiin
 
 Tämä johtuu siitä, että se jakaa tekstin osoitteeseen `{ text: '对 ' },{ text: 'libmdbx' },{ text: ' 的 rust 封装' }`, jotta se voidaan kääntää erikseen.
 
-Jos käytät jotain muuta, kuten [kaksikielistä](https://github.com/zjp-CN/bilingual/issues/22), linkin tyyli ei säily [.](https://github.com/zjp-CN/bilingual/issues/22)
+Jos käytät jotain muuta, kuten [kaksikielistä](https://github.com/zjp-CN/bilingual/issues/22), linkin tyyli ei säily.
 
 Kirjoitin `@rmw/deepl-markdown-translate` ratkaistakseni useita ongelmia ja tukeakseni
 
-* `rust` koodin kommenttitekstin kääntäminen.
+* `rust` -koodin kommenttitekstin kääntäminen.
 * ei käännetä konfigurointikenttiä [vuepressissä](https://v2.vuepress.vuejs.org/zh/reference/default-theme/frontmatter.html#prev)
 * Rivikohtainen välimuistitallennus käännöskustannusten säästämiseksi
 

@@ -1,12 +1,12 @@
 # Proloog
 
-Tänapäeval on internet nagu haige feodaalne dünastia, kus oligarhid viivad lõpule maa annekteerimise, monopoliseerivad inimeste loodud andmeid ja istuvad maa rendi peal.
+Tänapäeval on Internet nagu haige feodaalne dünastia, kus oligarhid viivad lõpule maa annekteerimise, monopoliseerivad inimeste loodud andmeid ja istuvad maa rendi peal.
 
 Teabe sorteerimine on manipuleeritud, sotsiaalsed suhted on lukustatud. Platvormid on meta-universumi jumalad, kes elavad ja surevad, ning need, kes neid kahtluse alla seavad, alandatakse ja keelatakse.
 
-Nagu kala põrgul. Mulle ei meeldi see maailm ja ma tahan otsida muutusi.
+Nagu kalad anvillal. Mulle ei meeldi see maailm ja ma tahan otsida muutusi.
 
-Ma tahan ehitada üles uue interneti: maailma, **kus igaüks** on oma andmete omanik. **Andmed kuulugu rahva andmed rahvale.**
+Ma tahan ehitada üles uue interneti: **lasta igaühel** oma andmeid omada. **Andmed kuulugu rahva andmed rahvale.**
 
 Nii et täna ma alustan seda projekti - rmw.link.
 
@@ -40,7 +40,7 @@ Näiteks saate varundada oma faile krüpteeritult kellegi teise masinale.
 
 Samamoodi võib salvestusruumi ja ribalaiuse eest maksta veebilehe haldajale liitumistasu.
 
-Veebimeistril on omakorda palju salvestusruumi ja ribalaiust tänu fännide tellimustele, mida ta saab edasi müüa, et teenida raha ja toetada oma perekonda.
+Veebimeistril on omakorda palju salvestusruumi ja ribalaiust tänu oma fännide tellimustele, mida ta saab edasi müüa, et teenida kasumit ja toita oma perekonda.
 
 Minu arvates on paljud plokiahela virtuaalsed mündid, mis tarbivad palju ressursse mõttetute hashide arvutamiseks, ainult elektri raiskamine ja mitte keskkonnasõbralik.
 
@@ -54,11 +54,11 @@ Sõna tuli ei kustu kunagi ja tsivilisatsioon läheb alati edasi. Bitcoin on ini
 
 Ma usun, et digitaalseid ekvivalente, millel on suurem praktiline väärtus (ribalaius, salvestusruum), tõuseb üles ja asendab need ning loob täiesti uue krediidirahasüsteemi digitaalse maailma jaoks.
 
-Näiteks võiks pikaajaliste, püsivalt töötavate veebipõhiste hoiusõlmede rühma krediit moodustada korvvaluuta, mis oleks virtuaalmaailma universaalne ekvivalent, mida nimetataks "rmw.link coin" (rmw.link münt).
+Näiteks pikaajaliselt võrgus olevate ja püsivalt tegutsevate hoiusõlmede rühma krediit võiks moodustada korviraha, mis oleks virtuaalmaailma universaalne ekvivalent, mida nimetatakse "rmw.link coiniks" (rmw.link coin).
 
 Kui on loodud teatav mastaabisääst, võib isegi koguda vahendeid, et anda krediiti ja dividende, et anda krediiti.
 
-Krediidi ja dividendide abil saab stimuleerida jagamismajanduse arengut ja kasvu, suurendades kasutamata ressursside kasutamist ja ergutades inimalgatust väärtuse loomiseks.
+Krediidi ja dividendide abil saab stimuleerida jagamismajanduse arengut ja kasvu, suurendades kasutamata ressursside kasutamist ja stimuleerides inimeste algatust väärtuse loomiseks.
 
 Loomulikult on tehniliste üksikasjadega seotud palju raskusi ja takistusi, et seda kõike ellu viia.
 
