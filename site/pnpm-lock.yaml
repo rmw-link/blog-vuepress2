@@ -4,6 +4,7 @@ specifiers:
   '@rmw/markdown-it-include': ^2.0.4
   '@vueuse/core': ^8.9.4
   markdown-it-footnote: ^3.0.3
+  palette: link:@vuepress/plugin-palette/palette
   rollup-plugin-coffee2: ^0.1.16
   rollup-plugin-pug: ^1.1.1
   stylus: ^0.58.1
@@ -19,6 +20,7 @@ devDependencies:
   '@rmw/markdown-it-include': 2.0.4
   '@vueuse/core': 8.9.4_vue@3.2.37
   markdown-it-footnote: 3.0.3
+  palette: link:@vuepress/plugin-palette/palette
   rollup-plugin-coffee2: 0.1.16
   rollup-plugin-pug: 1.1.1
   stylus: 0.58.1
