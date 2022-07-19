@@ -2,13 +2,13 @@
   "devDependencies": {
     "@rmw/rollup-plugin-coffee": "^0.1.21",
     "coffeescript": "^2.7.0",
-    "concurrently": "^7.1.0",
+    "concurrently": "^7.3.0",
     "rollup-plugin-pug": "^1.1.1",
     "source-map-support": "^0.5.21",
-    "stylus": "^0.57.0"
+    "stylus": "^0.58.1"
   },
   "dependencies": {
-    "html-minifier-terser": "^7.0.0-alpha.2",
+    "html-minifier-terser": "^7.0.0-beta.0",
     "json5": "^2.2.1"
   }
 }
