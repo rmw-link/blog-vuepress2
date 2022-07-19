@@ -6,7 +6,7 @@ cd $_DIR
 
 set -ex
 
-./script/hook.coffee
+#./script/hook.coffee
 git add -u
 git commit -m"." | true
 git pull
