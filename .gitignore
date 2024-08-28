@@ -1,0 +1,17 @@
+node_modules/
+
+.temp/
+.cache/
+
+
+site/.vuepress/*
+!site/.vuepress/theme
+!site/.vuepress/styles/
+site/.vuepress/theme/**/*.js
+!site/.vuepress/i18n/
+site/.vuepress/i18n/zh
+site/.vuepress/i18n/en
+script/cache
+
+*.log
+sitemap.xml

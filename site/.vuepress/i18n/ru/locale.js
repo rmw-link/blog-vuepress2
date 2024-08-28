@@ -1,0 +1,1 @@
+module.exports = {lang:'ru',title:'rmw.link',description:'Долой гегемонию данных · Киберлендская революция'}

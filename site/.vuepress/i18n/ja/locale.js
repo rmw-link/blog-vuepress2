@@ -1,0 +1,1 @@
+module.exports = {lang:'ja',title:'rmw.link',description:'データヘゲモニーとの決別 · Cyberland Revolution'}
