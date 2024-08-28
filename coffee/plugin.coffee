@@ -1,10 +1,10 @@
 #!/usr/bin/env coffee
 
-fs = require 'fs'
-{ path } = require('@vuepress/utils')
+import markdownIt from './markdown-it-plugin'
+# { path } = require('@vuepress/utils')
 
-module.exports = {
+export default {
   name:'rmw-markdown'
   multiple: false
-  extendsMarkdown: require './markdown-it-plugin'
+  extendsMarkdown: markdownIt
 }

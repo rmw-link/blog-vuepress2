@@ -1,10 +1,14 @@
 #!/usr/bin/env coffee
 
-{path} = require '@vuepress/utils'
-coffee = require '@rmw/rollup-plugin-coffee'
-pug = require 'rollup-plugin-pug'
-module.exports = require('./file_url') {
+import {path} from '@vuepress/utils'
+import coffee from '@rmw/rollup-plugin-coffee'
+import pug from 'rollup-plugin-pug'
+import file_url from './file_url'
+import myplugin from './plugin'
+
+module.exports = file_url {
 plugins : [
+  myplugin
   [
     '@vuepress/plugin-palette'
     {
@@ -25,11 +29,6 @@ bundlerConfig:
       preprocessorOptions:
         scss:
           charset: false
-
-plugins:[
-  require './plugin'
-]
-
 markdown:
   breaks: true
   linkify: true

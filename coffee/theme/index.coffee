@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-{ path } = require '@vuepress/utils'
+import { path } from '@vuepress/utils'
 
 module.exports = {
   name: 'rmw-theme'

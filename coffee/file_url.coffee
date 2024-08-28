@@ -1,9 +1,10 @@
 #!/usr/bin/env coffee
 
-{dirname,join} = require 'path'
-fs = require 'fs'
-walk = require './lib/walk'
-readline = require('readline')
+import {dirname,join} from 'path'
+import fs from 'fs'
+import walk from './lib/walk'
+import lang_li from './lang'
+import readline from 'readline'
 
 module.exports = (config)=>
   pwd = __dirname
@@ -12,11 +13,11 @@ module.exports = (config)=>
   config.locales = {}
   themeConfig.locales = theme = {}
   i18n = join(pwd, 'i18n')
-  for lang from require './lang'
+  for lang from lang_li
     url = '/'+lang
 
-    config.locales[url] = require join i18n, lang,'locale'
-    t = theme[url] = require join i18n, lang,'theme'
+    config.locales[url] = (await import join i18n, lang,'locale').default
+    t = theme[url] = (await import join i18n, lang,'theme').default
 
     url += '/'
     t.sidebar = sidebar = []

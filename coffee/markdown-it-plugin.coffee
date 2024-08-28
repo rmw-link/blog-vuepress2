@@ -1,11 +1,13 @@
 #!/usr/bin/env coffee
 
-{join,dirname} = require 'path'
+import {join,dirname} from 'path'
+import markdownItFootnote from 'markdown-it-footnote'
+import markdownItInclude from '@rmw/markdown-it-include'
 
 module.exports = (md)=>
-  md.use(require 'markdown-it-footnote')
+  md.use(markdownItFootnote)
   md.use(
-    require '@rmw/markdown-it-include'
+    markdownItInclude
     join(dirname(dirname(__dirname)), "include")
   )
 

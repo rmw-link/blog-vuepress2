@@ -1,5 +1,5 @@
-{opendir, readlink, stat} = require 'fs/promises'
-{dirname, join, normalize} = require "path"
+import {opendir, readlink, stat} from 'fs/promises'
+import {dirname, join, normalize} from "path"
 
 walk = (dir) ->
   for await d from await opendir(dir)

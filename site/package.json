@@ -12,6 +12,7 @@
     "vuepress-vite": "=2.0.0-rc.0"
   },
   "dependencies": {
+    "@vuepress/utils": "2.0.0-rc.2",
     "vue": "^3"
   },
   "resolutions": {},
